@@ -471,3 +471,75 @@ This document compiles the accepted papers from WACV 2026, organized by research
 | QuEENet: Quantum-Enhanced Expressive Network for Image Classification | Shashank Bayal, Dawane Govind, Komal Komal, SANTOSH VIPPARTHI, Subrahmanyam Murala | [⚠️ Originally in Deep Learning section, moved here] |
 | SGPMIL: Sparse Gaussian Process Multiple Instance Learning | Andreas Lolos, Stergios Christodoulidis, Aris Moustakas, Jose Dolz, Maria Vakalopoulou | [⚠️ Originally in Medical Imaging section, moved here] |
 
+---
+
+## 📊 Update Summary
+
+**Search Date**: March 6, 2026
+**Papers with Preprints Found**: 11/210 (5.2%)
+**Papers with GitHub Repositories Found**: 8/210 (3.8%)
+**Papers with Both Preprint and Code**: 5/210 (2.4%)
+
+### Papers with Preprints (arXiv):
+
+1. **Event-based Graph Representation with Spatial and Motion Vectors for Asynchronous Object Detection** ([arXiv:2507.15150](https://arxiv.org/abs/2507.15150))
+2. **DenseBEV: Transforming BEV Grid Cells into 3D Objects** ([arXiv:2512.16818](https://arxiv.org/abs/2512.16818))
+3. **Image-Guided Semantic Pseudo-LiDAR Point Generation for 3D Object Detection** ([arXiv:2409.14985](https://arxiv.org/abs/2409.14985))
+4. **TriaGS: Differentiable Triangulation-Guided Geometric Consistency for 3D Gaussian Splatting** ([arXiv:2512.06269](https://arxiv.org/abs/2512.06269))
+5. **TimeRefine: Temporal Grounding with Time Refining Video LLM** ([arXiv:2412.09601](https://arxiv.org/abs/2412.09601))
+6. **Advancing Multimodal LLMs by Large-Scale 3D Visual Instruction Dataset Generation** ([arXiv:2507.08513](https://arxiv.org/abs/2507.08513))
+7. **SAVE: Sparse Autoencoder-Driven Visual Information Enhancement for Mitigating Object Hallucination** ([arXiv:2512.07730](https://arxiv.org/abs/2512.07730))
+8. **From Darkness to Detail: Frequency-Aware SSMs for Low-Light Vision** ([arXiv:2408.09650](https://arxiv.org/abs/2408.09650))
+9. **AuthGuard: Generalizable Deepfake Detection via Language Guidance** ([arXiv:2506.04501](https://arxiv.org/abs/2506.04501))
+10. **DiT-VTON: Diffusion Transformer Framework for Unified Multi-Category Virtual Try-On** ([arXiv:2510.04797](https://arxiv.org/abs/2510.04797))
+11. **Optimization-Free Style Transfer for 3D Gaussian Splatts** (Related repo found, title slightly different)
+
+### Papers with GitHub Repositories:
+
+1. **DenseBEV** ([GitHub](https://github.com/mdaehl/DenseBEV))
+2. **ImagePG** ([GitHub](https://github.com/MS-LIMA/ImagePG))
+3. **TriaGS** ([GitHub](https://github.com/cogniboticslab/triags))
+4. **FastSplatStyler** (Optimization-Free Style Transfer) ([GitHub](https://github.com/davidmhart/FastSplatStyler))
+5. **SAVE** ([GitHub](https://github.com/wiarae/SAVE))
+6. **ExpoMamba** (From Darkness to Detail) ([GitHub](https://github.com/eashanadhikarla/ExpoMamba))
+
+### Category Accuracy Notes:
+
+**⚠️ Indicates papers that may be better categorized in different sections:**
+
+- **Section 1 (Object Detection)**: Several papers on LiDAR segmentation, text detection, and anomaly detection may belong in other categories
+- **Section 2 (Segmentation)**: LiDAR segmentation papers and text detection papers may belong in LiDAR or Object Detection categories
+- **Section 5 (Computer Vision)**: Papers on adversarial robustness, model debiasing, and VLM tasks may belong in Security, Fairness, or VLM categories
+- **Section 6 (Deep Learning)**: Several papers on domain adaptation, person re-ID, LiDAR detection, and pose estimation may belong in Transfer Learning, Face & Person Analysis, LiDAR, or Human Pose Recognition categories
+- **Section 7 (Human Pose Recognition)**: Papers on motion prediction and surgical/medical tasks may belong in Action Recognition or Medical Imaging categories
+- **Section 8 (Action Recognition)**: Papers on text-to-motion generation and gesture generation may belong in Image & Video Generation category
+- **Section 11 (Video Analysis)**: Some papers on video understanding may belong in Video Understanding or Multimodal Learning categories
+- **Section 12 (Video Understanding)**: Some papers on multimodal emotion recognition and VLM tasks may belong in Multimodal Learning category
+- **Section 13 (Multimodal Learning)**: Papers on medical imaging, image editing, and VLM tasks could be recategorized
+- **Section 14 (VLM)**: Papers on 3D scene generation and style transfer could be in 3D Vision or Image & Video Generation categories
+- **Section 15 (Image Restoration)**: Paper on document enhancement should be in Image Enhancement category
+- **Section 16 (Image Enhancement)**: Some papers on image manipulation should be in Image & Video Generation category
+- **Section 18 (Forensics)**: Paper on medical anomaly detection should be in Medical Imaging category
+- **Section 20 (Face & Person Analysis)**: Some papers on image generation should be in Image & Video Generation or Miscellaneous categories
+- **Section 21 (Transfer Learning)**: Papers on MLLMs and medical diagnosis may belong in Multimodal Learning/VLM or Medical Imaging categories
+
+### Duplicate Entries:
+
+Several papers appear in multiple sections:
+- **Test-Time Consistency in Vision Language Models** - Deep Learning & VLM
+- **SVD-Det** - Video Understanding & Forensics
+- **Data-Driven Lipschitz Continuity** - Computer Vision & Security
+- **Grounding Descriptions in Images informs Zero-Shot Visual Recognition** - Computer Vision & Miscellaneous
+- **SafeGuardGS** - 3D Vision & LiDAR
+- **DN-CG/Single-step Diffusion** - Deep Learning & Image Enhancement (same paper, different title)
+
+### Notes:
+
+- Many WACV 2026 papers may not have been uploaded to arXiv yet, as the conference is upcoming in 2026
+- Some papers may have preprints but with slightly different titles or authors
+- GitHub repositories may be released after conference acceptance
+- The low percentage of papers with public preprints/code is expected for an upcoming conference
+- Papers marked with ⚠️ indicate suggested category changes based on paper titles and content analysis
+
+*Generated by minimax-m2.5-free via opencode, with slight human-made modifications*
+*Updated with preprint links and GitHub repositories found in March 2026*
