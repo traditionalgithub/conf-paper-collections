@@ -1,0 +1,833 @@
+Title	Authors
+MMCM: Multimodality-aware Metric using Clustering-based Modes for Probabilistic Human Motion Prediction	Kyotaro Tokoro , Hiromu Taketsugu , Norimichi Ukita
+PaRaChute: Pathology-Radiology Cross-Modal Fusion for Missing-Modality-Robust Survival Prediction	Pietro Caforio , Isabella Poles , Marco Santambrogio
+3DSceneEditor: Controllable 3D Scene Editing with Gaussian Splatting	Ziyang Yan , Yihua Shao , Minwen Liao , Siyu Chen , Nan Wang , Muyuan Lin , Jenq-Neng Hwang , Hao Zhao , Fabio Remondino , Lei Li
+Alignment and Distillation: A Robust Framework for Multimodal Domain Generalizable Human Action Recognition	Hyeonbin Ji , Juyeob Lee , Eunil Park
+BAFLE-DCT: Bypassing Adversarial Filters via Frequency-Selective Embedding in the DCT Domain	Balapuwaduge Mendis , Farah Kandah , Sathya Aakur
+Grounding Descriptions in Images informs Zero-Shot Visual Recognition	Shaunak Halbe , Junjiao Tian , Joseph J , James Smith , Katherine Stevo , Vineeth Balasubramanian , Zsolt Kira
+Joint Optimization of Camera Model and Deep Neural Network for Image Recognition	Youta Noboru , Yuko Ozasa , Masayuki Tanaka
+Low-Rank Expert Merging for Multi-Source Domain Adaptation in Person Re-Identification	Taha Mustapha Nehdi , Nairouz Mrabah , ATIF BELAL , Marco Pedersoli , Eric Granger
+SasMamba: A Lightweight Structure-Aware Stride State Space Model for 3D Human Pose Estimation	Hu Cui , Wenqiang Hua , Renjing Huang , ShuRui Jia , Tessai Hayama
+The Perceptual Observatory Characterizing Robustness and Grounding in MLLMs	Tejas Anvekar , Fenil Bardoliya , Pavan Turaga , Chitta Baral , Vivek Gupta
+Procedure Learning via Regularized Gromov-Wasserstein Optimal Transport	Syed Mahmood , Ali Ali , Umer Ahmed , Fawad Fateh , Zeeshan Zia , Quoc-Huy Tran
+Optimal Transport for Rectified Flow Image Editing: Unifying Inversion-Based and Direct Methods	Marian Lupaşcu , Mihai-Sorin Stupariu
+PRISM-CAFO: Prior-conditioned Remote-sensing Infrastructure Segmentation and Mapping for CAFOs	Oishee Bintey Hoque , Nibir Mandal , Kyle Luong , Mandy Wilson , Samarth Swarup , Madhav Marathe , Abhijin Adiga
+Diffusion Noise Optimization for Synthetic VLM Training	Ren Ohkubo , Rintaro Yanagi , Hirokatsu Kataoka , Yutaka Satoh
+MapleGrasp: Mask-guided Feature Pooling for Language-driven Efficient Robotic Grasping	Vineet Bhat , Naman Patel , Prashanth Krishnamurthy , Ramesh Karri , Farshad Khorrami
+Multi-view stereo with multiple projectors for oneshot entire shape scan based on Neural SDF and DSSS demultiplexing	Kota Nishihara , Ryo Furukawa , Ryusuke Sagawa , Hiroshi Kawasaki
+Interaction-via-Actions: Cattle Interaction Detection with Joint Learning of Action-Interaction Latent Space	Ren Nakagawa , Yang Yang , Risa Shinoda , Hiroaki Santo , Kenji Oyama , Fumio Okura , Takenao Ohkawa
+1LoRA: Summation Compression for Very-Low Rank Adaptation	Alessio Quercia , Zhuo Cao , Arya Bangun , Richard Paul , Abigail Morrison , Ira Assent , Hanno Scharr
+Real-Time Tracking of Flexible Markers in Low-Contrast Fluoroscopy Using a Deep Neural Network Trained Solely on Synthetic Data	Tomoki Uchiyama , Yukinobu Sakata , Ryusuke Hirai , Hitoshi Ishikawa , Shinichiro Mori
+Event-based Graph Representation with Spatial and Motion Vectors for Asynchronous Object Detection	Aayush Verma , Arpitsinh Vaghela , Bharatesh Chakravarthi , Kaustav Chanda , “YZ” Yezhou Yang
+SGPMIL: Sparse Gaussian Process Multiple Instance Learning	Andreas Lolos , Stergios Christodoulidis , Aris Moustakas , Jose Dolz , Maria Vakalopoulou
+DocWaveDiff: A Predict-and-Refine approch for Document Image Enhancement with Wavelet U-Nets and Diffusion models	Matteo Marulli , Marco Bertini
+CAST: Evaluating Multi-Object Trackers with Context-Aware Switch and Transfer Scores	Jin Bai , Gregory Hager
+FARF-Net: Frequency-guided Adaptive Receptive Field Network for Edge-enhanced Polyp Segmentation	Xue Li , Aiwen Jiang , Hongqian Yu , Xiao Yang
+Subspace-Guided Knowledge Distillation for Efficient Model Transfer	Zeeshan Hayder , Ali Cheraghian , Lars Petersson , Mehrtash Harandi
+Unified Control for Inference-Time Guidance of Denoising Diffusion Models	Maurya Goyal , Anuj Singh , Hadi Rad
+SceneEval: Evaluating Semantic Coherence in Text-Conditioned 3D Indoor Scene Synthesis	Hou In Ivan Tam , Hou In Derek Pun , Austin Wang , Angel Chang , Manolis Savva
+InteracTalker: Prompt-Based Human-Object Interaction with Co-Speech Gesture Generation	Sreehari Rajan , Kunal Bhosikar , Charu Sharma
+From Cognitive Priors to Instance Semantics: A Unified Framework for Multi-task Affective Computing	Guanyu Hu , Dimitrios Kollias , Xinyu Yang
+ITSELF: Attention Guided Fine-Grained Alignment for Vision–Language Retrieval	TIEN-HUY NGUYEN , Huu-Loc Tran , Thanh Ngo
+Detecting Out-of-Distribution Objects through Class-Conditioned Inpainting	Quang-Huy Nguyen , Jin Peng Zhou , Zhenzhen Liu , Khanh-Huyen Bui , Kilian Weinberger , Wei-Lun Chao , Dung Le
+Image-Guided Semantic Pseudo-LiDAR Point Generation for 3D Object Detection	MINSEUNG LEE , Seokha Moon , Seung Lee , Reza Mahjourian , Jinkyu Kim
+BrandFusion: Aligning Image Generation with Brand Styles	Parul Gupta , Varun Khurana , Yaman Singla , Balaji Krishnamurthy , Abhinav Dhall
+Structured Context Learning for Generic Event Boundary Detection	Xin Gu , Congcong Li , Xinyao Wang , Dexiang Hong , Libo Zhang , Tiejian Luo , Longyin Wen , Heng Fan
+MooTrack360: A Novel Fisheye Camera Dataset for Robust Multi Diary Cow Detection and Tracking	Rasmus Christiansen , Toan Nguyen , Lasse Malskær , Leon Bodenhagen , Dirk Kraft
+Gaussian Representations for Video	Sachin Shah , Anustup Choudhury , Guan-Ming Su , Jaclyn Pytlarz , Christopher Metzler , Trisha Mittal
+SVD-Det: A Lightweight Framework for Video Forgery Detection Using Semantic and Visual Defect Cues	Tsung-Shan Yang , Tianyu Zhang , Feng Qian , Bing Yan , Chung Chieh Kuo
+Generalized Category Discovery for LiDAR Semantic Segmentation	Minseok Kim , Jiyong Boo , Kuk-Jin Yoon
+Lose Your Self (LoYS): an adversarial entropy-based unsupervised approach for model debiasing	Vito Paolo Pastore , Massimiliano Ciranni , Vittorio Murino
+Learning Mask-Aware Offsets: Two-branch Deformable Attention Networks for Inpainting with Masked Region Avoidance	Hyeongseok Oh , Joonki Paik
+TiCLS : Tightly Coupled Language Text Spotter	Leeje Jang , Yijun Lin , Yao-Yi Chiang , Jerod Weinman
+EmojiDiff: Advanced Facial Expression Control with High Identity Preservation in Portrait Generation	Liangwei Jiang , Ruida Li , Zhifeng Zhang , Shuo Fang , Chenguang Ma
+Towards Reliable Test-Time Adaptation: Style Invariance as a Correctness Likelihood	Gilhyun Nam , Taewon Kim , Joonhyun Jeong , Eunho Yang
+4D Multimodal Co-attention Fusion Network with Latent Contrastive Alignment for Alzheimer's Diagnosis	YUXIANG WEI , Yanteng Zhang , Xi Xiao , Tianyang Wang , Xiao Wang , Vince Calhoun
+DNA: Dual-branch Network with Adaptation for Open-Set Online Handwriting Generation	Tsai-Ling Huang , Nhat-Tuong Do-Tran , Ngoc-Hoang-Lam Le , Hong-Han Shuai , Ching-Chun Huang
+Advancing Multimodal LLMs by Large-Scale 3D Visual Instruction Dataset Generation	Liu He , Xiao Zeng , Yizhi Song , Albert Chen , Lu Xia , Shashwat Verma , Sankalp Dayal , Min Sun , Cheng-Hao Kuo , Daniel Aliaga
+Towards Photorealistic Style Transfer with Multimodal Guidance and Robustness to Content Images in Arbitrary Styles	Ruikai Zhou , Yating Liu , Yi Xu
+Optimizing against Infeasible Inclusions from Data for Semantic Segmentation through Morphology	Shamik Basu , Luc Van Gool , Christos Sakaridis
+ODEt(ODEl): Shortcutting the Time and the Length in Diffusion and Flow Models for Faster Sampling	Denis Gudovskiy , Wenzhao Zheng , Tomoyuki Okuno , Yohei Nakata , Kurt Keutzer
+JOCA: Task-Driven Joint Optimisation of Camera Hardware and Adaptive Camera Control Algorithms	Chengyang Yan , Mitch Bryson , Donald Dansereau
+BiPO: Bidirectional Partial Occlusion Network for Text-to-Motion Synthesis	Seong-Eun Hong , SooBin Lim , JuYeong Hwang , Minwook Chang , Hyeongyeop Kang
+PHYSPLAT: a Framework for Photorealistic Hybrid Simulation of Real and Synthetic Elements using 3D Gaussian Splatting	Mario Alfonso-Arsuaga , Henar Dominguez-Elvira , Jorge Guerrero , Andrea Castiella-Aguirrezabala , Lorenzo Domínguez , Jorge García-González , Maria Naranjo-Almeida , Marc Comino-Trinidad , Jorge Lopez-Moreno
+AUTOCORRELATION-BASED FIDUCIAL MARKERS FOR TRACEABILITY	BENCHEIKH ISMAIL , Max Dunitz , Marie d'Autume , Marc Pic , Enric Meinhardt-Llopis , Gabriele Facciolo , Pablo Musé
+QC-SF: Improving Computer Vision for Airborne LiDAR Point Clouds of Boreal Forests with Quebec Simulated Forest Dataset	Olivier Stocker , Reza Mahmoudi Kouhi , Omid Reisi Gahrouei , Thierry Badard , Eric Guilbert
+ControlEvents: Controllable Synthesis of Event Camera Data with Foundational Prior from Image Diffusion Models	Yixuan Hu , Yuxuan Xue , Simon Klenk , Daniel Cremers , Gerard Pons-Moll
+SurfDist: Interpretable Three-Dimensional Instance Segmentation Using Curved Surface Patches	Jackson Borchardt , Saul Kato
+ReBrain: Brain MRI Reconstruction from Sparse CT Slice via Retrieval-Augmented Diffusion	Junming Liu , Yifei Sun , Weihua Cheng , Yujin Kang , Yirong Chen , Ding Wang , Guosun Zeng
+MSRTrack: LLM-Powered Object Tracking with Motion and Semantic Reasoning	Tong Shen , Di Wang , José Moura
+CONCORD: Concept-Informed Diffusion for Dataset Distillation	Jianyang Gu , Haonan Wang , Ruoxi Jia , Saeed Vahidian , Vyacheslav Kungurtsev , Wei Jiang , Yiran Chen
+Detection-Driven Object Count Optimization for Text-to-Image Diffusion Models	Oz Zafar , Yuval Cohen , Lior Wolf , Idan Schwartz
+Accelerated Dose Generation in Gamma Knife Radiosurgery Using a Wavelet Diffusion Model for Sparse Representation	Sangyoon Lee , Shubhendu Mishra , Yoichi Watanabe
+Uplifting Table Tennis: A Robust, Real-World Application for 3D Trajectory and Spin Estimation	Daniel Kienzle , Katja Ludwig , Julian Lorenz , Shin'ichi Satoh , Rainer Lienhart
+A framework for real-time Surgical Phase Recognition with application to Robot-Assisted Partial Nephrectomy	Marco Mezzina , Tom Vercauteren , Tinne Tuytelaars , Matthew Blaschko
+4D-Animal: Freely Reconstructing Animatable 3D Animals from Videos	Shanshan Zhong , Jiawei Peng , Zehan Zheng , Zhongzhan Huang , Wufei Ma , Guofeng Zhang , Qihao Liu , Alan Yuille , Jieneng Chen
+A Novel Metric for Detecting Memorization in Generative Models for Brain MRI Synthesis	Antonio Scardace , Lemuel Puglisi , Francesco Guarnera , Sebastiano Battiato , Daniele Ravi
+VIZOR: Viewpoint-Invariant Zero-Shot Scene Graph Generation for 3D Scene Reasoning	Madhavaram Vivek Vardhan , Vartika Sengar , Arkadipta De , Charu Sharma
+Semi-supervised Domain Adaptation via Mutual Alignment through Joint Error	Dexuan Zhang , Thomas Westfechtel , Tatsuya Harada
+Fused Similarity Measure Based Alignment with Dual-Scale Adaptive Selection for Weakly Supervised Video Anomaly Detection	Yuegao Lu , Hong-Jie Xing , Chun-Guo Li
+Distilling Diversity and Control in Diffusion Models	Rohit Gandikota , David Bau
+Automated Pore Detection from In-Situ FDM 3D Printing Video: A Comparative Evaluation of Modern Segmentation Models	Abdullah Al Ahad Khan , Md Islam , Lin Li , Lai Jiang , Noushin Ghaffari
+Better Safe Than Sorry? Overreaction Problem of Vision Language Models in Visual Emergency Recognition	Dasol Choi , Seunghyun Lee , Youngsook Song
+FastHMR: Accelerating Human Mesh Recovery via Token and Layer Merging with Diffusion Decoding	Soroush Mehraban , Andrea Iaboni , Babak Taati
+Latent Uncertainty-Aware Multi-View SDF Scan Completion	Faezeh Zakeri , Lukas Ruppert , Raphael Braun , Hendrik Lensch
+SCALEX: Scalable Concept and Latent Exploration for Diffusion Models	Emily Zhixuan Zeng , Yuhao Chen , Alexander Wong
+Gen-AFFECT: Generation of Avatar Fine-grained Facial Expressions with Consistent identiTy	Hao Yu , Rupayan Mallick , Margrit Betke , Sarah Bargal
+UnderWater SLAM with Laser-light sectioning method using ST-GAT	Heyang Gao , Kazuto Ichimaru , Takafumi Iwaguchi , Hiroshi Kawasaki
+START: Spatial and Textual Learning for Chart Understanding	Zhuoming Liu , Xiaofeng Gao , Feiyang Niu , Qiaozi Gao , Liu Liu , Robinson Piramuthu
+Co-STAR: Collaborative Curriculum Self-Training with Adaptive Regularization for Source-Free Video Domain Adaptation	Amirhossein Dadashzadeh , Parsa Esmati , Majid Mirmehdi
+PDV: Prompt Directional Vectors for Zero-shot Composed Image Retrieval	Osman Tursun , Sinan Kalkan , Simon Denman , Clinton Fookes
+How to Design and Train Your Implicit Neural Representation for Video Compression	Matthew Gwilliam , Roy Zhang , Namitha Padmanabhan , Hongyang Du , Abhinav Shrivastava
+Chain-of-Look Spatial Reasoning for Dense Surgical Instrument Counting	Rishikesh Bhyri , Brian Quaranto , Junsong Yuan , Peter Kim , Nan Xi
+Global Focal and Radial Distortion Averaging from Radial Fundamental Matrices for Robust Self-Calibration	Sergei Solonets , Daniil Sinitsyn , Daniel Cremers
+Hymavi : A Hybrid Mamba-Attention Network in Multi-View Framework for Volumetric Medical Image Segmentation	Sy Tran , Jin Kyu Gahm
+OpenLVLM-MIA: A Controlled Benchmark Revealing the Limits of Membership Inference Attacks on Large Vision-Language Models	Miyamoto Ryoto , Xin Fan , Fuyuko Kido , Tsuneo Matsumoto , Hayato Yamana
+Beyond Faces: A Multimodal Person Clustering for Unconstrained Environments	Sahngmin Yoo , Sangwon Lee , Seongin Jo
+Fetal and Neonatal Cortical Surface Reconstruction with Anatomical Normal-guidance and Perceptual Enhancements	Jiyang Lee , Woori Bae , U-Geun Ji , Hanyeol Yang , Jong-Min Lee
+Mitigating the Modality Gap: Few-Shot Out-of-Distribution Detection with Multi-modal Prototypes and Image Bias Estimation	Yimu Wang , Evelien Riddell , Adrian Chow , Sean Sedwards , Krzysztof Czarnecki
+SPOC: Spatially-Progressing Object State Change Segmentation in Video	Priyanka Mandikal , Tushar Nagarajan , Alex Stoken , Zihui Xue , Kristen Grauman
+FAST-EQA: Efficient Embodied Question Answering with Global and Local Region Relevancy	Haochen Zhang , Nirav Savaliya , Faizan Siddiqui , Enna Sachdeva
+Mobile-Oriented Video Diffusion: Enabling Text-to-Video Generation on Mobile Devices Without Retraining, Compression, or Pruning	Bosung Kim , Kyuhwan Lee , Isu Jeong , Jungmin Cheon , Yeojin Lee , Seulki Lee
+Understanding Generative AI Capabilities in Everyday Image Editing Tasks	Brandon Collins , Mohammad Reza Taesiri , Logan Bolton , Viet Lai , Franck Dernoncourt , Trung Bui , Anh Nguyen
+TalkingPose: Efficient Face and Gesture Animation with Feedback-guided Diffusion Model	Alireza Javanmardi , Pragati Jaiswal , Tewodros Habtegebrial , Christen Millerdurai , Shaoxiang Wang , Alain Pagani , Didier Stricker
+Conversational Image Generation: Towards Multi-Round Personalized Generation with Multi-Modal Language Models	Haochen Zhang , Animesh Sinha , Felix Juefei-Xu , Haoyu Ma , Kunpeng Li , Zhipeng Fan , Xiaoliang Dai , Tingbo Hou , Peizhao Zhang , Zecheng He
+UniCalib: Targetless LiDAR-camera Calibration via Probabilistic Flow on Unified Depth Representations	Shu Han , Xubo Zhu , Ji Wu , Ximeng Cai , Wen Yang , Huai Yu , Gui-Song Xia
+DOODLE: Diffusion-based Out-of-Distribution Learning for Open-set LiDAR Semantic Segmentation	Changgyoon Oh , Hyeonseong Kim , Daehyun We , Jongoh Jeong , Yujeong Chae , Kuk-Jin Yoon
+Conditional Text-to-Image Generation with Reference Guidance	Taewook Kim , Ze Wang , Zhengyuan Yang , Jiang Wang , Lijuan Wang , Zicheng Liu , Qiang Qiu
+Logit-Adjusted Test-Time Adaptation under Partial Class Imbalance	Thilina Weerasinghe , Ruwan Tennakoon , WeiQin Chuah , Alireza Bab-Hadiashar
+From SAM to DINOv2: Towards Distilling Foundation Models to Lightweight Baselines for Generalized Polyp Segmentation	Shivanshu Agnihotri , Snehashis Majhi , Deepak Nayak , Debesh Jha
+Leveraging Pretrained Representations for Cross-Modal Point Cloud Completion	Kshitij Kale , Hrishikesh U , V Sreenidhe , Shylaja S
+RPT-SR: Regional Prior attention Transformer for infrared image Super-Resolution	Youngwan Jin , Incheol Park , Yagiz Nalcakan , Hyeongjin Ju , Sang Yeo , Shiho Kim
+CropAT: Leveraging Diffusion-Generated Target-Like Cropped Objects for Pseudo-Label Refinement in Domain-Adaptive Object Detection	Chen-Che Huang , Tzuhsuan Huang , Jun-Cheng Chen
+ArchitectHead: Continuous Level of Detail Control for 3D Gaussian Head Avatars	Peizhi Yan , Rabab Ward , Qiang Tang , Shan Du
+TimeRefine: Temporal Grounding with Time Refining Video LLM	Xizi Wang , Feng Cheng , Ziyang Wang , Huiyu Wang , Md Mohaiminul Islam , Lorenzo Torresani , Mohit Bansal , Gedas Bertasius , David Crandall
+Reviving Unsupervised Optical Flow: Concept Reevaluation, Multi-Scale Advances and Full Open-Source Release	Azin Jahedi , Marc Rivinius , Noah Senn , Andres Bruhn
+EllipssianNet: Image-guided Sampling of 2D Gaussians for Gaussian Splatting	MyoungGon Kim , JeongHyeon Ahn , Seohyeon Park , Hyemi Kim , Seunghyun Park , Jung Hwang , JungHyun Han
+MaxInfo: A Training-Free Key-Frame Selection Method Using Maximum Volume for Enhanced Video Understanding	Pengyi Li , Irina Abdullaeva , Alexander Gambashidze , Andrei Kuznetsov , Ivan Oseledets
+Splatter Layout: Geometry-embedded 3D Reconstruction via Surface Unfolding	Bryan Heryanto , Tackgeun You , Chanwoo Kim , Hwasup Lim
+Relevance-aware Multi-context Contrastive Decoding for Retrieval-augmented Visual Question Answering	Jongha Kim , Byungoh Ko , Jeehye Na , Jinsung Yoon , Hyunwoo Kim
+Unsupervised Discovery of Long-Term Spatiotemporal Periodic Workflows in Human Activities	Fan Yang , Quanting Xie , Atsunori Moteki , Shoichi Masui , Shan Jiang , Kanji Uchino , Yonatan Bisk , Graham Neubig
+Ordinal-Aware Multimodal Engagement Recognition for Collaborative Learning	Nha Tran , Dat Ly , Phi Ta , Hung Nguyen , Hien Nguyen
+MedROV: Towards Real-Time Open-Vocabulary Detection Across Diverse Medical Imaging Modalities	Tooba Tehreem Sheikh , Jean Lahoud , Rao Anwer , Fahad Khan , Salman Khan , Hisham Cholakkal
+From Darkness to Detail: Frequency-Aware SSMs for Low-Light Vision	Eashan Adhikarla , Kai Zhang , Gong Chen , John Nicholson , Brian Davison
+Dragonite: Single-Step Drag-based Image Editing with Geometric-Semantic Guidance	Meng-Ting Jhong , Tai-Ming Huang , Shang-Fu Chen , Wen-Huang Cheng , Kailung Hua
+Action Anticipation at a Glimpse: To What Extent Can Multimodal Cues Replace Video?	Manuel Benavent-Lledo , Konstantinos Bacharidis , Victoria Manousaki , Konstantinos Papoutsakis , Antonis Argyros , José García-Rodríguez
+NERVE: Neighbourhood & Entropy-Guided Random-Walk for Training Free Open-Vocabulary Segmentation	KUNAL MAHATHA , Jose Dolz , Christian Desrosiers
+2S-CEDiff: A Two-Stage Diffusion Framework for Generating High-Fidelity Contrast-Enhanced CT Images from Non-Contrast Scans	Yi-Bang Wu , Tzung-Dau Wang , Shang-Hong Lai
+INRetouch: Context Aware Implicit Neural Representation for Photography Retouching	Omar Elezabi , Marcos Conde , Zongwei Wu , Radu Timofte
+Optimization-Free Style Transfer for 3D Gaussian Splats	Raphael DuSablon , David Hart
+Streaming Real-Time Trajectory Prediction Using Endpoint-Aware Modeling	Alexander Prutsch , David Schinagl , Horst Possegger
+Performance of Conformal Prediction in Capturing Aleatoric Uncertainty	Misgina Tsighe Hagos , Claes Lundström
+Multi-Modal Soccer Scene Analysis with Masked Pre-Training	Marc Peral , Guillem Capellera , Luis Ferraz , Antonio Romano , Antonio Agudo
+GroupPortrait: Multi-ID Portrait Generation with High Identity Preservation and Fine-Grained Control	Meijia Huang , Ruida Li , Bing Ma , Liangwei Jiang , Shuo Fang , Chenguang Ma
+From Prompt to Production: Automating Brand-Safe Marketing Imagery with Text-to-Image Models	Parmida Atighehchain , Henry Wang , Andrei Kapustin , Boris Lerner , Tiancheng Jiang , Taylor Jensen , Negin Sokhandan
+GateFusion: Hierarchical Gated Cross-Modal Fusion for Active Speaker Detection	Yu Wang , Juhyung Ha , Frangil Ramirez , Yuchen Wang , David Crandall
+IDEAL-M3D: Instance Diversity-Enriched Active Learning for Monocular 3D Detection	Johannes Meier , Florian Günther , Riccardo Marin , Oussema Dhaouadi , Jacques Kaiser , Daniel Cremers
+Gene-DML: Dual-Pathway Multi-Level Discrimination for Gene Expression Prediction from Histopathology Images	Yaxuan Song , Jianan Fan , Hang Chang , Weidong Cai
+SceneEdited: A City-Scale Benchmark for 3D HD Map Updating via Image-Guided Change Detection	Chun-Jung Lin , Tat-Jun Chin , Sourav Garg , Feras Dayoub
+Sketch2Stitch: GANs for Abstract Sketch-Based Dress Synthesis	Faizan Khan , Faizan Khan , Davide Morelli , Marcella Cornia , Rita Cucchiara , Mohamed Elhoseiny
+Mixed Diffusion for 3D Indoor Scene Synthesis	Siyi Hu , Diego Martín Arroyo , Stephanie Debats , Fabian Manhardt , Luca Carlone , Federico Tombari
+Predicting Task fMRI Contrasts from Resting-State fMRI Using Sparse 3D Convolutions	Ivan Sviridov , Maria Boyko , Maksim Sharaev
+FreeCond: Free Lunch in the Input Conditions of Text-Guided Inpainting	Teng-Fang Hsiao , Bo-Kai Ruan , Sung-Lin Tsai , Yi-Lun Wu , Hong-Han Shuai
+Leveraging Semantic Attribute Binding for Free-Lunch Color Control in Diffusion Models	Héctor Laria , Alexandra Gomez-Villa , Jiang Qin , Muhammad Atif Butt , Bogdan Raducanu , Javier Vazquez-Corral , Joost van de Weijer , Kai Wang
+Unified Alignment Protocol: Making Sense of the Unlabeled Data in New Domains	Sabbir Ahmed , Mamshad Nayeem Rizve , Abdullah Al Arafat , Jacqueline Liu , Rahim Hossain , Mohaiminul Nahian , Adnan Siraj Rakin
+AFRAgent : An Adaptive Feature Renormalization Based High Resolution Aware GUI agent	Neeraj Anand , Rishabh Jain , Sohan Patnaik , Balaji Krishnamurthy , Mausoom Sarkar
+MorphXAI: An Explainable Framework for Morphological Analysis of Parasites in Blood Smear Images	Aqsa Yousaf , Sint Sint Win , Megan Coffee , Habeeb Olufowobi
+Reconstructing Realistic and Relightable Eyes	Wesley Khademi , Jogendra Nath Kundu , Yatong An , Alexander Fix , David Colmenares
+MomentMix Augmentation with Length-Aware DETR for Temporally Robust Moment Retrieval	Seojeong Park , Jiho Choi , Kyungjune Baek , Hyunjung Shim
+Learning Group Actions In Disentangled Latent Image Representations	Farhana Hossain Swarnali , Miaomiao Zhang , TONMOY HOSSAIN
+Context-Preserving Dermoscopic Editing: Mask-Guided Lesion-Aware Diffusion for Attribute Modification	Tao Sun , Yun Jiang , Yarong Jin , Huanting Guo , Zequn Zhang
+SceneShine: Illumination-aware Human Scene Gaussian Re-Splatting from Mobile Device Video	Xuqian Ren , Wenjia Wang , Mai Nguyen , Juho Kannala , Esa Rahtu
+WarpRF: Multi-View Consistency for Training-Free Uncertainty Quantification and Applications in Radiance Fields	Sadra Safadoust , Fabio Tosi , Fatma Güney , Matteo Poggi
+Trajectory Tactics: When Transformers Learn  Exploration to Generate Online Signature	Anurag Pandey , Aditya Nigam , Arnav Bhavsar , Ashutosh Sharma , Basu Verma , Divya Acharya , Mohd Amir
+A Multi-Agent Diffusion Approach for MRI Anomaly Segmentation via Modality-Specific LoRA Specialization	Wafa Ghallabi , Muhammad Zaigham Zaheer , Ritesh Thawkar , Omkar Thawakar , Salman Khan , Fahad Khan
+ChameleonTuner: Automatic ISP Color Tuning in Subjective Scenarios	Zijie Tan , Yuxin Yue , Bahador Rashidi
+Sketch-guided Cage-based 3D Gaussian Splatting Deformation	Tianhao Xie , Noam Aigerman , Eugene Belilovsky , Tiberiu Popa
+CONSTANT: Towards High-Quality One-Shot Handwriting Generation with Patch Contrastive Enhancement and Style-Aware Quantization	Anh-Duy Le , Van Pham , Thanh Vo , Mai Toan , Tuan-Anh Tran
+AugMapNet: Improving Spatial Latent Structure via BEV Grid Augmentation for Enhanced Vectorized Online HD Map Construction	Thomas Monninger , Md Zafar Anwar , Stanislaw Antol , Steffen Staab , Sihao Ding
+DiT-VTON: Diffusion Transformer Framework for Unified Multi-Category Virtual Try-On and Virtual Try-All with Integrated Image Editing	Qi Li , Shuwen Qiu , Kee Kiat Koo , Julien Han , Karim Bouyarmane
+Denoise, Divide, Distill, and Predict (D3P): Towards Forecasting Long-horizon Real-world Anomaly from Normalcy	Quentin Mérilleau , Snehashis Majhi , Antitza Dantcheva , Quan Kong , Lorenzo Garattoni , Gianpiero Francesca , Francois Bremond
+Efficient Vision Transformers via Token Merging with Head-wise Attention Correction	Yuki Ichikawa , Masato Motomura , Thiem Chu , Daichi Fujiki
+Splannequin: Freezing Monocular Mannequin-Challenge Footage with Dual-Detection Splatting	Hao-Jen Chien , Yi-Chuan Huang , Chung-Ho Wu , Wei-Lun Chao , Yu-Lun Liu
+MixER: From Cross-Modal to Mixed-Modal Visible-Infrared Re-Identification	Alehdaghi , Rajarshi Bhattacharya , Dai Yannick , Pourya Shamsolmoali , Rafael M. O. Cruz , Eric Granger
+BiNAR: A Bi-Modal Framework for Non-Aligned RGB-IR 3D Reconstruction via Gaussian Splatting	Zhongwen Wang , Han Ling , Weihao Zhang , Yinghui Sun , Quansen Sun
+Uncertainty-Aware Vision-Language Segmentation for Medical Imaging	Aryan Das , Tanishq Rachamalla , Koushik Biswas , Swalpa Roy , Vinay Verma
+DMAT: An End-to-End Framework for Joint Atmospheric Turbulence Mitigation and Object Detection	Paul Hill , Zhiming Liu , Alin Achim , David Bull , Nantheera Anantrasirichai
+Cluster-based Pseudo-labeling for Semi-Supervised LiDAR Semantic Segmentation	Qingju Guo , Shuang Li , Jing Geng , Binhui Xie , Jiawei Shan , Wei Li
+Semantic Map Guided Bird's-Eye View Learning for Online HD Map Construction	Huantao Ren , Hesham Eraqi , ABM Musa , Mohamed Moustafa
+SilverLining: Data-First Mitigation of Spatial and Spectral Shortcuts Without Introducing New Confounders	Balagopal Unnikrishnan , Michael Brudno , Chris McIntosh
+HyPCA-Net: Advancing Multimodal Fusion in Medical Image Analysis	Joy Dhar , Manish Pandey , Debashis Das Chakladar , Maryam Haghighat , Azadeh Alavi , Sajib Mistry , Nayyar Zaidi
+Causality-Driven Audits of Model Robustness	Nathan Drenkow , William Paul , Christopher Ribaudo , Mathias Unberath
+KD360-VoxelBEV: LiDAR and 360-degree Camera Cross Modality Knowledge Distillation for Bird’s-Eye-View Segmentation	Wenke E , Yixin Sun , Jiaxu Liu , Hubert P. H. Shum , Amir Atapour-Abarghouei , Toby Breckon
+Universal Neural Architecture Space: Covering ConvNets, Transformers and Everything in Between	Ondrej Tybl , Lukas Neumann
+FALCONEye: Finding Answers and Localizing Content in ONE-hour-long videos with multi-modal LLMs	Carlos Plou , Cesar Borja , Ruben Martinez-Cantin , Ana Murillo
+SmokeBench: Evaluating Multimodal Large Language Models for Wildfire Smoke Detection	Tianye Qi , Weihao Li , Nick Barnes
+Anatomically-guided masked autoencoder pre-training for aneurysm detection	Alberto Mario Ceballos Arroyo , Jisoo Kim , Chu-Hsuan Lin , Lei Qin , Geoffrey Young , Huaizu Jiang
+SCAdapter: Content-Style Disentanglement for Diffusion Style Transfer	Meryem Taşyürek , Tuğçe Kızıltepe , Hacer Keles
+Disentangle and Regularize: Sign Language Production with Articulator-Based Disentanglement and Channel-Aware Regularization	Meryem Taşyürek , Tuğçe Kızıltepe , Hacer Keles
+AuthGuard: Generalizable Deepfake Detection via Language Guidance	Guangyu Shen , Zhihua Li , Xiang Xu , Tianchen Zhao , Zheng Zhang , DONGSHENG An , Zhuowen Tu , Yifan Xing , Qin ZHANG
+Single-step Diffusion for Image Compression at Ultra-Low Bitrates	Chanung Park , Joo Chan Lee , Jong Hwan Ko
+Odo: Depth-Guided Diffusion for Identity-Preserving Body Reshaping	Siddharth Khandelwal , Sridhar Kamath , Arjun Jain
+Photo Dating by Facial Age Aggregation	Jakub Paplham , Vojtech Franc
+Distilling Offline Action Detection Models into Real-Time Streaming Models	Deep Patel , Yasunori Babazazki , YASUTO NAGASE , Iain Melvin , Martin Min
+Color Bind: Exploring Color Perception in Text-to-Image Models	Shay Shomer-Chai , Wenxuan Peng , Bharath Hariharan , Hadar Averbuch-Elor
+DenseBEV: Transforming BEV Grid Cells into 3D Objects	Marius Dähling , Sebastian Krebs , J. Zöllner
+MIST: Multilingual Incidental Dataset for Scene Text Detection	Saumya Vijay Mundra , Ajoy Mondal , Jawahar CV
+NeuroBridge: Few-Shot Cross-Modal Neuron Re-identification via Dual-Channel Deep Metric Learning	Wenwei Li , Mingwei Liao , Lingyi Cai , Anan LI
+Delta-LLaVA: Base-then-Specialize Alignment for Token-Efficient Vision-Language Models	Mohamad Zamini , Diksha Shukla
+General and Domain-Specific Zero-shot Detection of Generated Images via Conditional Likelihood	Roy Betser , Omer Hofman , Roman Vainshtein , Guy Gilboa
+Model-free Domain Adaptation for Concealed Multimodal Large-Language Models	Yu Mitsuzumi , Akisato Kimura , Hisashi Kashima
+Autoregressive Styled Text Image Generation, but Make it  Reliable	Carmine Zaccagnino , Fabio Quattrini , Vittorio Pippi , Silvia Cascianelli , Alessio Tonioni , Rita Cucchiara
+Perception-Inspired Color Space Design for Photo White Balance Editing	Yang Cheng , Ziteng Cui , Lin Gu , Shenghan Su , Zenghui Zhang
+Enhancing Visual Planning with Auxiliary Tasks and Multi-token Prediction	Ce Zhang , Yale Song , Ruta Desai , Michael Iuzzolino , Joseph Tighe , Gedas Bertasius , Satwik Kottur
+RobustGait: Robustness Analysis for Appearance Based Gait Recognition	Reeshoon Sayera , Akash Kumar , Sirshapan Mitra , Prudvi Kamtam , Yogesh Rawat
+SHaSaM: Submodular Hard Sample Mining for Fair Facial Attribute Recognition	Anay Majee , Rishabh Iyer
+MagicDrive3D: Controllable 3D Generation for Any-View Rendering in Street Scenes	Ruiyuan Gao , Kai Chen , Zhihao Li , Lanqing HONG , Zhenguo Li , Qiang Xu
+Cosine Similarity is Almost All You Need (for Prototypical-Part Models)	Luke Moffett , Frank Willard , Maximillian Machado , Emmanuel Mokel , Jon Donnelly , Zhicheng Guo , Adam Costarino , Julia Yang , Giyoung Kim , Alina Barnett , Cynthia Rudin
+M4U: Evaluating Multilingual Understanding and Reasoning for Large Multimodal Models	Hongyu Wang , Jiayu Xu , Senwei Xie , Ruiping Wang , Jialin Li , Zhaojie Xie , Bin Zhang , Chuyan Xiong , Xilin CHEN
+Data-Driven Lipschitz Continuity: A Cost-Effective Approach to Improve Adversarial Robustness	Erh-Chung Chen , Pin-Yu Chen , I-Hsin Chung , Che-Rung Lee
+Q-Former Autoencoder: A Modern Framework for Medical Anomaly Detection	Francesco Dalmonte , Emirhan Bayar , Emre Akbas , Iuliana Georgescu
+CAAC: Confidence-Aware Attention Calibration to Reduce Hallucinations in Large Vision-Language Models	Mehrdad Fazli , Bowen Wei , Ahmet Sari , Ziwei Zhu
+Test Time Adaptation Using Adaptive Quantile Recalibration	Paria Mehrbod , Pedro Vianna , Geraldin Nanfack , Guy Wolf , Eugene Belilovsky
+V2XScene: Multi-View Consistent 3D Scene Simulation for Collaborative Perception	Yanfei Li , Yi GONG , Yuan Zeng
+Point2Pose: A Generative Framework for 3D Human Pose Estimation with Multi-View Point Cloud Dataset	Hyunsoo Lee , Daeum Jeon , Hyeokjae Oh
+GeoHSAF: Geometric Hippocampus Shape Analysis Framework for Longitudinal Alzheimer's Disease Classification	MUBARAK OLAOLUWA , HENI LOUKIL , Arafet Sbei , Hassen Drira
+Seeing is Believing (and Predicting): Context-Aware Multi-Human Behavior Prediction with Vision Language Models	Utsav Panchal , Yuchen Liu , Luigi Palmieri , Ilche Georgievski , Marco Aiello
+Segmentation-Aware Latent Diffusion for Satellite Image Super-Resolution: Enabling Smallholder Farm Boundary Delineation	Aditi Agarwal , Anjali Jain , Nikita Saxena , Ishan Deshpande , Michal Kazmierski , Abigail Annkah , Nadav Sherman , Karthikeyan Shanmugam , Alok Talekar , Vaibhav Rajan
+Learning from Unknown for Open-Set Test-Time Adaptation	Taki Hasan Rafi , Amit Agarwal , Hitesh Patel , Dong-Kyu Chae
+3D Gaussian Point Encoders	Jim James , Benjamin Wilson , Simon Lucey , James Hays
+A Unified Diffusion-Based Framework for Multi-Agent Trajectory Prediction Integrating Structured Multi-Modal Representations	Chenxi yang , Suyang Xi , Hong Ding , Yiqing Shen , Yunhao Liu
+PointSt3R: Point Tracking through 3D Ground Correspondence	Rhodri Guerrier , Adam Harley , Dima Damen
+False Alarm Rectification for Early Smoke Segmentation	Hongjin Zhao , Weihao Li , Ge-Peng Ji , Nick Barnes
+Grounding Degradations in Natural Language for All-In-One Video Restoration	Muhammad Kamran Janjua , Amirhosein Ghasemabadi , Kunlin Zhang , Mohammad Salameh , Chao Gao , Di Niu
+OracleGS: Grounding Generative Priors for Sparse-View Gaussian Splatting	Atakan Topaloğlu , Kunyi Li , Michael Niemeyer , Nassir Navab , Ahmet Tekalp , Federico Tombari
+CanKD: Cross-Attention-based Non-local operation for Feature-based Knowledge Distillation	Shizhe Sun , Wataru Ohyama
+DRWKV: Focusing on Object Edges for Low-Light Image Enhancement	Xuecheng Bai , Yuxiang Wang , Boyu Hu , Qinyuan Jie , Chuanzhi Xu , Kechen Li , Hongru Xiao , Yuk Chung
+CLoCKDistill: Consistent Location-and-Context-aware Knowledge Distillation for DETRs	Qizhen Lan , Qing Tian
+Spacewalk-18: A Benchmark for Multimodal and Long-form Procedural Video Understanding in Novel Domains	Zitian Tang , Rohan Krishnan , Zhiqiu Yu , Chen Sun
+Saliency-Guided DETR for Moment Retrieval and Highlight Detection	Aleksandr Gordeev , Vladimir Dokholyan , Irina Tolstykh , Maksim Kuprashevich
+UniGaze: Towards Universal Gaze Estimation via Large-scale Pre-Training	Jiawei Qin , Xucong Zhang , Yusuke Sugano
+Countering Multi-modal Representation Collapse through Rank-targeted Fusion	Seulgi Kim , Kiran Kokilepersaud , Mohit Prabhushankar , Ghassan AlRegib
+Fine-grained Defocus Blur Control for Generative Image Models	Ayush Shrivastava , Connelly Barnes , Cecilia Zhang , Lingzhi Zhang , Andrew Owens , Sohrab Amirghodsi , Eli Shechtman
+Lorentz Entailment Cone for Semantic Segmentation	Zahid Hasan , Masud Ahmed , Nirmalya Roy
+FNOPT: Resolution-Agnostic, Self-Supervised Cloth Simulation using Meta-Optimization with Fourier Neural Operators	Ruochen Chen , Thuy Tran , Shaifali Parashar
+Federated Model Synchronization for Diagnostic Redefinition through a Novel Selective Parameter Unlearning	Mayank Kundalwal Kundalwal , Mamta Mamta , Deepak Mishra , Asif Ekbal
+Gaussian Splatting Map Registration with Orthographic Bird's-Eye-View Renderings	Hugo LEBLOND , Gilles SIMON , Renato Martins , Cedric Demonceaux , Marie-odile Berger
+Beyond Realism: Learning the Art of Expressive Composition with StickerNet	Haoming Lu , David Kocharian , Humphrey Shi
+Boosting Medical Vision-Language Pretraining via Momentum Self-Distillation under Limited Computing Resources	Phuc Pham , Nhu Pham , Ngoc Ly
+WiSAR3D - Aerial LiDAR dataset for 3D object detection	Oren Shrout , Ori Nizan , Yizhak Ben-Shabat , Ayellet Tal
+LighthouseGS: Indoor Structure-aware 3D Gaussian Splatting for Panorama-Style Mobile Captures	Seungoh Han , Jaehoon Jang , Hyunsu Kim , Jaeheung Surh , Junhyung Kwak , Hyowon Ha , Kyungdon Joo
+Distilling What and Why: Enhancing Driver Intention Prediction with MLLMs	SAINITHIN ARTHAM , Avijit Dasgupta , Shankar Gangisetty , Jawahar CV
+ART: Actor-Related Tubelet for Detecting Complex-shaped Action Tubes	Haoxin Li , Yingchen Yu , Qilong Wu , Hanwang Zhang , Song Bai , Boyang Li
+Learning to Animate Images from A Few Videos to Portray Delicate Human Actions	Haoxin Li , Yingchen Yu , Qilong Wu , Hanwang Zhang , Song Bai , Boyang Li
+Towards Streaming LiDAR Object Detection with Point Clouds as Egocentric Sequences	Mellon Zhang , Glen Chou , Saibal Mukhopadhyay
+DUDA: Distilled Unsupervised Domain Adaptation for Lightweight Semantic Segmentation	Beomseok Kang , Niluthpol Mithun , Abhinav Rajvanshi , Han-pang Chiu , Supun Samarasekera
+VADER: Towards Causal Video Anomaly Understanding with Relation-Aware Large Language Models	Ying Cheng , Yu-Ho Lin , Min-Hung Chen , Fu-En Yang , Shang-Hong Lai
+QuEENet: Quantum-Enhanced Expressive Network for Image Classification	Shashank Bayal , Dawane Govind , Komal Komal , SANTOSH VIPPARTHI , Subrahmanyam Murala
+ObjectCore -– Efficient Few-shot Logical Anomaly Detection using Object Representations	Matic Fučka , Vitjan Zavrtanik , Danijel Skocaj
+HodgeFormer: Transformers for Learnable Operators on Triangular Meshes through Data-Driven Hodge Matrices	Akis Nousias , Stavros Nousias
+Marshaled Learning: Bridging Large Neural Networks with Memory-Constrained Trusted Execution Environments in Federated Learning	Shiwei Ding , Xiaoyong Yuan , Zhenlin Wang , Lan Zhang , Giuseppe Ateniese
+DTMIR-Pro: Domain Translation with Prompt-based Latent-Space Generalization for Multi-Weather Image Restoration	Ashutosh Kulkarni , Prashant Patil , SANTOSH VIPPARTHI , Subrahmanyam Murala , Balasubramanian Raman
+SPAR-Det: Segmentation-guided and Prior-Aided Routing for Small Object Detection	Seungchan Kwon , Gyuil Lim , Youngjoon Han
+Modeling and Learning Multiple Hypotheses for Monocular 3D Object Detection	Hyeonjeong Park , Peixi Xiong , Pei Yu , Wei Tang
+OW-Rep: Open World Object Detection with Instance Representation Learning	SUNOH LEE , Minsik Jeon , Jihong Min , Junwon Seo
+MergeSlide: Continual Model Merging and Task-to-Class Prompt-Aligned Inference for Lifelong Learning on Whole Slide Images	Bui Cao Doanh , Ba Ngo , Pham Luan , Khang Nguyen , Mai Nguyen , Yasuhiko Nakashima
+TA-Prompting: Enhancing Video Large Language Models for Dense Video Captioning via Temporal Anchors	Wei-Yuan Cheng , Kai-Po Chang , Chi-Pin Huang , Fu-En Yang , Frank Wang
+Large Sign Language Models: Toward 3D American Sign Language Translation	Sen Zhang , Sen Zhang , Di Liu , Zhaoyang Xia , Mingyu Zhao , Chaowei Tan , Vivian Li , Bo Liu , Dimitri Metaxas , Mubbasir Kapadia
+CADE: Continual Weakly-supervised Video Anomaly Detection with Ensembles	Satoshi HASHIMOTO , Tatsuya Konishi , Tomoya Kaichi , Kazunori Matsumoto , Mori Kurokawa
+UNO: Unifying One-stage Video Scene Graph Generation via Object-Centric Visual Representation Learning	Huy Le , Nhat Chung , Tung Kieu , Jingkang Yang , Ngan Le
+CSGaussian: Progressive Rate-Distortion Compression and Segmentation for 3D Gaussian Splatting	Yu-Jen Tseng , Chia-Hao Kao , Jing-Zhong Chen , Alessandro Gnutti , Shao-Yuan Lo , Yen-Yu Lin , Wen-Hsiao Peng
+RealDroneVision: Dataset and Architecture Advancements for Small-Object Drone Detection	Arun Kumar Sivapuram , Pranav Peddinti , Harish Puppala , Komuravelli Prashanth , Jaladi Sri Harsha , Gorthi Subrahmanyam
+MBTI: Metric-Based Textual Inversion for Fine-Grained Image Generation	ByungKwan Chae , Youngjae Choi , Heewon Kim
+AutoSew: A Geometric Approach to Stitching Prediction with Graph Neural Networks	Pablo Ríos , Elena Garces , Jorge Lopez-Moreno
+SDT-6D: Fully Sparse Depth-Transformer for Staged End-to-End 6D Pose Estimation in Industrial Multi-View Bin Picking	Nico Leuze , Maximilian Hoh , Samed Doğan , Nicolas Rodriguez Pena , Alfred Schöttl
+VRAgent: Self-Refining Agent for Zero-Shot Multimodal Video Retrieval	Ketul Shah , Pankaj Nathani , Rama Chellappa , Fabian Caba Heilbron
+Decomposition Sampling for Efficient Region Annotations in Active Learning	Jingna Qiu , Frauke Wilm , Mathias Oettl , Jonas Utz , Maja Schlereth , Moritz Schillinger , Marc Aubreville , Katharina Breininger
+Test-Time Adaptation through Semantically-guided Feature Decomposition for Few-shot Chest X-ray Diagnosis	Jayant Mahawar , Angshuman Paul
+Hestia: Voxel-Face-Aware Hierarchical Next-Best-View Acquisition for Efficient 3D Reconstruction	Cheng-You Lu , Zhuoli Zhuang , Nguyen Le , da xiao , Yu-Cheng Chang , Thomas Do , Srinath Sridhar , Chin-teng Lin
+SpikeRain: Towards Energy-Efficient Single Image Deraining with Spiking Neural Networks	Md Tanvir Islam , Inzamamul Alam , Sambit Bakshi , Khan Muhammad , Javier Del Ser , Sangtae Ahn
+Robust Multimodal Emotion Recognition from Incomplete Modalities via Query-Based Unimodal and Cross-Modal Learning	Ryo Miyoshi , Mayu Otani , Yuki Okafuji
+ICONIC-444: A 3.1-Million-Image Dataset for OOD Detection Research	Gerhard Krumpl , Henning Avenhaus , Horst Possegger
+Polymorph: Energy-Efficient Multi-Label Classification for Video Streams on Embedded Devices	Saeid Ghafouri , Mohsen Fayyaz , Xiangchen Li , Deepu John , Bo Ji , Dimitrios Nikolopoulos , Hans Vandierendonck
+mmWeaver: Environment-Specific mmWave Signal Synthesis from a Photo and Activity Description	Mahathir Monjur , Shahriar Nirjon
+BlendCLIP: Bridging Synthetic and Real Domains for Zero-Shot 3D Object Classification with Multimodal Pretraining	Ajinkya Khoche , Gergő Nagy , Maciej Wozniak , Thomas Gustafsson , Patric Jensfelt
+Sketch3R: Rapid and Realistic 3D VR Sketch Creation to Shape Retrieval	Mritunjoy Halder , Shivam Shukla , Lokender Tiwari , Raghav Mittal , Brojeshwar Bhowmick
+Training-free Conditional Image Embedding Framework Leveraging Large Vision Language Models	Masayuki Kawarada , Kosuke Yamada , Antonio Tejero-de-Pablos , Naoto Inoue
+Synthesizing Compositional Videos from Text Description	Prajwal Singh , Kuldeep Kulkarni , Shanmuganathan Raman , Harsh Rangwani
+DF-Mamba: Deformable State Space Modeling for 3D Hand Pose Estimation in Interactions	Yifan Zhou , Takehiko Ohkawa , Guwenxiao Zhou , Kanoko Goto , Takumi Hirose , Yusuke Sekikawa , Nakamasa Inoue
+Semi-supervised Key-Point Estimation for Echocardiography Video	Seok-Hwan Oh , hyeonjik lee , Guil Jung , Myeong-Gee Kim , Young-Min Kim , Hyuksool Kwon , Hyeon-min Bae
+CLUE: Bringing Machine Unlearning to Mobile Devices	A. Q. M. Sazzad Sayyed , Nathaniel Bastian , Michael Lucia , Ananthram Swami , Francesco Restuccia
+Snapmoji: Instant Generation of Animatable Dual-Stylized Avatars	Eric Chen , Di Liu , Sizhuo Ma , Michael Vasilkovsky , Bing Zhou , Qiang Gao , Wenzhou Wang , Jiahao Luo , Dimitri Metaxas , Vincent Sitzmann , Jian Wang
+From Bands to Depth: Understanding Bathymetry Decisions on Sentinel-2	Satyaki Roy Chowdhury , Aswathnarayan Radhakrishnan , Hari Subramoni
+From Street to Orbit: Training-Free Cross-View Retrieval via Location Semantics and LLM Guidance	Jeongho Min , Dongyoung Kim , Jaehyup Lee
+Codebook Knowledge with Mamba-Transformer For Low-Light Image Enhancement	Runhua Deng , Aiwen Jiang , Long Peng , Qiuhai Yan
+Morphing Through Time: Diffusion-Based Bridging of Temporal Gaps for Robust Alignment in Change Detection	Seyedehanita Madani , Vishal Patel
+FujiView: Multimodal Late-Fusion for Predicting Scenic Visibility	Bryce Bible , Shah Hasnaeen , Hairong Qi
+Training-Free Few-Shot Segmentation via Vision-Language Guided Prompting	Euihyun Yoon , Taejin Park , Jaekoo Lee
+Anatomy-VLM: A Fine-grained Vision-Language Model for Medical Interpretation	Difei Gu , Yunhe Gao , Mu Zhou , Dimitri Metaxas
+CommonForms: A Large, Diverse Dataset for Form Field Detection	Raül Pérez-Gonzalo , Riccardo Magro , Andreas Espersen , Antonio Agudo
+Unsupervised Modular Adaptive Region Growing and RegionMix Classification for Wind Turbine Segmentation	Raül Pérez-Gonzalo , Riccardo Magro , Andreas Espersen , Antonio Agudo
+MuseDance: A Diffusion-based Music-Driven Image Animation System	Zhikang Dong , Weituo Hao , Ju-Chiang Wang , Peng Zhang , Pawel Polak
+BOP-Distrib: Revisiting 6D Pose Estimation Benchmarks for Better Evaluation under Visual Ambiguities	Boris Meden , Asma Brazi , Fabrice Mayran de Chamisso , Steve Bourgeois , Vincent Lepetit
+Learning Action Hierarchies via Hybrid Geometric Diffusion	Arjun Kaushik Kaushik , Nalini Ratha , Venu Govindaraju
+Self-Supervised Compression and Artifact Correction for Streaming Underwater Imaging Sonar	Rongsheng Qian , Chi Xu , Xiaoqiang Ma , Hao Fang , Yili Jin , William Atlas , Jiangchuan Liu
+VividAnimator: An End-to-End Audio and Pose-driven Half-Body Human Animation Framework	Donglin Huang , Yongyuan Li , Tianhang Liu , Junming Huang , Xiaoda Yang , Chi Wang , Weiwei Xu
+Edge-Aware Image Manipulation via Diffusion Models with a Novel Structure-Preservation Loss	Minsu Gong , Nuri Ryu , Jungseul Ok , Sunghyun Cho
+3D Superquadric Splatting	Daniel MacSwayne , Ales Leonardis , Jianbo Jiao
+Learnable Query-Enhanced Pose Transformation	Yi-Zhen Wang , Hong-Han Shuai
+VLMDiff: Leveraging Vision-Language Models for Multi-Class Anomaly Detection with Diffusion	Samet Hicsonmez , Abd El Rahman Shabayek , Djamila Aouada
+Bi-ICE: An Inner Interpretable Framework for Image Classification via Bi-directional Interactions between Concept and Input Embeddings	Jinyung Hong , Yearim Kim , Keun Hee Park , Sangyu Han , Nojun Kwak , Theodore Pavlic
+Bridging the Domain Gap in Small Multimodal Models: A Dual-level Alignment Perspective	Aveen Dayal , Peketi Divya , Nidhi Tiwari , Linga Reddy Cenkeramaddi , C Mohan , Abhinav Kumar
+UniTabBank: A Large Scale Multi-Lingual, Multi-Layout, Multi-Type, Multi-Format Dataset for Table Detection	Ajoy Mondal , Saumya Vijay Mundra , Avijit Dasgupta , Jawahar CV
+Text Slider: Efficient and Plug-and-Play Continuous Concept Control for Image/Video Synthesis via LoRA Adapters	Pin-Yen Chiu , I-Sheng Fang , Jun-Cheng Chen
+VitaGlyph: Vitalizing Artistic Typography with Flexible Dual-branch Diffusion Models	Kailai Feng , Yabo Zhang , Haodong Yu , Zhilong Ji , Jinfeng Bai , Hongzhi Zhang , Wangmeng Zuo
+PoseGaussian: Pose-Driven Novel View Synthesis for Robust 3D Human Reconstruction	Ju Shen , Chen Chen , Tam Nguyen , Vijayan Asari
+STEG-AIW: Spatio-Temporal Gating and Adaptive-Timestep Inference for Efficient Spiking Neural Networks	Gulfam A Saju , Anton Spirkin , Felipe Marcelino , Yuchou Chang
+Workzone3D: A Multimodal Dataset for 3D Work Zone Perception in Autonomous Driving	Shounak Sural , Nishad Sahu , Ragunathan Rajkumar
+Prompt-OT: An Optimal Transport Regularization Paradigm for Knowledge Preservation in Vision-Language Model Adaptation	Xiwen Chen , Wenhui Zhu , Peijie Qiu , Hao Wang , Huayu Li , Haiyu Wu , XUANZHAO DONG , Aris Sotiras , Yalin Wang , Abolfazl Razi
+HumanGuideNet: Adapter-Based Alignment of Deep Neural Networks with Human Similarity Judgments	Xufu Liu , Yifan Yang , Zhengxin Zhang
+PrevMatch: Revisiting and Maximizing Temporal Knowledge in Semi-Supervised Semantic Segmentation	Wooseok Shin , Hyun Joon Park , Jin Sob Kim , Juan Yun , Se Park , Sung Han
+Zero-Shot Table Extraction in Business Documents: A Unified Benchmark with Error Taxonomy and Ecological Analysis	Eliott THOMAS , Mickael Coustaty , Aurélie JOSEPH , Tri-Cong Pham , Gaspar DELOIN , Elodie CAREL , Vincent d'Andecy , Jean-marc Ogier
+MAESTRO: Masked AutoEncoders for Multimodal, Multitemporal, and Multispectral Earth Observation Data	Antoine Labatie , Michael Vaccaro , Nina Lardiere , Anatol Garioud , Nicolas Gonthier
+ZebraPose: Zebra Detection and Pose Estimation using only Synthetic Data	Elia Bonetto , Aamir Ahmad
+IMPACT: Interpretable Most Important Person Analysis and Classification using Transformer-based Models	Akshat Rampuria , Kamakshya Nayak , Kamalakar Thakare , Tushar Joshi , Aditya Singh , Haesol Park , Heeseung Choi , Debi Dogra , Ig-Jae Kim
+MapVerse: A Benchmark for Geospatial Question Answering on Diverse Real-World Maps	Sharat Bhat , Harshita Khandelwal , Tushar Kataria , Vivek Gupta
+FuLLaMa: Training-free Diffusion-based Object Removal with Context Preservation	Ilke Demir , Umur Ciftci
+HistoMILKD: A Multiple Instance Learning based Multi-Teacher Knowledge Distillation Framework for Whole Slide Image Classification	Mayur Mallya , Ali Khajegili Mirabadi , Hossein Farahani , Ali Bashashati
+Perceptually Guided 3DGS Streaming and Rendering for Mixed Reality	Yunxiang Zhang , Sai Mupparaju , Kenneth Chen , Jenna Kang , Xinyu Zhang , Maito Omori , Kazuyuki Arimatsu , Qi Sun
+Cycle-consistent Multi-graph Matching for Self-supervised Annotation of C. Elegans	Sebastian Stricker , Christoph Karg , Lisa Hutschenreiter , Bogdan Savchynskyy , Dagmar Kainmueller
+R3: Reconstruction, Raw, and Rain: Deraining Directly in the Bayer Domain	Nate Rothschild , Moshe Kimhi , Avi Mendelson , Chaim Baskin
+SmoothDiffusion-VE: Real-time Generative Video Editing Using Adaptive Feature Cache	Mustafa Munir , Sophia Zalewski , Shiqiu Liu , David Tarjan , Sushmitha Belede , Anjul Patney , Radu Marculescu
+Sun-E: Dataset and Benchmark for Event-Based Sun Sensing	Sydney Dolan , Alessandro Golkar
+Dressing the Imagination: A Dataset for AI-Powered Translation of Text into Fashion Outfits and A Novel NeRA Adapter for Enhanced Feature Adaptation	Gayatri Deshmukh , Somsubhra De , Chirag Sehgal , Jishu Gupta , Sparsh Mittal
+Mitigating Object and Action Hallucinations in Multimodal LLMs via Self-Augmented Contrastive Alignment	Kai-Po Chang , Wei-Yuan Cheng , Chi-Pin Huang , Fu-En Yang , Frank Wang
+NerVast: Compression-Efficient Scaling of Implicit Neural Video Representations via Scene-based Parameter-sharing	Yunheon Lee , Juncheol Ye , Jaehong Kim , Dongsu Han
+End-to-End Fine-Tuning of 3D Texture Generation using Differentiable Rewards	Amirhossein Zamani , Tianhao Xie , Amir Aghdam , Tiberiu Popa , Eugene Belilovsky
+Reverse Personalization	Han-Wei Kung , Tuomas Varanka , Nicu Sebe
+DiffRegCD: Integrated Registration and Change Detection with Diffusion Features	Seyedehanita Madani , Rama Chellappa , Vishal Patel
+SymNet: A Multi-Task Network for Joint Radio Map Reconstruction and Transmitter Localization	Lyuzhou Ye , Thanh Le , Yan Huang
+FSP-DETR: Few-Shot Prototypical Parasitic Ova Detection	Shubham Trehan , Udhav Ramachandran , Akash Rao , Ruth Scimeca , Sathya Aakur
+MIX-based Foreground and Background Patch Augmentation Guided by Physics and Material Properties for X-ray Detection	Xintong Liu , Dongliang Chang , Yujun Tong , Zhanyu Ma
+Controllable Long-term Motion Generation with Extended Joint Targets	Eunjong Lee , Eunhee Kim , Sanghoon Hong , Eunho Jung , Jihoon Kim
+MuSACo: Multimodal Subject-Specific Selection and Adaptation for Expression Recognition with Co-Training	Muhammad Osama Zeeshan , Natacha Gillet , Alessandro Lameiras Koerich , Marco Pedersoli , Francois Bremond , Eric Granger
+A Deep Network for Object Detection on Inland Waters	Dennis Griesser , Bastian Goldluecke , Matthias Franz , Georg Umlauf
+Unsupervised Memorability Modeling from Tip-of-the-Tongue Retrieval Queries	Sree Bhattacharyya , Yaman Singla , Sudhir Yarram , Somesh Singh , Harini S I , James Wang
+VAST-ReID: A Low-Light Benchmark Dataset for Person Re-Identification with Visual and Attribute-Rich Semantic Tracking	Hammad Khan , Rakesh Giri , Kamalakar Thakare , Heeseung Choi , Hyungjoo Jung , Debi Dogra , Ig-Jae Kim
+One-Shot Fine-Grained Re-Identification of Paint Marked Honey Bees using Vision Foundation Models	Luke Meyers , Josué A. Rodríguez-Cordero , Remi Megret
+Automated Suturing Skill Assessment in Robot-assisted Surgery from Endoscopic Videos using Clinically-guided Evaluation Criteria	Atharva Deo , Ujjwal Pasupulety , Nicholas Matsumoto , Jay Moran , Cherine Yang , Jeanine Kim , Rafal Kocielnik , Aurash Naser-Tavakolian , Andrew Hung
+Enhancing Reverse Distillation with Core Exemplar Learning for Unified Multi-Class Anomaly Detection	Heechul Lim , Min-Soo Kim , Hyun-Boo Lee , Suk-Ju Kang , Kang-Wook Chon , Haeyun Lee
+Enhancing Vision Language Corruption Robustness using Cross Distribution & Prompted Denoisers	Sameer Shafayet Latif , Sadab Shiper , K. Kiran , Md Ishmam , MD HOSSAIN , Abu Kamal , Md. Ashmafee
+FCC: Fully Connected Correlation for One-Shot Segmentation	Seonghyeon Moon , Haein Kong , Muhammad Haris Khan , Mubbasir Kapadia , Yuewei Lin
+UI-Styler: Ultrasound Image Style Transfer with Class-Aware Prompts for Cross-Device Diagnosis Using a Frozen Black-Box Inference Network	Nhat-Tuong Do-Tran , Ngoc-Hoang-Lam Le , Ching-Chun Huang
+ISALux: Illumination and Semantics-Aware Transformer Employing Mixture of Experts for Low Light Image Enhancement	Raul Balmez , Alexandru Brateanu , Ciprian Orhei , Codruta Ancuti , Cosmin Ancuti
+KMOPS: Keypoint-Driven Method for Multi-Object Pose and Metric Size Estimation from Stereo Images	Ying-Kun Wu , Yi Shen , Tzuhsuan Huang , I-Sheng Fang , Jun-Cheng Chen
+Learning Unified Spatio-temporal Representations for Efficient Compressed Video Understanding	Shristi Biswas Biswas , Efstathia Soufleri , Arani Roy , Kaushik Roy
+HiGlassRM: Learning to Remove High-prescription Glasses via Synthetic Dataset Generation	Sebin Lee , Heewon Kim
+Enhancing Object Detection Training via Joint Image-Annotation Generation	Roy Uziel , Oded Bialer
+R-MMA: Enhancing Vision-Language Models with Recurrent Adapters for Few-Shot and Cross-Domain Generalization	Md Fahim , Md Ishmam , Mir Sazzat Hossain , M Ashraful Amin , Amin Ali , A K M Mahbubur Rahman
+OPFormer: Object Pose Estimation leveraging foundation model with geometric encoding	Artem Moroz , Vít Zeman , Martin Mikšík , Elizaveta Isianova , Miroslav David , Pavel Burget , Varun Burde
+Robust Scene Coordinate Regression via Geometrically-Consistent Global Descriptors	Son Tung Nguyen , Alejandro Fontan , Michael Milford , Tobias Fischer
+SphereEdit: Spherical Semantic Editing in Diffusion Models	Salamata Konate , Hassan Hamidi , Elham Dolatabadi , Frank Rudzicz , Laleh Seyyed-Kalantari
+NoHumansRequired: Autonomous High-Quality Image Editing Triplet Mining	Maksim Kuprashevich , Grigorii Alekseenko , Irina Tolstykh , Georgii Fedorov , Bulat Suleimanov , Vladimir Dokholyan , Aleksandr Gordeev
+An improved architecture for part-based animal re-identification through semantic segmentation distillation	Eugênio Dias Ribeiro Neto , Marc Chaumont , Gérard Subsol , Michel Garine-Wichatitsky , Hélène Guis
+ProtoGMVAE: A Variational Auto-Encoder with True Gaussian Mixture Prior for Prototypical-based Self-Explainability	Martin Blanchard , Christophe Ducottet , Damien Muselet , Olivier Delézay
+Stabilizing Direct Training of Spiking Neural Networks: Membrane Potential Initialization and Threshold-robust Surrogate Gradient	Hyunho Kook , Byeongho Yu , Jeong Oh , Eunhyeok Park
+MR-Pruner: Training-free Multi-resolution Visual Token Pruning for Multi-modal Large Language Models	Seunghoon Han , Hyewon Lee , Soyoung Park , Jong-Ryul Lee , Sungsu Lim
+Uncertainty-Aware Subset Selection for Robust Visual Explainability under Distribution Shifts	Madhav Gupta , Vishak Prasad C , Ganesh Ramakrishnan
+MemeTAG: Keyword-Driven Meme Classification through Tag Embedding Reconstruction	Akshit Sharma , Prashant Patil
+Understanding the Visual Projection Space of Multimodal LLMs	SungHeon Jeong , Yoojeong Song , Yoojeong Song
+SSMT-Net: A Semi-Supervised Multitask Transformer-Based Network for Thyroid Nodule Segmentation in Ultrasound Images	Muhammad Umar Farooq , Abd Ur Rehman , Azka Rehman , Muhammad Usman , Dong-Kyu Chae
+LooC: Effective Low-Dimensional Codebook for Compositional Vector Quantization	Jie Li , Kwan-Yee K. Wong , Kai Han
+Quantifying the Limits of Segmentation Foundation Models: Modeling Challenges in Segmenting Tree-Like and Low-Contrast Objects	Yixin Zhang , Nicholas Konz , Kevin Kramer , Maciej Mazurowski
+Fully Unsupervised Self-debiasing of Text-to-Image Diffusion Models	Korada Sri Vardhana , Shrikrishna Lolla , Soma Biswas
+Histogram Assisted Quality Aware Generative Model for Resolution Invariant NIR Image Colorization	Abhinav Abhinav , Rajeev Ranjan Dwivedi , Samiran Das , Vinod Kurmi
+Revisiting an Old Perspective Projection for Monocular 3D Morphable Models Regression	Toby Chong , Ryota Nakajima
+CAPE: A CLIP-Aware Pointing Ensemble of Complementary Heatmap Cues for Embodied Reference Understanding	Fevziye Irem Eyiokur , Dogucan Yaman , Hazım Ekenel , Alexander Waibel
+Augmenting with NeRFs: Fast Relocalization on Densified Datasets	Michael Tomadakis , Rebecca Borissova , Yuxuan Zhang , Sanjeev Koppal
+Beyond the Highlights: Video Retrieval with Salient and Surrounding Contexts	Jaehun Bang , Moon Ye-Bin , Tae-Hyun Oh , Kyungdon Joo
+iMotion-LLM: Instruction-Conditioned Trajectory Generation	Abdulwahab Felemban , Nussair Hroub , Jian Ding , Faizan Khan , Xiaoqian Shen , Abduallah Mohamed , Mohamed Elhoseiny
+DreamMakeup: Face Makeup Customization using Latent Diffusion Models	Geon Yeong Park , Inhwa Han , Serin Yang , Yeobin Hong , Seongmin Jeong , Heechan Jeon , Myeongjin Goh , Sung Yi , Jin Nam , Jong Ye
+An Efficient Multi-Rater Setup Towards Personalized and Diversified Medical Image Segmentation	Sajed Almorsy , Ayman Khalafallah , Marwan Torki
+Salience-SGG: Enhancing Unbiased Scene Graph Generation with Iterative Salience Estimation	Runfeng Qu , Ole Hall , Pia Bideau , Julie Ouerfelli-Ethier , Martin Rolfs , Klaus Obermayer , Olaf Hellwich
+CURIO: Curvature-Aligned and Efficient OCR for Low-Resource Historical Manuscripts	Sai Madhusudan Gunda , Tathagata Ghosh , Simran Sandral , Ravi Kiran Sarvadevabhatla
+SkelSplat: Robust Multi-view 3D Human Pose Estimation with Differentiable Gaussian Rendering	Laura Bragagnolo , Leonardo Barcellona , Stefano Ghidoni
+Learning spatio-temporal feature representations for video-based gaze estimation	Alexandre Personnic , Mihai Bace
+VLMs Guided Interpretable Decision Making in Autonomous Driving	Xin Hu , TAOTAO JING , Renran Tian , Zhengming Ding
+Enhancing Monocular 3D Hand Reconstruction with Learned Texture Priors	Giorgos Karvounas , Nikolaos Kyriazis , Iason Oikonomidis , Georgios Pavlakos , Antonis Argyros
+Systematic Analysis of the Unintentional CSAM-Generation-Potential of Text-to-Image Models	Nicolas Göller , Martin Steinebach
+Enhanced Back-Projection of Vision Features for 3D Symmetry Detection	Isaac Aguirre , Ivan Sipiran
+Descrip3D: Enhancing Large Language Model-based 3D Scene Understanding with Object-Level Text Descriptions	Jintang Xue , Ganning Zhao , Jie-En Yao , Hong-En Chen , Yue Hu , Meida Chen , Suya You , Chung Chieh Kuo
+MARS: a Multimodal Alignment and Ranking System for Few-Shot Segmentation	Nico Catalano , Stefano Samele , Paolo Pertino , Matteo Matteucci
+Occlusion Boundary and Depth: Mutual Enhancement via Multi-Task Learning	Lintao XU , Yinghao WANG , Chaohui Wang
+MoRe: Monocular Geometry Refinement via Graph Optimization for Cross-View Consistency	Dongki Jung , Jaehoon Choi , Yonghan Lee , Sungmin Eum , Heesung Kwon , Dinesh Manocha
+Vision-informed Semantic Text Alignment for Open-set Recognition in Remote Sensing	Siddhant Gole , Akash Pal , Ankit Jha , Subhasis Chaudhuri , Biplab Banerjee
+GrounDiff: Diffusion-Based Ground Surface Generation from Digital Surface Models	Oussema Dhaouadi , Johannes Meier , Jacques Kaiser , Daniel Cremers
+RampWatch: An In-the-Wild Dataset and Text-Guided Detection Framework for Recreational Vessels	Malik Muhammad Asim , Claire Smallwood , Abdullah Tariq , Johnny Lo , Syed Zulqarnain Gilani
+AnyAnomaly: Zero-Shot Customizable Video Anomaly Detection with LVLM	Sunghyun Ahn , Youngwan Jo , Kijung Lee , Sein Kwon , Inpyo Hong , Sanghyun Park
+STARS: Self-supervised Tuning for 3D Action Recognition in Skeleton Sequences	Soroush Mehraban , Javad Rajabi , Andrea Iaboni , Babak Taati
+ObjectMeshDeform : Towards recovering precise 3D geometry of real objects via image-guided mesh deformation of 3D generative priors	Siddharth Katageri , SANJANA SINHA , Sourav Ghosh , Soumyadip Maity , Brojeshwar Bhowmick
+PADM: A Physics-aware Diffusion Model for Attenuation Correction	Trung Pham , Hoang Vu , Anh Chu , Dac Thai Nguyen , Trung Thanh Nguyen , THAO TRUONG TRUONG , Mai Son , Thanh Nguyen , Phi Le Nguyen
+Language Integration in Fine-Tuning Multimodal Large Language Models for Image-Based Regression	Roy Jennings , Genady Paikin , Roy Shaul , Evgeny Soloveichik
+D2Mamba: Dual Domain Guided Informed Search in State Space Model for Underwater Image Enhancement	Alik Pramanick , Soumajit Roy , ARIJIT SUR
+TopoRec: Point Cloud Recognition Using Topological Data Analysis	Anirban Ghosh , Iliya Kulbaka , Ian Dahlin , Ayan Dutta
+AdaptViG: Adaptive Vision GNN with Exponential Decay Gating	Mustafa Munir , Mostafijur Rahman , Radu Marculescu
+DynaGSLAM: Real-Time Gaussian-Splatting SLAM for Online Rendering, Tracking, Motion Predictions of Moving Objects in Dynamic Scenes	Runfa Li , Mahdi Shaghaghi , Keito Suzuki , Xinshuang Liu , Varun Moparthi , Bang Du , Walker Curtis , Martin Renschler , Ki Myung Brian Lee , Nikolay Atanasov , Truong Nguyen
+Towards High-Fidelity, Identity-Preserving Real-Time Makeup Transfer: Decoupling Style Generation	Kin Chau Lydia Chau , Zhi Yu , Ruowei Jiang
+SD-CSFL: A Synthetic Data-Driven Conformity Scoring Framework for Robust Federated Learning	Ebtisaam Alharbi , Abdulrahman Kerim , Leandro Soriano Marcolino , Qiang Ni
+AirLock+: Scaling UAV-to-Satellite Image Registration for Target Geolocalization and Geospatial Augmented Reality	Zhiyun Deng , Austin Case , Luis Sentis
+Gaussian Swaying: Surface-Based Framework for Aerodynamic Simulation with 3D Gaussians	Hongru Yan , Xiang Zhang , Zeyuan Chen , Fangyin Wei , Zhuowen Tu
+Overcoming Fine-Grained Visual Challenges in Animal Re-Identification via Semantic Feature Alignment	Yihao Wu , Di Zhao , Yuzhuo Li , Matthew Alajas , Alistair Glen , Jingfeng Zhang , Gillian Dobbie , Daniel Wilson , Yun Sing Koh
+UniDiff: Parameter-Efficient Adaptation of Diffusion Models for Land Cover Classification with Multi-Modal Remotely Sensed Imagery and Sparse Annotations	Yuzhen Hu , Saurabh Prasad
+Zero-LEAD: Source-Free Universal Domain Adaptation for Abdominal Multi-Organ Segmentation	Ahmed El-Sayed , Marwan Torki
+Overcoming Small Data Limitations in Video-Based Infant Respiration Estimation	Liyang Song , Hardik Bishnoi , Sai Manne , Sarah Ostadabbas , Briana Taylor , Michael Wan
+SUGAR: A Sweeter Spot for Generative Unlearning of Many Identities	Dung Nguyen , Quang Nguyen , Preston Robinette , Eli Jiang , Taylor Johnson , Kevin Leach
+One-shot Portrait Stylizaiton via Geometric Alignment	Xinrui Wang , Zilin Guo , Zhuoru Li , Jinze Yu , Heng Zhang , Yusuke Iwasawa , Yutaka Matsuo , Jiaxian Guo
+RobuMTL: Enhancing Multi-Task Learning Robustness Against Weather Conditions	Tasneem Shaffee , Sherief Reda
+Graph-Based Spectral Attention with Multi-Spectral Images for Illuminant Estimation	Dong-Hoon Kang , Seung-Yeop Baek , Jong-Ok Kim
+BoxSplitGen: A Generative Model for 3D Part Bounding Boxes in Varying Granularity	Juil Koo , Wei-Tung Lin , Chanho Park , Chanhyeok Park , Minhyuk Sung
+AD2: Analysis and Detection of Adversarial Threats in Visual Perception for End-to-End Autonomous Driving Systems	Ishan Sahu , Somnath Hazra , Somak Aditya , Soumyajit Dey
+LASOR: Towards Clinically Transparent and Explainable Ophthalmic Report Generation via Lesion-Aware Segmentation	Jian Park , Hyunseon Won , JeeEun Kim , JOON HWANG , Jeong Han , Ji Park , Daniel Hwang , Jinyoung Han
+Can We Challenge Open-Vocabulary Object Detectors with Generated Content in Street Scenes?	Annika Mütze , Sadia Ilyas , Christian Dörpelkus , Matthias Rottmann
+SOAF: Scene Occlusion-aware Neural Acoustic Field	Huiyu Gao , Jiahao Ma , David Ahmedt-Aristizabal , Chuong Nguyen , Miaomiao Liu
+SOPHY: Generating Simulation-Ready Objects with Physical Materials	Junyi Cao , Evangelos Kalogerakis
+Diversity Preserving Coresets for Image Quality Assessment	Arpita Nema , Hanwei Zhu , Xi Zhang , Weisi Lin
+SeaClips: A Video Dataset for Maritime Object Detection.	Franziska Denk , Christian Rankl , Shaban ALMOUAHED , David Moser , Robert Sablatnig
+Tables Decoded: DELTA for Structure, TARQA for Understanding	Jahanvi Rajput , Dhruv Kudale , Saikiran Kasturi , Utkarsh Verma , Ganesh Ramakrishnan
+DREAM: Dynamic Prompts and GuidedMix for Efficient Continual Adaptation of Visual-Language Models	Evelyn Chee , Mong-Li Lee , Wynne Hsu
+Blur2Sharp: Human Novel Pose and View Synthesis with Generative Prior Refinement	Chia Lai , I-Hsuan Lo , Yen-Ku Yeh , Thanh-Nguyen Truong , Ching-Chun Huang
+DATTA: Domain-Adversarial Test-Time Adaptation for Cross-Domain WiFi-Based Human Activity Recognition	Julian Strohmayer , Rafael Sterzinger , Matthias Wödlinger , Martin Kampel
+CLIP-IT: CLIP-based Pairing of Histology Images with Privileged Textual Information	Banafsheh Karimian , Giulia Avanzato , Soufiane Belharbi , Alexis Guichemerre , Luke McCaffrey , Mohammadhadi Shateri , Eric Granger
+Exploiting Label-Independent Regularization from Spatial Patterns for Whole Slide Image Analysis	Weiyi Wu , Xinwen Xu , Chongyang Gao , Xingjian Diao , Siting Li , Jiang Gui
+Crafting Descriptive Information for a Zero-shot Method to Improve Knowledge-Based Visual Question Answering Performance	Mohammad Moradi , Sudhir Mudur
+GorillaWatch: An Automated System for In-the-Wild Gorilla Re-Identification and Population Monitoring	Maximilian Schall , Felix Knöfel , Noah König , Jan Kubeler , Maximilian von Klinski , Joan Linnemann , Xiaoshi Liu , Iven Schlegelmilch , Ole Woyciniuk , Alexandra Schild , Dante Wasmuht , Magdalena Bermejo Espinet , Germán Illera Basas , Gerard de Melo
+From Few-Shot to Zero-Shot Pallet Load Recognition: A Deployed Embedding-Based Vision System for Industrial Logistics	Juan Jesús Losada del Olmo , Emilio Ballesteros , Pedro Lopez-de-Teruel , Alberto Ruiz
+SaccadeX: Directed Acyclic Graph-based Semi-Supervised Learning of Continuous Ocular Dynamics from Sparse Neuromorphic Streams	Nuwan Bandara , Thivya Kandappu , Archan Misra
+See, Think, Learn: A Self-Taught Multimodal Reasoner	Sourabh Sharma , Sonam Gupta , Sadbhawna Thakur
+PVeRA: Probabilistic Vector-Based Random Matrix Adaptation	Leo Fillioux , Enzo Ferrante , Paul-Henry Cournède , Maria Vakalopoulou , Stergios Christodoulidis
+Non-Aligned Reference Image Quality Assessment for Novel View Synthesis	Abhijay Ghildyal , Rajesh Sureddi , Nabajeet Barman , Saman Zadtootaghaj , Alan Bovik
+View-aware Cross-modal Distillation for Multi-view Action Recognition	Trung Thanh Nguyen , Yasutomo Kawanishi , Vijay John , Takahiro Komamizu , Ichiro Ide
+Beyond Real Weights: Hypercomplex Representations for Stable Quantization	Jawad Ibn Ahad , Maisha Rahman , Amrijit Biswas , Muhammad Kabir , Robin Krambroeckers , Sifat Momen , Nabeel Mohammed , Shafin Rahman
+Power of Boundary and Reflection: Semantic Transparent Object Segmentation using Pyramid Vision Transformer with Transparent Cues	Tuan-Anh Vu , Nguyen Hai , Ziqiang Zheng , Binh-Son Hua , Qing Guo , Ivor Tsang , Sai-Kit Yeung
+QAL : A Loss for Recall–Precision Balance in 3D Reconstruction	Pranay Meshram , Yash Turkar , kartikeya singh , Praveen Raj Masilamani , Charuvahan Adhivarahan , Karthik Dantu
+Efficient Text-Guided Convolutional Adapter for the Diffusion Model	Aryan Das , Koushik Biswas , Swalpa Roy , Badri Patro , Vinay Verma
+ClusterMine: Robust Label-Free Visual Out-Of-Distribution Detection via Concept Mining from Text Corpora	Nikolaos Adaloglou , Diana Petrusheva , Mohamed Asker , Felix Michels , Markus Kollmann
+Digital Forensic AI You Can Explain: A Case Study on Video Source Camera Identification	Maryna Veksler , Kemal Akkaya , Selcuk Uluagac
+Confidence Through Parallel Attention for Depth and Uncertainty Estimation in Dynamic Environments	Onkar Susladkar , Rohit Pawar , Chirag Sehgal , Samaksh Ujjawal , Sparsh Mittal
+TED-4DGS: Temporally Activated and Embedding-based Deformation for 4DGS Compression	Cheng-Yuan Ho , He-Bi Yang , Jui-Chiu Chiang , Yu-Lun Liu , Wen-Hsiao Peng
+Improvise, Adapt, Overcome — Telescopic Adapters for Efficient fine-tuning of Vision Language Models in Medical Imaging	Ujjwal Mishra , VINITA SHUKLA , Praful Hambarde , Amit Shukla
+FedEFC: Federated Learning Using Enhanced Forward Correction Against Noisy Labels	Seunghun Yu , Jin-Hyun Ahn , Joonhyuk Kang
+Analysis of Text Accuracy and Visual Alignment in Vision-Language Models for Artistic Text Generation	Fatima Alderazi , Motaz Alfarraj
+MoSCo: Real-time and Efficient Text-to-Motion Synthesis via Delta Training	Zhiyuan Zhang , Lingqiao Liu
+GDoFS: Gaussian DoF Separation for Plausible 3D Geometry in Sparse-View 3DGS	Yongsung Kim , Jooyoung Choi , Sungroh Yoon
+DexAvatar: 3D Sign Language Reconstruction with Hand and Body Pose Priors	Kaustubh Kundu , Hrishav Barua , Lucy Robertson-Bell , Zhixi Cai , Kalin Stefanov
+Feature-Disentangling RGB-NIR Fusion Network for Remote Driver Physiological Measurement	Tayssir Bouraffa , Ziyuan Wang , Daniel Strüber
+WiSE-OD: Benchmarking Robustness in Infrared Object Detection	Heitor Medeiros , ATIF BELAL , Masih Aminbeidokhti , Eric Granger , Marco Pedersoli
+Gated Temporal Fusion Transformers for Robust Multi-Object Tracking	Jinho Kim , Kuk-Jin Yoon
+WALDO: Where Unseen Model-based 6D Pose Estimation Meets Occlusion	Sajjad Pakdamansavoji , Yintao Ma , Amir Rasouli , TONGTONG CAO
+Feedback Alignment Meets Low-Rank Manifolds: A Structured Recipe for Local Learning	Arani Roy , Marco P. E. Apolinario , Shristi Biswas Biswas , Kaushik Roy
+Learning Beyond Labels: Self-Supervised Handwritten Text Recognition	Shree Mitra , Ajoy Mondal , Jawahar CV
+FLoMo-Net: A Novel Task-Adaptive Mixture of Experts Routing Framework with Frequency and Uncertainty Correction for Medical Image Segmentation	Md Rayhan Ahmed , Patricia Lasserre
+VISTA: A Vision and Intent-Aware Social Attention Framework for Multi-Agent Trajectory Prediction	Stephane Da Silva Martins , Emanuel Aldea , Sylvie Le Hégarat-Mascle
+Orca: Object Recognition and Comprehension for Archiving Marine Species	Yuk Kwan Wong , Liang Haixin , Zeyu Ma , Yiwei Chen , Ziqiang Zheng , Rinaldi Gotama , Pascal Sebastian , Lauren Sparks , Sai-Kit Yeung
+GaussianHeadTalk: Wobble-Free 3D Talking Heads with Audio Driven Gaussian Splatting	Madhav Agarwal , Mingtian Zhang , Laura Sevilla-Lara , Steven McDonagh
+VOCAL: Visual Odometry via ContrAstive Learning	Chi-Yao Huang , Zeel Bhatt , “YZ” Yezhou Yang
+Pretraining Helps When Capacity Allows: Evidence from Ultra-Small ConvNets	Srikanth Muralidharan , Heitor Medeiros , Masih Aminbeidokhti , Eric Granger , Marco Pedersoli
+Intra-Class Probabilistic Embeddings for Uncertainty Estimation in Vision-Language Models	Zhenxiang Lin , Maryam Haghighat , Will Browne , Dimity Miller
+Do generative video models understand physical principles?	Saman Motamed , Laura Culp , Kevin Swersky , Priyank Jaini , Robert Geirhos
+RAT4D: Rig and Animate Objects without Surface Templates in 4D	Mosam Dabhi , Simon Lucey , Laszlo Jeni
+Mitigating Backdoor Attacks via Trigger Reconstruction and Model Hardening	Guanhong Tao , Siyuan Cheng , Guangyu Shen , Yingqi Liu , Shengwei An , ZHUO ZHANG , Zhenting Wang , Hanxi Guo , Xiangyu Zhang
+Divide and Refine: Enhancing Multimodal Representation and Explainability for Emotion Recognition in Conversation	Tuan Mai , Cam-Van Thi Nguyen , Duc-Trong Le
+SSplain: Sparse and Smooth Explainer for Retinopathy of Prematurity Classification	Elifnur Sunger , Tales Imbiriba , J. Campbell , Deniz Erdogmus , Stratis Ioannidis , Jennifer Dy
+Broadcast2Pitch: Game State Reconstruction from Unconstrained Soccer Videos	Yin May Oo , Yewon Hwang , Muhammad Robbani , VANYI CHAO , Ankhzaya Jamsrandorj , Hoang Nguyen , Kyung-Ryoul Mun , Jinwook Kim
+Dronaquatics: Real-time Swimming Analytics Using Drone Captured Imagery	Thu Tran , Harold Abraham Joseph , Kichang Lee , Kenny Choo , Dong Ma , Shaohui Foong , Thivya Kandappu , Jeonggil Ko , Rajesh Balan
+Clear Sights on Site: A Spatial-Adaptive Channel Network for Deblurring Construction Site Images	Bonyani , Maryam Soleymani , Chao Wang
+SynPlay: Large-Scale Synthetic Human Data with Real-World Diversity for Aerial-View Perception	Jinsub Yim , Hyungtae Lee , Sungmin Eum , Yi-Ting Shen , Yan Zhang , Heesung Kwon , Shuvra Bhattacharyya
+Beyond Paired Data: Self-Supervised UAV Geo-Localization from Reference Imagery Alone	Tristan Amadei , Enric Meinhardt-Llopis , Benedicte Bascle , Corentin ABGRALL , Gabriele Facciolo
+Illuminating Darkness: Learning to Enhance Low-light Images In-the-Wild	S Sharif , Abdur Rehman , Zain Abidin , Fayaz Ali , Radu Timofte , Rizwan Naqvi
+VideoSketcher: A Training-Free Approach for Coherent Video Sketch Transfer	Huining Li , Bangzhen Liu , Rui Yang , Yang Zhou , Chenshu Xu , Xufang PANG , Shengfeng He
+Crash2DocAI: Automated Integration of Post-Crash Car Part Images into Technical Reports	Václav Diviš , Jessica Giovagnola , Khalil Ben Chikha , Marek Hrúz
+TacticalCalib: End-to-End 6-DoF Camera Pose Regression for Tactical Camera Calibration	Liang Fan , Xiaoqian Liu , Zhi Chen , Lingkai Yang
+Joint Modeling of Corruption-Driven and Information-Limited Uncertainty for Robust 3D Gaussian Splatting	Zeji Hui , Amirali Khodadadian Gostar , WeiQin Chuah , Alireza Bab-Hadiashar , Ruwan Tennakoon
+No MoCap Needed: Post-Training Motion Diffusion Models with Reinforcement Learning using Only Textual Prompts	Girolamo Macaluso , Lorenzo Mandelli , Mirko Bicchierai , Stefano Berretti , Andrew Bagdanov
+Revisiting Layer Normalization for Point Cloud Test Time Adaptation	Moslem Yazdanpanah , Ali Bahri , Mehrdad Noori , Sahar Dastani , Samuel Barbeau , David OSOWIECHI , Gustavo Vargas Hakim , Ismail Ayed , Christian Desrosiers
+T2LF: LLM-Guided Multimodal Diffusion for Text-to-Light Field Synthesis	Soyoung Yoon , Namhyuk Ahn , In Kyu Park
+SENCA-st: Integrating Spatial Transcriptomics and Histopathology with Cross Attention Shared Encoder for Region Identification in Cancer Pathology	Shanaka Liyanaarachchi , Chathurya Wijethunga , Shihab Ahamed , Akthas Absar , Ranga Rodrigo
+LogicCBMs: Logic-Enhanced Concept-Based Learning	Deepika Vemuri , Gautham Bellamkonda , Aditya Pola , Vineeth Balasubramanian
+SurgXBench: Explainable Vision-Language Model Benchmark for Surgery	Jiajun Cheng , Xianwu Zhao , Sainan Liu , Xiaofan Yu , Ravi Prakash , Patrick Codd , Jonathan Katz , Shan Lin
+Deep Image Decomposition for Medical Imaging Anonymization and Curation	Yael Elkin , Gal Arie , Tammy Raviv Raviv
+CountingDINO: A Training-free Pipeline for Class-Agnostic Counting using Unsupervised Backbones	Giacomo Pacini , Lorenzo Bianchi , Luca Ciampi , Nicola Messina , Giuseppe Amato , Fabrizio Falchi
+Personalized Image Privacy Advisors via Federated Daisy-Chaining	Sourasekhar Banerjee , Vengateswaran Subramaniam , Debaditya Roy , Vigneshwaran Subbaraju , Monowar Bhuyan
+Reciprocal Teaching: Dynamic Multi-Model Teacher-Student Learning for Multiple Noisy Annotations	Wenjie Ai , Cuong Nguyen , Adrian Hilton , Gustavo Carneiro
+WWE-UIE: A Wavelet & White Balance Efficient Network for Underwater Image Enhancement	Ching-Heng Cheng , Jen-Wei Lee , Chia-Ming Lee , Chih-Chung Hsu
+CLIP’s Visual Embedding Projector is a Few-shot Cornucopia	Mohammad Fahes , Tuan-Hung VU , Andrei Bursuc , Patrick Perez , Raoul de Charette
+SFMNet: Sparse Focal Modulation for 3D Object Detection	Oren Shrout , Ayellet Tal
+UltraClean: A Simple Framework to Train Robust Neural Networks against Backdoor Attacks	Bingyin Zhao , Yingjie Lao
+LangPose: Language-Aligned Motion for Robust 3D Human Pose Estimation	Longyun Liao , Rong Zheng
+Restora-Flow: Mask-Guided Image Restoration with Flow Matching	Arnela Hadzic , Franz Thaler , Lea Bogensperger , Simon Johannes Joham , Martin Urschler
+RegionAligner: Bridging Ego-Exo Views for Object Correspondence via Unified Text-Visual Learning	Yuhao Su , Ehsan Elhamifar
+Scalable Video Action Anticipation with Cross Linear Attentive Memory	Zeyun Zhong , Manuel Martin , David Schneider , David Lerch , Chengzhi Wu , Frederik Diederichs , Juergen Gall , Jürgen Beyerer
+Learning Compact Video Representations for Efficient Long-form Video Understanding in Large Multimodal Models	Yuxiao Chen , Jue Wang , Zhikang Zhang , Jingru Yi , Xu Zhang , Yang Zou , Zhaowei Cai , Jianbo Yuan , Xinyu Li , Hao Yang , Davide Modolo
+CSF-Net: Context-Semantic Fusion Network for Large Mask Inpainting	Chae-Yeon Heo , Yeong-Jun Cho
+ChartQA-X: Generating Explanations for Visual Chart Reasoning	Shamanthak Hegde , Pooyan Fazli , Hasti Seifi
+AnyBald: Toward Realistic Diffusion-Based Hair Removal In-The-Wild	Yongjun Choi , Seungoh Han , Soomin Kim , Sumin Son , Mohsen Rohani , Edgar Maucourant , Dongbo Min , Kyungdon Joo
+FAE-Net: Fashion Attribute Editing via Disentangled Latent Conditioning in Diffusion Models	Parvatam Rajith Bhargav , Gaurab Bhattacharya , Vivek B S , Jayavardhana Gubbi
+NRGMark: Localized Watermarking for Energy Transparency in Images	Shruti Agarwal , Élie Michel , Vishal Asnani , Tania Mathern , John Collomosse
+ACuRE: Accurate Continuity-Regularized SpO2 Estimation Using Liquid Time-Constant Networks	Shahzad Ahmad , DR. MISHRA , Sania Bano , Sukalpa Chanda , Yogesh Rawat
+F-ViTA: Foundation Model Guided Visible to Infrared Translation	Jay Paranjape , Celso de Melo , Vishal Patel
+Graph Query Networks for Object Detection with Automotive Radar	Loveneet Saini , Hasan Tercan , Tobias Meisen
+Multi-Grained Text-Guided Image Fusion for Multi-Exposure and Multi-Focus Scenarios	Mingwei Tang , Jiahao Nie , Guang Yang , Ziqing Cui , Jie Li
+Neural Geometry Image-Based Representations with Optimal Transport (OT)	Xiang Gao , Yuanpeng Liu , Jiazhi Li , Xinmu Wang , Minghao Guo , Yu Guo , Xiyun Song , Heather Yu , Zhiqiang Lao , David Gu
+LENVIZ: A High-Resolution Low-Exposure Night Vision Benchmark Dataset	Manjushree Aithal , Rosaura VidalMata , Manikandtan Kartha , Gong Chen , Eashan Adhikarla , Lucas Kirsten , Zhicheng Fu , Nikhil Madhusudhana , Joseph Nasti
+DICE: Discrete Inversion Enabling Controllable Editing for Masked Generative Models	Sen Zhang , Quan Dao , Ligong Han , Song Wen , Minhao Bai , Di Liu , Han Zhang , Felix Juefei-Xu , Chaowei Tan , Bo Liu , Martin Min , Kang Li , Faez Ahmed , Akash Srivastava , Hongdong Li , Junzhou Huang , Dimitri Metaxas
+High-Level Semantics and Low-Level Features Fusion for Multi-Scale Object Detection in Dynamic Construction Environments	Bonyani , Maryam Soleymani , Chao Wang
+FB-4D: Spatial-Temporal Coherent Dynamic 3D Content Generation with Feature Banks	Jinwei Li , Huan-ang Gao , Wenyi Li , Haohan Chi , Chenyu Liu , Chenxi Du , Yiqian Liu , Mingju Gao , Guiyu Zhang , Zongzheng Zhang , Li Yi , Yao Yao , Jingwei Zhao , Hongyang Li , Yikai Wang , Hao Zhao
+FocalComm: Hard Instance-Aware Multi-Agent Perception	Dereje Shenkut , Vijayakumar Bhagavatula
+F-INR: Functional Tensor Decomposition for Implicit Neural Representations	Sai Karthikeya Vemuri , Tim Büchner , Joachim Denzler
+Meta-YOLO: Metadata-Guided Real-Time Object Detector in Aerial Imagery	Deukryeol Yoon , Seonghak KIM , Young Hwa Sung , Jinho Jung
+Understanding Human-Like Biases in VLMs via Subjective Face Analytics	Chaitanya Roygaga , Aparna Bharati
+Integrating Multi-scale and Multi-filtration Topological Features for Medical Image Classification	Pengfei Gu , Huimin Li , Haoteng Tang , Dongkuan Xu , Erik Enriquez , Dongchul Kim , Bin Fu , Danny Chen
+PEaRL: Pathway-Enhanced Representation Learning for Gene and Pathway Expression Prediction from Histology	Sejuti Majumder , Saarthak Kapse , Moinak Bhattacharya , Xuan Xu , Alisa Yurovsky , Prateek Prasanna
+VectorSynth: Fine-Grained Satellite Image Synthesis with Structured Semantics	Daniel Cher , Brian Wei , Srikumar Sastry , Nathan Jacobs
+Feature Inversion as a Lens on Vision Encoders	Eduard Allakhverdov , Dmitrii Tarasov , Elizaveta Goncharova , Andrei Kuznetsov
+SAIL: Self-supervised Learning of Lighting-Invariant Representations from Real Images with Latent Diffusion	Hala Djeghim , Céline Loscos , Désiré Sidibé
+Stroke Modeling Enables Vectorized Character Generation with Large Vectorized Glyph Model	Xinyue Zhang , Haolong Li , Jiawei Ma , Chen Ye
+CaRS: A Causal Intervention Segmentation Framework and Benchmark Dataset for Autonomous Driving under Transitional Weather Conditions	Madhavi Kondapally , Naveen Kumar K , C Mohan , Sobhan Babu
+DirectDrag: High-Fidelity, Mask-Free, Prompt-Free Drag-based Image Editing via Readout-Guided Feature Alignment	Sheng-Hao Liao , Shang-Fu Chen , Tai-Ming Huang , Wen-Huang Cheng , Kailung Hua
+DMS2F-HAD: A Dual-branch Mamba-based Spatial–Spectral Fusion Network for Hyperspectral Anomaly Detection	Aayushma Pant , Lakpa Tamang , Tsz-Kwan Lee , Sunil Aryal
+MANTA: Physics-Informed Generalized Underwater Object Tracking	Suhas Srinath , Hemang Jamadagni , Aditya Chandrasekar , Prathosh AP
+EVTP-IVS: Effective Visual Token Pruning For Unifying Instruction Visual Segmentation In Multi-Modal Large Language Models	Wenhui Zhu , Xiwen Chen , Zhipeng Wang , Shao Tang , Sayan Ghosh , XUANZHAO DONG , Rajat Koner , Yalin Wang
+A Fast, Simple, and Flexible Scale Informative Feature Transform Module for Arbitrary Scale Image Super-Resolution	Aupendu Kar , Prabir Biswas
+Decoupling Shape and Texture in SAM-2 via Controlled Texture Replacement	Inbal Cohen , Boaz Meivar , Peihan Tu , Shai Avidan , Gal Oren
+DCText: Scheduled Attention Masking for Visual Text Generation via Divide-and-Conquer Strategy	Jaewoo Song , Jooyoung Choi , Kanghyun Baek , Sangyub Lee , Daemin Park , Sungroh Yoon
+Visual Detector Compression via Location-Aware Discriminant Analysis	Qizhen Lan , Jung Choi Choi , Qing Tian
+ImageNet-sES: A First Systematic Study of Sensor–Environment Simulation Anchored by Real Recaptures	Ji-yoon Kim , Eunsu Baek , Hyung-Sin Kim
+Cross-Modal Event Encoder: Bridging Image–Text Knowledge to Event Streams	SungHeon Jeong , Hanning Chen , Sanggeon Yun , Suhyeon Cho , Wenjun Huang , Xiangjian Liu , Mohsen Imani
+Exploring Automated Recognition of Instructional Activity and Discourse from Multimodal Classroom Data	Ivo Bueno , Ruikun Hou , Babette Bühler , Tim Fütterer , James Drimalla , Jonathan Foster , Peter Youngs , Peter Gerjets , Ulrich Trautwein , Enkelejda Kasneci
+WSSSP-Net: Weakly Supervised Semantic Segmentation Plugin Network for Face Anti-Spoofing	Krzysztof Galus , Piotr Syga , Piotr Kawa
+NAPP: Noise-Adaptive Prototype Perturbation for Few-Shot Learning	Il Kim , Sang Yun , Dongheon Lee , Seong Kim Kim , Joonki Paik
+Being Positive about Negative Queries: Exclusion Aware Multimodal Retrieval using Disentangled Representations	Prachi Jha , Sumit Bhatia , Srikanta Bedathur
+PredMapNet: Future and Historical Reasoning for Consistent Online HD Vectorized Map Construction	Bo Lang , Nirav Savaliya , Zhihao Zheng , Jinglun Feng , Zheng-Hang Yeh , Mooi Choo Chuah
+Shift-Equivariant Complex-Valued Convolutional Neural Networks	Quentin Gabot , Teck-Yian Lim , Jeremy Fix , Joana Frontera-Pons , Chengfang Ren , Jean-Philippe Ovarlez
+Pointmap-Conditioned Diffusion for Consistent Novel View Synthesis	Thang-Anh-Quan Nguyen , Laurent Caraffa , Jean-Philippe Tarel , Roland Brémond
+ExDDV: A New Dataset for Explainable Deepfake Detection  in Video	Vlad Hondru , Eduard Hogea , Darian Onchis , Radu Ionescu
+SCORE: Soft Label Compression-Centric Dataset Condensation via Coding Rate Optimization	Bowen Yuan , Yuxia Fu , Zijian Wang , Yadan Luo , Zi Huang
+Inpainting of Sparse Depth Maps from Monocular Depth-from-Focus on Pixel Processor Arrays	Maciej Lewandowski , Piotr Dudek
+MDUNet: Multimodal Decoding UNet for Passive Occluder-Aided Non-line-of-sight 3D Imaging	Fadlullah Raji , John Murray-Bruce
+One Model, Many Behaviors: Training-Induced Effects on Out-of-Distribution Detection	Gerhard Krumpl , Henning Avenhaus , Horst Possegger
+Imitating the Functionality of Image-to-Image Models Using a Single Example	Nurit Spingarn , Tomer Michaeli
+NavMapFusion: Diffusion-based Fusion of Navigation Maps for Online Vectorized HD Map Construction	Thomas Monninger , Zihan Zhang , Steffen Staab , Sihao Ding
+RobustFormer: Noise-Robust Pre-training for Images and Videos	Ashish Bastola , Nishant Luitel , Hao Wang , Danda Pani Paudel , Roshni Poudel , Abolfazl Razi
+Direct Visual Grounding by Directing Attention of Visual Tokens	Parsa Esmaeilkhani , Longin Jan Latecki
+Rethinking Real Image Editing: Unleashing Diverse Editing Operators via Multi-Objective Optimization	Siyuan Wang , Xi Yang , Zihao Zhou , Huiru Shao , Rui Zhang , Qiufeng Wang , Guangliang Cheng , Kaizhu Huang
+SpecGen: Neural Spectral BRDF Generation via Spectral-Spatial Tri-plane Aggregation	Jin Zhenyu , Wenjie Li , Zhanyu Ma , Heng Guo
+Surgical Gaussian Surfels: Highly Accurate Real-time Surgical Scene Rendering using Gaussian Surfels	Idris Sunmola , Zhenjun Zhao , Samuel Schmidgall , Yumeng Wang , Paul Maria Scheikl , Viet Pham , Axel Krieger
+Spec-Gloss Surfels and Normal–Diffuse Priors for Relightable Glossy Objects	Georgios Kouros , Minye Wu , Tinne Tuytelaars
+SCATR: Mitigating New Instance Suppression in LiDAR-based Tracking-by-Attention via Second Chance Assignment and Track Query Dropout	Brian Cheong , Letian Wang , Sandro Papais , Steven Waslander
+VFace: A Training-Free Approach for Diffusion-Based Video Face Swapping	Sanoojan Baliah , Yohan Abeysinghe , Rusiru Thushara , Khan Muhammad , Abhinav Dhall , Karthik Nandakumar , Muhammad Haris Khan
+SegMango: Early Deep Mango Yield Prediction based on Flower Segmentation and Weather Data	Janaksinh Ven , Charu Sharma , Azeemuddin Syed
+Diagnose Like A REAL Pathologist: An Uncertainty-Focused Approach for Trustworthy Multi-Resolution Multiple Instance Learning	Sungrae Hong , Sol Lee , Jisu Shin , Jiwon Jeong , Mun Yi
+Isolating the Role of Temporal Information in Video Saliency: A Controlled Experimental Analysis	Peter El-Jiz , Matthias Kuemmerer , Matthias Tangemann , Matthias Bethge , Andreas Bartels , Michael Bannert
+Safe Vision-Language Models via Unsafe Weights Manipulation	Moreno D'Incà , Elia Peruzzo , Xingqian Xu , Humphrey Shi , Nicu Sebe , Massimiliano Mancini
+Structure-Aware Feature Rectification with Region Adjacency Graphs for Training-free Open-Vocabulary Semantic Segmentation	Qiming Huang , Hao Ai , Jianbo Jiao
+DCSHARP: 3D Gaussian Splatting with Direction Cosine Spherical Harmonics and Shape-Aware Pruning	Ahmed Hasssan , Jian Meng , Yuanbo Xiangli , Jae-sun Seo
+PSA-MIL: A Probabilistic Spatial Attention-Based Multiple Instance Learning for Whole Slide Image Classification	Sharon Peled , Yosef Maruvka , Moti Freiman
+Unsupervised Segmentation by Diffusing, Walking and Cutting	Daniela Ivanova , Marco Aversa , Paul Henderson , John Williamson
+GAITGen: Disentangled Motion-Pathology Impaired Gait Generative Model -- Bringing Motion Generation to the Clinical Domain	Vida Adeli , Soroush Mehraban , Majid Mirmehdi , Alan Whone , Benjamin Filtjens , Amirhossein Dadashzadeh , Alfonso Fasano , Andrea Iaboni , Babak Taati
+milliMamba: Specular-Aware Human Pose Estimation via Dual mmWave Radar with Multi-Frame Mamba Fusion	Niraj Prakash Kini , Shiau-Rung Tsai , Guan-Hsun Lin , Wen-Hsiao Peng , Ching-Wen Ma , Jenq-Neng Hwang
+Human knowledge integrated multi-modal learning for single source domain generalization	Ayan Banerjee , Kuntal Thakur , Sandeep Gupta
+Improving Animal Pose Estimation through Species Similarity Measures and Rigorous Label Definition	Medhashree Parhy , Shaan Chanchani , Claire Kim , Joshua Mansky , Parth Thakre , Zian Pan , Haoyu Chen , Amy Reibman
+Comp4D: Compositional 4D Scene Generation	Hanwen Liang , Dejia Xu , Neel Bhatt , Hezhen Hu , Hanxue Liang , Konstantinos Plataniotis
+GraspDiffusion: Synthesizing Realistic Whole-body Hand-Object Interaction	Patrick Kwon , Chen Chen , Hanbyul Joo
+Mem-MLP: Real-Time 3D Human Motion Generation from Sparse Inputs	Sinan Mutlu , Georgios Fotios Angelis , Savas Ozkan , Paul Wisbey , Anastasios Drosou , Mete Ozay
+X-JEPA: A Novel Joint Learning Cross-Modal Predictive Alignment Framework for Remote Sensing Image Retrieval	Shabnam Choudhury , Yash Salunkhe , Vaibhav Rajan , Subhasis Chaudhuri , Biplab Banerjee
+SOLAR: Switchable Output Layer for Accuracy and Robustness in Once-for-All Training	Shaharyar Ahmed Khan Tareen , Lei Fan , Xiaojing Yuan , Qin Lin , Bin Hu
+Line Art Colorization with Offset Prior-based Diffusion Model	Xuan Zhu , Miao Cao , Fang-Lue Zhang , Yu-Kun Lai , Paul Rosin
+STRinGS: Selective Text Refinement in Gaussian Splatting	Abhinav Raundhal , Gaurav Behera , P Narayanan , Ravi Kiran Sarvadevabhatla , Makarand Tapaswi
+Remote Sensing Forestry Similarity Convolution	Shikuan Wang , Yuangong Chen , Jianzhou Gong , Lingyi Meng , Mengquan Wu , Longxing Liu , Haiwei Yuan , Guo Mingbin
+Unlocking Vision-Language Models for Video Anomaly Detection via Fine-Grained Prompting	Shu Zou , Xinyu Tian , Lukas Wesemann , Fabian Waschkowski , Zhaoyuan Yang , Jing Zhang
+RemEdit: Efficient Diffusion Editing with Riemannian Geometry	Eashan Adhikarla , Brian Davison
+Food Image Generation on Multi-Noun Categories	Xinyue Pan , Yuhao Chen , Jiangpeng He , Fengqing Zhu
+AusSmoke meets MultiNatSmoke: a fully-labelled diverse smoke segmentation dataset	Weihao Li , Hongjin Zhao , Gao Zhu , Ge-Peng Ji , Nicholas Wilson , Marta Yebra , Nick Barnes
+Equivariant Sampling for Improving Diffusion Model-based Image Restoration	Chenxu Wu , Qingpeng Kong , Peiang Zhao , Wendi Yang , Wenxin ma , Fenghe Tang , Zihang Jiang , S Kevin Zhou
+FlowEO: Generative Unsupervised Domain Adaptation for Earth Observation	Georges Le Bellier , Nicolas Audebert
+Deepfake Detection that Generalizes Across Benchmarks	Andrii Yermakov , Jan Čech , Jiri Matas , Mario Fritz
+HDR Reconstruction Boosting with Training-Free and Exposure-Consistent Diffusion	Yo-Tin Lin , Sykai Chen , Hou-Ning Hu , Yen-Yu Lin , Yu-Lun Liu
+Advancing Player Identification and Tracking with Global ID Fusion (GIF)	Karol Wojtulewicz , Minxing Liu , Niklas Carlsson
+HiMix : Hierarchical Visual-Textual Mixing Network for Lesion Segmentation	Soojin Hwang , Jaeyoon Sim , Won Hwa Kim
+Visibility guided Self-Supervised Occlusion Resilient Human Pose Estimation	Arindam Dutta , Sarosij Bose , Rohit Kundu , Calvin-Khang Ta , Saketh Bachu , Konstantinos Karydis , Amit Roy-Chowdhury
+Exploring the Boundaries of Diffusion Models for Offline Writer Identification with Sparse and Intra-Variable Data	Aritra Dey , Chandranath Adak , Kumari Priya , Soumi Chattopadhyay , Sukalpa Chanda
+A Woman with a Knife or A Knife with a Woman? Measuring Directional Bias Amplification in Image Captions	Rahul Nair , Bhanu Tokas , Hannah Kerner
+Non‑Contact Blood Pressure Estimation from Face Videos via Physiology‑Aware Contrastive Learning	JaeHyuk Son , Young-Seok Choi
+DuPLUS: Dual-Prompt Vision-Language Framework for Universal Medical Image Segmentation and Prognosis	Numan Saeed , Tausifa Jan Saleem , Fadillah Maani , Muhammad Ridzuan , Hu Wang , Mohammad Yaqub
+UniCoRN: Latent Diffusion-based Unified Controllable Image Restoration Network across Multiple Degradations	Debabrata Mandal , Soumitri Chattopadhyay , Guansen Tong , Praneeth Chakravarthula
+Fast Vision Mamba: Pooling Spatial Dimensions for Accelerated Processing	Saarthak Kapse , Robin Betz , Srinivasan Sivanandan
+PatchEAD: Unifying Industrial Visual Prompting Frameworks for Patch-Exclusive Anomaly Detection	Po-Han Huang , Jeng-Lin Li , Po-Hsuan Huang , Ming-Ching Chang , Wei-Chao Chen
+OpenCowID: Zero-Shot Visual Identification of Dairy Cows	Omkar Prabhune , Younghyun Kim
+EndoPBR: Photorealistic Synthetic Data for Surgical 3D Vision via Physically-based Rendering	John Han , Jie Ying Wu
+Beyond the Encoder: Joint Encoder-Decoder Contrastive Pre-Training Improves Dense Prediction	Sébastien Quetin , Tapotosh Ghosh , Farhad Maleki
+Tables Guide Vision: Learning to See the Heart through Tabular Data	Marta Hasny , Maxime Di Folco , Keno Bressem , Julia Schnabel
+CoreCaption: Core Caption based Text-to-Video Retrieval	Seonghee Han , Minchang Chung , Gyeongsu Cho , Kyungdon Joo , Taehwan Kim
+Pose-Diverse Multi-View Virtual Try-on from a Single Frontal Image via Diffusion Transformer	Seonghee Han , Minchang Chung , Gyeongsu Cho , Kyungdon Joo , Taehwan Kim
+Dual-Domain Multimodal Hyperbolic Fusion for Cardiopulmonary Disease Diagnosis in Emergency Care	Ke Nan , Maggie Samaan , Benjamin Burns , Xia Ning , Yuchi Han , Yuan Xue
+Enabling High-Quality In-the-Wild Imaging from Severely Aberrated Metalens Bursts	Debabrata Mandal , Zhihan Peng , Yujie Wang , Praneeth Chakravarthula
+FG-TRACER: Tracing Information Flow in Multimodal Large Language Models in Free-Form Generation	Alessia Saporita , Vittorio Pipoli , Federico Bolelli , Lorenzo Baraldi , Andrea Acquaviva , ELISA FICARRA
+ReFineVQA: Iterative Refinement of Video Description via Feedback Generation for Video Question Answering	Jeongwan Shin , Chan Hur , Seongmin Cho , Jae-Ho Choi , Hyeyoung Park
+From Lightweight CNNs to SpikeNets: Benchmarking Accuracy–Energy Tradeoffs with Pruned Spiking SqueezeNet	Radib Kabir , Tawsif Tashwar Dipto , Mehedi Ahamed , Sabbir Ahmed , Md Hasanul Kabir
+MAFM³: Modular Adaptation of Foundation Models for Multi-Modal Medical AI	Mohammad Qazi , Munachiso Nwadike , Ibrahim Almakky , Mohammad Yaqub , Numan Saeed
+M-ErasureBench: A Comprehensive Multimodal Evaluation Benchmark for Concept Erasure in Diffusion Models	Ju-Hsuan Weng , Jia-Wei Liao , Cheng-Fu Chou , Jun-Cheng Chen
+Align Video Diffusion Model with Online Video-Centric Preference Optimization	Jiacheng Zhang , Jie Wu , Weifeng Chen , Yatai Ji , Xuefeng Xiao , Weilin Huang , Kai Han
+HABIT: Human Action Benchmark for Interactive Traffic in CARLA	Mohan Ramesh , Mark Azer , Fabian Flohr
+Explaining the Unseen: Multimodal Vision-Language Reasoning for Situational Awareness in Underground Mining Disasters	Mizanur Rahman Jewel , Mohamed Elmahallawy , Sanjay Madria , Samuel Frimpong
+Color Preserving CMOS-SPAD Fusion for Multi-Frame HDR	Aleksi Suonsivu , Lauri Salmela , Lassi Helin , Leevi Uosukainen , Giacomo Boracchi
+Sea-CLIP: Mining Semantic-Aware Representations for Few-Shot Anomaly Detection with CLIP	Xiao Guo , Zhimin Chen , Carlos Castillo , Hongcheng Wang , Xiaoming Liu
+AGENet: Adaptive Edge-aware Geodesic Distance Learning for Few-Shot Medical Image Segmentation	Kijung Lee , Youngwan Jo , Sunghyun Ahn , Sanghyun Park
+Unified Video Anomaly Detection Model for Detecting Different Anomaly Types	Kijung Lee , Youngwan Jo , Sunghyun Ahn , Sanghyun Park
+MageBench: Bridging Large Multimodal Models to Agents	Miaosen Zhang , Qi Dai , Yifan Yang , Jianmin Bao , Dongdong Chen , Kai Qiu , Chong Luo , Xin Geng , Baining Guo
+DermEVAL: A Dermatologist-Reviewed Benchmark for Multimodal Large Language Models	Hongjin Zhao , Weihao Li , Zhenyue Qin , Ge-Peng Ji , Yang Liu , Tom Gedeon , Nick Barnes
+CAMP-VQA: Caption-Embedded Multimodal Perception for No-Reference Quality Assessment of Compressed Video	Xinyi Wang , Angeliki Katsenou , Junxiao Shen , David Bull
+Patch Your Matcher: Correspondence-Aware Image-to-Image Translation Unlocks Cross-Modal Matching via Single-Modality Priors	Anton Frolov , Volker Rodehorst
+MarineEval: Assessing the Marine Intelligence of Vision-Language Models	Yuk Kwan Wong , Tuan-An To , Jipeng Zhang , Ziqiang Zheng , Sai-Kit Yeung
+CLIP-UP: CLIP-Based Unanswerable Problem Detection for Visual Question Answering	Ben Vardi , Oron Nir , Ariel Shamir
+CaFlow: Enhancing Long-Term Action Quality Assessment with Causal Counterfactual Flow	Ruisheng Han , Kanglei Zhou , Shuang Chen , Amir Atapour-Abarghouei , Hubert P. H. Shum
+Not Like Transformers: Drop the Beat Representation for Dance Generation with Mamba-Based Diffusion Model	Sangjune Park , Inhyeok Choi , Donghyeon Soon , Youngwoo Jeon , Kyungdon Joo
+Distribution Highlighted Reference-based Label Distribution Learning for Facial Age Estimation	Satoshi Suzuki , Shin'ya Yamaguchi , Shoichiro Takeda , Takuhiro Kaneko , Shota Orihashi , Ryo Masumura
+Can Image Splicing and Copy-Move Forgery Be Detected by the Same Model? Forensim: An Attention-Based State-Space Approach	Soumyaroop Nandi , Prem Natarajan
+Rank-based Geographical Regularization: Revisiting Contrastive Self-Supervised Learning for Multispectral Remote Sensing Imagery	Tom Burgert , Leonard Hackel , Paolo Rota , Begüm Demir
+TaxonRL: Reinforcement Learning with Intermediate Rewards for Interpretable Fine-Grained Visual Reasoning	Maximilian von Klinski , Maximilian Schall
+AortaDiff: A Unified Multitask Diffusion Framework for Contrast-Free AAA Imaging	Yuxuan Ou , NING BI , Jiazhen Pan , Jiancheng Yang , Boliang Yu , Usama Zidan , Regent Lee , Vicente Grau
+DARB-Splatting: Generalizing Splatting with Decaying Anisotropic Radial Basis Functions	Hashiru Pramuditha , Vinasirajan Viruthshaan , Vishagar Arunan , Saeedha Nazar , Sameera Ramasinghe , Simon Lucey , Ranga Rodrigo
+Hierarchical Adaptive networks with Task vectors for Test-Time Adaptation	Sameer Ambekar , Marta Hasny , Laura Daza , Daniel Lang , Julia Schnabel
+GFT: Graph Feature Tuning for Efficient Point Cloud Analysis	Manish Dhakal , Venkat Dasari , Rajshekhar Sunderraman , Yi Ding
+Layout Anything: One Transformer for Universal Room Layout Estimation	Md Sohag Mia , Muhammad Abdullah Adnan
+IPCD: Intrinsic Point-Cloud Decomposition	Shogo Sato , Takuhiro Kaneko , Shoichiro Takeda , Tomoyasu Shimada , Kazuhiko Murasaki , Taiga Yoshida , Ryuichi Tanida , Akisato Kimura
+PerVL-Bench: Benchmarking Multimodal Personalization for Large Vision–Language Models	Adam Beauchaine , Craig Shue
+See, Record, Do: Automated Generation of UI Workflows from Tutorial Videos	Adam Beauchaine , Craig Shue
+Empowering Source-Free Domain Adaptation via MLLM-Guided Reliability-Based Curriculum Learning	Dongjie Chen , Kartik Patwari , Zhengfeng Lai , Xiaoguang Zhu , Sen-ching Cheung , Chen-Nee Chuah
+QUOTA: Quantifying Objects with Text-to-Image Models for Any Domain	Wenfang Sun , Yingjun Du , Gaowen Liu , Yefeng Zheng , Cees Snoek
+Contrastive Integrated Gradients: A Feature Attribution-Based Method for Explaining Whole Slide Image Classification	Anh Vu , Tuan Vo , Ngoc Bui , Nam Le , AKASH AWASTHI , Huy Vo , Thanh-Huy Nguyen , Zhu Han , Chandra Mohan , Hien Nguyen
+MEGA-PCC: A Mamba-based Efficient Approach for Joint Geometry and Attribute Point Cloud Compression	Kai-Hsiang Hsieh , Monyneath Yim , Wen-Hsiao Peng , Jui-Chiu Chiang
+Histopath-C: Towards Realistic Domain Shifts for Histopathology Vision-Language Adaptation	Mehrdad Noori , Gustavo Vargas Hakim , David OSOWIECHI , Fereshteh Shakeri , Ali Bahri , Moslem Yazdanpanah , Sahar Dastani , Ismail Ayed , Christian Desrosiers
+CORA: Consistency-Guided Semi-Supervised Framework for Reasoning Segmentation	Prantik Howlader , Hoang Nguyen-Canh , Srijan Das , Jingyi Xu , Hieu Le , Dimitris Samaras
+DODA: Adapting Object Detectors to Dynamic Agricultural Environments in Real-Time with Diffusion	Shuai Xiang , Pieter Blok , James Burridge , Haozhou Wang , Wei Guo
+Extreme Amodal Face Detection	Changlin Song , Yunzhong Hou , Michael Barnes , Rahul Shome , Dylan Campbell
+Training-free Detection of Text-to-video Generations via Over-coherence	Jonathan Brokman , Oren Rachmil , Omer Hofman , Roy Betser , Amit Giloni , Roman Vainshtein , Hisashi Kojima
+MM-TS: Multi-Modal Temperature and Margin Schedules for Contrastive Learning with Long-Tail Data	Siarhei Sheludzko , Dhimitrios Duka , Bernt Schiele , Hilde Kühne , Anna Kukleva
+AFL-PRF: Adaptive Federated Learning for Low-Quality Data: Enhancing Performance, Robustness, and Fairness	Pinrui Yu , Yiming Xie , Longtian Ye , Geng Yuan , Ningfang Mi , Xue Lin
+Harnessing Object Grounding for Time-Sensitive Video Understanding	Tz-Ying Wu , Sharath Nittur Sridhar , Subarna Tripathi
+Are All Marine Species Created Equal?  Performance Disparities in Underwater Object Detection	Melanie Wille , Tobias Fischer , Scarlett Raine
+ViGG: Robust RGB-D Point Cloud Registration using Visual-Geometric Mutual Guidance	Congjia Chen , Shen Yan , Yufu Qu
+SCORP: Scene-Consistent Object Refinement via Proxy Generation and Tuning	Ziwei Chen , Ziling Liu , Zitong Huang , Mingqi Gao , Feng Zheng
+How I Met Your Bias: Investigating Bias Amplification in Diffusion Models	Nathan Roos , Ekaterina Iakovleva , Ani Gjergji , Vito Paolo Pastore , Enzo Tartaglione
+PhysEduVideo: A Benchmark for Evaluating Text-to-Video Models for Physics Education	Megha Mariam K M , Aditya Arun , Zakaria Laskar , Jawahar CV
+DreamCatcher: Efficient Multi-Concept Customization via Representation Finetuning	Jungwon Lee , Changhun Lee , Eunhyeok Park
+Self-Supervised Visual Prompting for Cross-Domain Road Damage Detection	Xi Xiao , Zhuxuanzi Wang , Mingqiao Mo , Chen Liu , Chenrui Ma , Yanshu Li , Smita Krishnaswamy , Xiao Wang , Tianyang Wang
+HumanBench: Two Heads, No Legs, But Mostly Human, the State of Generative Capabilities in T2I Models	Anubhooti Jain , Mayank Vatsa , Richa Singh
+Boosting Unsupervised Video Instance Segmentation with Automatic Quality-Guided Self-Training	Kaixuan Lu , Mehmet Onurcan Kaya , Dim Papadopoulos
+Where is the Watermark? Interpretable Watermark Detection at the Block Level	Maria Bulychev , Neil Grant Marchant , Benjamin Rubinstein
+From Detection to Anticipation: Online Understanding of Struggles across Various Tasks and Activities	Shijia Feng , Michael Wray , Walterio Mayol-Cuevas
+Memoire: Learning User Personas from Gallery Tags for Personalized Photo Curation	Praful Mathur , Mohsin Iftekhar , Aman Sharma , Sarvesh Tiwari , Meghali Deka , Sathish Cherukuri , Roopa Sheshadri , Rakesh Valusa
+A Universal Self-Attention Enhancement for Bridging Low-bit Quantization and Vision Transformers	Jiahe Qian , Peisong Wang , Zhengyang Zhuge , Qinghao Hu , Jian Cheng
+Zero-Shot Video Deraining with Video Diffusion Models	Tuomas Varanka , Juan Bello Bello , Hyeongwoo Kim , Pablo Garrido , Xu YAO
+RoadBench: A Vision-Language Foundation Model and Benchmark for Road Damage Understanding	Xi Xiao , Yunbei Zhang , Janet Wang , Lin Zhao , YUXIANG WEI , Hengjia Li , Yanshu Li , Xiao Wang , Swalpa Roy , Hao Xu , Tianyang Wang
+Ego-EXTRA: video-language Egocentric Dataset for EXpert-TRAinee assistance	Francesco Ragusa , Michele Mazzamuto , Rosario Forte , Irene D'Ambra , James Fort , Jakob Engel , Antonino Furnari , Giovanni Farinella
+BREEN: Bridge Data-Efficient Encoder-Free Multimodal Learning with Learnable Queries	Tianle Li , Yongming Rao , Winston Hu , Yu Cheng
+GAEA: A Geolocation Aware Conversational Assistant	Ron Campos , Ashmal Vayani , Parth Parag Kulkarni , Rohit Gupta , Aizan Zafar , Aritra Dutta , Mubarak Shah
+Leveraging Sparsity for Privacy in Collaborative Inference	Maximilian Hoefler , Karsten Mueller , Wojciech Samek
+Optimizing LVLMs with On-Policy Data for Effective Hallucination Mitigation	Chengzhi Yu , Yifan Xu , Yifan Chen , Wenyi Zhang
+Eye-for-an-eye: Appearance Transfer with Dense Semantic Correspondence in Diffusion Models	Sooyeon Go , Kyungmook Choi , Minjung Shin , Youngjung Uh
+Diffusion-Based Action Recognition Generalizes to Untrained Domains	Rogério Guimarães , Frank Xiao , Pietro Perona , Markus Marks
+Multimodal Medical Image Binding via Shared Text Embeddings	Yunhao Liu , Suyang Xi , Shiqi Liu , Hong Ding , Chicheng Jin , Zhong Chong , Junjun He , Catherine Liu , Yiqing Shen
+ATM: Enhanced Alignment for Text-to-Motion Generation	Ke Han , Yueming Lyu , Weichen Yu , Nicu Sebe
+You May Speak Freely: Improving the Fine-Grained Visual Recognition Capabilities of Multimodal Large Language Models with Answer Extraction	Logan Lawrence , Oindrila Saha , Megan Wei , Chen Sun , Subhransu Maji , Grant Horn
+Intraoperative 2D/3D Registration via Spherical Similarity Learning and Differentiable Levenberg-Marquardt Optimization	Minheng Chen , Youyong Kong
+GRAPE (Gaussian Rendering for Accelerated Pixel Enhancement) Brings Fast and Lightweight Arbitrary Super-Resolution	Jung In Jang , Kyong Hwan Jin
+Face-LLaVA: Facial Expression and Attribute Understanding through Instruction Tuning	Ashutosh Chaubey , Xulang Guan , Mohammad Soleymani
+Revisiting Retentive Networks for Fast Range-View 3D LiDAR Semantic Segmentation	Simone Mosco , Daniel Fusaro , Wanmeng Li , Alberto Pretto
+Diffusion-Based Authentication of Copy Detection Patterns: A Multimodal Framework with Printer Signature Conditioning	Bolutife Atoki , Iuliia Tkachenko , Bertrand Kerautret , Carlos Crispim-Junior Crispim-Junior
+Pyramidal Spectrum: Frequency-based Hierarchically Vector Quantized VAE for Videos	Tushar Prakash , Onkar Susladkar , Inderjit Dhillon , Sparsh Mittal
+SeqFeedNet: Sequential Feature Feedback Network for Background Subtraction	Yu-Shun Huang , Jing-Ming Guo , Yi-Xiang Yang
+Zero-Shot Audio-Visual Editing via Cross-Modal Delta Denoising	Yan-Bo Lin , Kevin Lin , Zhengyuan Yang , Linjie Li , Jianfeng Wang , Chung-Ching Lin , Xiaofei Wang , Gedas Bertasius , Lijuan Wang
+FedSCAl: Leveraging Server and Client Alignment for Unsupervised Federated Source-Free Domain Adaptation	M Yashwanth , Sampath Koti , Arunabh Singh , Shyam Marjit , Anirban Chakraborty
+Human Pose Aggregation for Multi-View Temporal Video Alignment	Fabien Delattre , Tsung-Wei Huang , Guan-Ming Su , Erik Learned-Miller
+MEDAL: multi-modal MEta-space Distillation and ALignment for Visual Compatibility Learning	Dween Sanny , Vinay Verma , Prateek Sircar , Deepak Gupta
+FlowCLAS: Enhancing Normalizing Flow-Based Anomaly Segmentation Via Contrastive Learning	Chang Won (John) Lee , Selina Leveugle , Paul Grouchy , Chris Langley , Svetlana Stolpner , Jonathan Kelly , Steven Waslander
+Multimodal Graph Representation Learning over Arbitrary Sets of Modalities	Santosh Patapati , Trisanth Srinivasan
+RapidMV: Leveraging Spatio-Angular Latent Space for Efficient and Consistent Text-to-Multi-View Synthesis	Seungwook Kim , Yichun Shi , Kejie Li , Minsu Cho , Peng Wang
+PiSA: A Self-Augmented Data Engine and Training Strategy for 3D Understanding with Large Models	Zilu Guo , Hongbin Lin , Zhihao Yuan , Chaoda Zheng , Pengshuo Qiu , Dongzhi Jiang , Renrui Zhang , Chun-Mei Feng , Zhen Li
+DreamAnywhere: Object-Centric Panoramic 3D Scene Generation	Edoardo Dominici , Jozef Hladký , Floor Verhoeven , Lukas Radl , Thomas Deixelberger , Stefan Ainetter , Philipp Drescher , Stefan Hauswiesner , Arno Coomans , Giacomo Nazzaro , Konstantinos Vardis , Markus Steinberger
+mEOL: Training-Free Instruction-Guided Multimodal Embedder for Vector Graphics and Image Retrieval	Kyeongseon Kim , Baek Seong-Eun , Lee Jung-Mok , Tae-Hyun Oh
+TS-PCI: Point Cloud Frame Interpolation with Time-Aware Point Cloud Sampling and Self-Supervised Learning Strategy	Kohei Matsuzaki , Keisuke Nonaka
+Referring Change Detection in Remote Sensing Imagery	Yilmaz Korkmaz , Jay Paranjape , Celso de Melo , Vishal Patel
+GenHSI: Controllable Generation of Human-Scene Interaction Videos	Zekun Li , Rui Zhou , Rahul Sajnani , Xiaoyan Cong , Daniel Ritchie , Srinath Sridhar
+SAVeD: Learning to Denoise Low-SNR Video for Improved Downstream Performance	Suzanne Stathatos , Michael Hobley , Pietro Perona , Markus Marks
+Forget Less by Learning Together through Concept Consolidation	Arjun Kaushik Kaushik , Naresh Kumar Devulapally , Vishnu Lokhande , Nalini Ratha , Venu Govindaraju
+Training-free Multi-view 4D Human Motion Reconstruction Virtual Reality System	Yijie Li , Ce Zheng , Yijie He , Joel Julin , Ryosuke Ichikari , Satoki Ogiso , Satoshi Nakae , Akihiro Sato , Takeshi Kurata , Laszlo Jeni
+Cluster-Guided Adversarial Perturbations for Robust Contrastive Learning	Seongyun Seo , Sungmin Han , Jeonghyun Lee , Sangkyun Lee
+Eff-GRot: Efficient and Generalizable Rotation Estimation with Transformers	Fanis Mathioulakis , Gorjan Radevski , Tinne Tuytelaars
+Interleaved Vision-and-Language Generation via Generative Voken	Kaizhi Zheng , Xuehai He , Xin Wang
+CraftSVG: Multi-Object Text-to-SVG Synthesis via Layout Guided  Diffusion	Ayan Banerjee , Nityanand Mathur , Josep Llados , Umapada Pal , Anjan Dutta
+Network-agnostic distortion-robust projections for wide-angle image understanding	Akshaya Athwale , Ola Ahmad , Jean-Francois Lalonde
+PS3: Part level instance segmentation in 3D	HONG-XUAN YEN , Chiamin Chen , Yanqing Wang , Yu-Lun Liu , Min Sun
+Towards Unconstrained Cross-View Pose Estimation	Alexander Wollam , Kyle Ashley , Maxim Shugaev , Oliver Arend , Ilya Semenov , Hadis Dashtestani , Sumved Ravi , Nathan Jacobs
+Root Completion from Intraoral Scans of Tooth Crowns using Diffusion with Patch Perturbation	Yohan Jang , In-Seok Song , Seung Baek
+ZonUI-3B: Competitive GUI Grounding with a 3B VLM Trained on a Single Consumer GPU	ZongHan Hsieh , SHENGJING YANG , TZER-JEN WEI
+HyperPose: Hyper-pose Embeddings for 3D-Aware Generative Models with Self-Supervised Disentangling of Pose and Scene	Mijeong Kim , Namgi Kim , Bohyung Han
+Diverse Sketch Colorization with Content-Enhanced Style Representation and Recolorization Distillation	Shuangming Mao , HaiXiang Zhu
+BanglaProtha: Evaluating Vision Language Models in Underrepresented Long-tail Cultural Contexts	Md Fahim , Md Sakib Ul Rahman Sourove , Akm Mazumder , Md Ishmam , Md Adib , Fariha Tanjim Shifat , Fabiha Haider , Md Bhuiyan
+ProSkill: Segment-Level Skill Assessment in Procedural Videos	Michele Mazzamuto , Daniele Di Mauro , Gianpiero Francesca , Giovanni Farinella , Antonino Furnari
+Towards Fast and Scalable Normal Integration using Continuous Components	Francesco Milano , Jen Jen Chung , Lionel Ott , Roland Siegwart
+GHOST: Getting to the Bottom of Hallucinations with A Multi-round Consistency Benchmark	Vibashan VS , Nadine Chang , Jenny Schmalfuss , Vishal Patel , Zhiding Yu , Jose M. Alvarez
+QuadraNet V2: Efficient and Sustainable Training of High-Order Neural Networks with Quadratic Adaptation	Chenhui Xu , Fuxun Yu , Jinjun Xiong , Xiang Chen
+Identity Verification from Human Scent using Channel Representation of 2D Gas Chromatography-Mass Spectrometry Data	Radim Spetlik , Jan Hlavsa , Jana Čechová , Petra Pojmanová , Jiri Matas , Štěpán Urban
+BrightRate: Quality Assessment for User-Generated HDR Videos	Shreshth Saini , Bowen Chen , Yilin Wang , Neil Birkbeck , Balu Adsumilli , Alan Bovik
+Inpaint360GS: Efficient Object-Aware 3D Inpainting via Gaussian Splatting for 360° Scenes	Shaoxiang Wang , Shihong Zhang , Christen Millerdurai , Rüdiger Westermann , Didier Stricker , Alain Pagani
+QCFace: Image Quality Control for boosting Face Representation & Recognition	Duc-Phuong Doan-Ngo , Thanh-Dang Diep , Thanh Nguyen-Duc , Thanh-Sach LE , Nam Thoai
+Test-Time Adaptation for Video Highlight Detection Using Meta-Auxiliary Learning and Cross-Modality Hallucinations	Zahidul Islam , Sujoy Paul , Mrigank Rochan
+CycleSL: Server-Client Cyclical Update Driven Scalable Split Learning	Mengdi Wang , Efe Bozkir , Enkelejda Kasneci
+Roadside Monocular 3D Detection Prompted by 2D Detection	Yechi Ma , Wei Hua , Yanan Li , Shu Kong
+ASC: Learning Augmentation Severity-Consistent Representations Improves Generalization via Augmentation Search	Amirhossein Alamdar , Hossein Jafarinia , Mahdi Nouri , Mohammad Rohban
+Semi-Supervised Hierarchical Open-Set Classification	Erik Wallin , Fredrik Kahl , Lars Hammarstrand
+DoTA: Latent Distribution Conditioned Data Attribution for Diffusion Models	Ninad Joshi , Vivek Srivastava , Shirish Karande
+Narrating For You: Prompt-guided Audio-visual Narrating Face Generation Employing Multi-entangled Latent Space	Aashish Chandra , Aashutosh A V , Abhijit Das
+LightGazeNet: A Lightweight GNN-based Architecture for Gaze Estimation	Heena Patel , Anirban Chowdhury , Pooja Choksy , Samiksha Pachade , Ajinkya Puar
+CalibBEV: LiDAR-Camera Calibration via BEV Alignment	Filippo D'Addeo , Lorenzo Cipelli , Adriano Cardace , Emanuele Ghelfi , Andrea Zinelli , Massimo Bertozzi
+Zero-Shot Coreset Selection via Iterative Subspace Sampling	Brent Griffin , Jacob Marks , Jason Corso
+BAFIS: Dataset + Framework to assess occupational Bias and Human Preference in modern Text-to-image Models	Thomas Klassert , Adrian Ulges , Biying Fu
+High-Rate Mixout: Revisiting Mixout for Robust Domain Generalization	Masih Aminbeidokhti , Heitor Medeiros , Srikanth Muralidharan , Eric Granger , Marco Pedersoli
+CVP: Central-Peripheral Vision-Inspired Multimodal Model for Spatial Reasoning	Zeyuan Chen , Xiang Zhang , Haiyang Xu , Jianwen Xie , Zhuowen Tu
+Discrete Facial Encoding: A Framework for Data-driven Facial Display Discovery	Minh Tran , Maksim Siniukov , Zhangyu Jin , Mohammad Soleymani
+ScoliGaitX: A Deep Multi-Modal Fusion Network for Scoliosis Assessment via Gait Video Analysis	Kaushik Vishwakarma , Aditya Nigam
+FlowMorph: Revealing an Optimizable Flow Latent Space for Controlled Image Morphing	Yan Zheng , Yi Yang , Lanqing Guo , Zhangyang ”Atlas” Wang
+Zero-shot Hierarchical Plant Segmentation via Foundation Segmentation Models and Text-to-image Attention	Junhao Xing , Ryohei Miyakawa , Yang Yang , Xinpeng Liu , Risa Shinoda , Hiroaki Santo , Yosuke Toda , Fumio Okura
+Moiré Zero: An Efficient and High-Performance Neural Architecture for Moiré Removal	Seungryong Lee , Woojeong Baek , Younghyun Kim , Eunwoo Kim , Haru Moon , Donggon Yoo , Eunbyung Park
+A-V Representation Learning via Audio Shift Prediction for Multimodal Deepfake Detection and Temporal Localization	Ashutosh Anshul , Eng Chng , Deepu Rajan
+MVAT: Multi-View Aware Teacher for Weakly Supervised 3D Object Detection	Saad Lahlali , Alexandre Montgieux , Nicolas Granger , Hervé Le Borgne , Quoc Cuong PHAM
+Evaluating Text-to-Image and Text-to-Video Synthesis with a Conditional Frechet Distance	Jaywon Koo , Jefferson Hernandez , Moayed Haji-Ali , Ziyan Yang , Vicente Ordonez
+CineVerse: Consistent Keyframe Synthesis for Cinematic Scene Composition	Quynh Phunh , Long Mai , Fabian Caba Heilbron , Feng Liu , Jia-Bin Huang , Cusuh Ham
+ConsensusXAI: A framework to examine class-wise agreement in medical imaging	Abbas Haider , David Wright , Ruth Hogg , Hui Wang , Tunde Peto , Richard Gault
+Matching Semantically Similar Non-Identical Objects	Yusuke Marumo , Kazuhiko Kawamoto , Satomi Tanaka , Shigenobu Hirano , Hiroshi Kera
+What Happens When: Learning Temporal Orders of Events in Videos	Daechul Ahn , Yura Choi , Hyeonbeom Choi , Seongwon Cho , San Kim , Jonghyun Choi
+DiRe: Diversity-promoting Regularization for Dataset Condensation	Saumyaranjan Mohanty , Aravind Reddy , Konda Reddy Mopuri
+Improved Wildfire Spread Prediction with Time-Series Data and the WSTS+ Benchmark	Saad Lahrichi , Jake Bova , Jesse Johnson , Jordan Malof
+RAVU: Retrieval Augmented Video Understanding with Compositional Reasoning over Graph	Sameer Malik , Ayush Singh , Moyuru Yamada , Dishank Aggarwal
+StreetView-Waste: A Multi-Task Dataset for Urban Waste Management	Diogo J. Paulo , João Martins , Hugo Proenca , João Neves
+Evaluating the Capability of Video Question Generation for Expert Knowledge Elicitation	Huaying Zhang , Atsushi Hashimoto , Tosho Hirasawa
+GASP: Unifying Geometric and Semantic Self-Supervised Pre-training for Autonomous Driving	William Ljungbergh , Adam Lilja , Adam Tonderski , Arvid Ling , Carl Lindström , Willem Verbeke , Junsheng Fu , Christoffer Petersson , Lars Hammarstrand , Michael Felsberg
+Gradient-Free Classifier Guidance for Diffusion Model Sampling	Rahul Shenoy , Zhihong Pan , Kaushik Balakrishnan , Qisen Cheng , Yongmoon Jeon , Heejune Yang , Jaewon Kim
+PointNet4D: A lightweight 4D Point Cloud Video Backbone for Online and Offline Perception in Robotic Applications	Yunze Liu , Zifan Wang , Peiran Wu , Jiayang Ao
+Show Me: Unifying Instructional Image and Video Generation with Diffusion Models	Yujiang Pu , Zhanbo Huang , Vishnu Boddeti , Yu Kong
+SimForce: Force and Surface Electromyography from Full Body Video with Graph Neural Nets	Esha Dasgupta , Boeun Kim , Sang-Hoon Yeo , Hyung Jin Chang
+HEART-PFL: Stable Personalized Federated Learning under Heterogeneity with Hierarchical Directional Alignment and Adversarial Knowledge Transfer	Minjun Kim , Minje Kim
+Detecting Social Engagement of Elderly From Lifelog Image-streams to Identify Effective Cues for Autobiographic Recall	Vengateswaran Subramaniam , Vigneshwaran Subbaraju , Debaditya Roy , Pramath Krishna , Thivya Kandappu , Qianli Xu
+CasTex: Cascaded Text-to-Texture Synthesis via Explicit Texture Maps and Physically-Based Shading	Mishan Aliev , Dmitry Baranchuk , Kirill Struminsky
+Data-Driven Loss Functions for Inference-Time Optimization in Text-to-Image	Sapir Esther Yiflach , Yuval Atzmon , Gal Chechik
+DOTGraph: CLIP-Driven Feature Disentanglement and Optimal Transport based Graph Learning for Few-Shot Segmentation	Shreya Biswas , Zhaozheng Yin
+ScoreNet: Netting Lightweight Quality Scores for Better Visual Assessment with Large Multi-Modality Models	Bahador Rashidi , Kiarash Aghakasiri , Shupei Zhang , Amirmohsen Sattarifard , Yue zhang , Chao Gao
+A Little More Like This: Text-to-Image Retrieval with Vision-Language Models Using Relevance Feedback	Bulat Khaertdinov , Mirela Popa , Nava Tintarev
+Online Episodic Memory Visual Query Localization with Egocentric Streaming Object Memory	Zaira Manigrasso , Matteo Dunnhofer , Antonino Furnari , Moritz Nottebaum , Antonio Finocchiaro , Marana Davide , Rosario Forte , Giovanni Farinella , Christian Micheloni
+LVM-Lite: Training Large Vision Models with Efficient Sequential Modeling	Xianhang Li , Hongru Zhu , Sucheng Ren , Linjie Yang , Peng Wang , Heng Wang , Xiaohui Shen , Qing Liu , Cihang Xie
+Domain Generalizing DINO for Visual Regression via Latent Distractor Subspace Consistency	Nikhil Kumar Jangamreddy , Chetan Arora , Mahsa Baktashmotlagh
+TalkingHeadBench: A Multi-Modal Benchmark & Analysis of Talking-Head DeepFake Detection	Xinqi Xiong , Prakrut Patel , Qingyuan Fan , Amisha Wadhwa , Sarathy Selvam , Xiao Guo , Luchao Qi , Xiaoming Liu , Roni Sengupta
+Guided Texture Segmentation via Coordinate-Aware Class-Ratio Mapping	Bishal Swain , Kyung Cheoi , Jaepil Ko
+OMeGa: Joint Optimization of Explicit Meshes and Gaussian Splats for Robust Scene-Level Surface Reconstruction	Yuhang Cao , Haojun Yan , Danya Yao
+Similarity-aware Probabilistic Embeddings Modeling for Video-Text Retrieval	Yuliang Huang , Pengxu Wei , Zhicheng Dong , Liang Lin
+SIAM: Synchronous Interaction Attention for Human Mesh Recovery	Niaz Ahmad , Saif Ullah , Youngmoon Lee , Guanghui Wang
+Transformer-Based Inpainting for Real-Time 3D Streaming in Sparse Multi-Camera Setups	Leif V Holland , Domenic Zingsheim , Mana Takhsha , Hannah Dröge , Patrick Stotko , Markus Plack , Reinhard Klein
+LiDAR-DHMT: LiDAR-Adaptive Dual Hierarchical Mask Transformer for Robust Freespace Detection and Semantic Segmentation	Siyu Chen , Ting Han , Changshe Zhang , Xin Luo , Huan Chen , Meiliu Wu , Guorong Cai , jinhe su
+LASER: Lip Landmark Assisted Speaker Detection for Robustness	Le Thien Phuc Nguyen , Zhuoran Yu , Yong Jae Lee
+Generalization of Real World Video Deblurring By Image-to-Image Translation	Kassymzhomart Aitbek , Seungjoon Yang
+More Than Memory Savings: Zeroth-Order Optimization Mitigates Forgetting in Continual Learning	Wanhao Yu , Zheng Wang , Shuteng Niu , Sen Lin , Li Yang
+CoL2A: Convolution-free Local Linear Attention for SpatioTemporal Event Processing	Yusuke Sekikawa , Itsumi Araki , Jun Nagata , Andreu Girbau
+Patch-wise Retrieval: A Bag of Practical Techniques for Instance-level Matching	Wonseok Choi , Sohwi Lim , Nam Hyeon-Woo , Moon Ye-Bin , Dong-ju Jeong , Jinyoung Hwang , Tae-Hyun Oh
+Geo3DVQA: Evaluating Vision-Language Models for 3D Geospatial Reasoning from Aerial Imagery	Mai Tsujimoto , Junjue Wang , Weihao Xuan , Naoto Yokoya
+Timestamp Query Transformer for Temporal Action Segmentation	Tieqiao Wang , Sinisa Todorovic
+GrowTAS: Progressive Expansion from Small to Large Subnets for Efficient ViT Architecture Search	Hyunju Lee , Youngmin Oh , Jeimin Jeon , Donghyeon Baek , Bumsub Ham
+Curve Skeletonization in Continuous domain for Meshes and Point Clouds	Jai Bardhan , Ramya Hebbalaguppe , Aravind Udupa
+ImageChain: Advancing Sequential Image-to-Text Reasoning in Multimodal Large Language Models	Danae Sanchez Villegas , Ingo Ziegler , Desmond Elliott
+ST-Think: How Multimodal Large Language Models Reason About 4D Worlds from Ego-Centric Videos	Peiran Wu , Yunze Liu , Miao Liu , Junxiao Shen
+Improving Out-of-Distribution Detection Using Segmented Images and Cross-View Attention Fusion	Alexander Politowicz , Sahisnu Mazumder , Bing Liu
+Revisiting Vision–Language Foundations for No-Reference Image Quality Assessment	ANKIT YADAV , Ta Duc Huy , Lingqiao Liu
+Learning Subglacial Bed Topography from Sparse Radar with Physics-Guided Residuals	Bayu Tama , Jianwu Wang , Vandana Janeja , Mostafa Cham
+DPBridge: Latent Diffusion Bridge for Dense Prediction	Haorui Ji , Tao Jun Lin , Hongdong Li
+CRISP: Cylindrical Rendering for In-Stream Point Clouds	Hyungwoo Kang , Seonyoung Jang , YeoJun Yoon , Byungtae Oh
+KFS-Bench: Comprehensive Evaluation of Key Frame Sampling in Long Video Understanding	Zongyao Li , Kengo Ishida , Satoshi Yamazaki , XIAOTONG JI , Jianquan Liu
+Style-Friendly SNR Sampler for Style-Driven Generation	Jooyoung Choi , Chaehun Shin , Yeongtak Oh , Heeseung Kim , Jungbeom Lee , Sungroh Yoon
+ControlVP: Interactive Geometric Refinement of AI-Generated Images with Consistent Vanishing Points	Ryota Okumura , Kaede Shiohara , Toshihiko Yamasaki
+Towards Egocentric 3D Hand Pose Estimation in Unseen Domains	Wiktor Mucha , Michael Wray , Martin Kampel
+Motion-Aware Graph Fusion NetWork for 3D Human Pose Estimation	Yen Pham , Xiaohui Yuan , Chengyuan Zhuang
+SynchroRaMa : Lip-Synchronized and Emotion-Aware Talking Face Generation via Multi-Modal Emotion Embedding	Phyo Thet Yee , Dimitrios Kollias , Sudeepta Mishra , Abhinav Dhall
+Conjuring Positive Pairs for Efficient Unification of Representation Learning and Image Synthesis	Imanol Estepa , Jesús Rodríguez-de-Vera , Ignacio Sarasua , Bhalaji Nagarajan , Petia Radeva
+OSEG: Improving Diffusion sampling through Orthogonal Smoothed Energy Guidance	Masud Fahim , Nazmus Saqib , JOON-MIN GIL
+IMKD: Intensity-Aware Multi-Level Knowledge Distillation for Camera-Radar Fusion	Shashank Mishra , Karan Patil , Didier Stricker , Jason Rambach
+MUSE: Model-based Uncertainty-aware Similarity Estimation for zero-shot 2D Object Detection and Segmentation	Sungmin Cho , Sungbum Park , Insoo Oh
+TM-Adapter: Temporal Merge Adapter for Efficient Global Temporal Modeling	WooJoo Hahm , Seungwoo Jang , Hyeon Kim , Daeun Lee , Kwangsu Kim
+SceneProp: Combining Neural Network and Markov Random Field for Scene-Graph Grounding	Keita Otani , Tatsuya Harada
+Reinforcement Learning-based Adaptive Control of Classifier-Free Guidance and Timestep Embeddings in Diffusion Models	Haochen You , Baojing Liu , Hongyang He
+Zero‑Shot Domain Generalisation via Prompt-Driven Feature Refinement	Tingrui Qiao , Di Zhao , Caroline Walker , Chris Cunningham , Yun Sing Koh
+GFT-GCN: Privacy-Preserving 3D Face Mesh Recognition with Spectral Diffusion	Hichem Felouat , Hanrui Wang , Isao Echizen
+Video and Language Alignment in 2D Systems for 3D Multi-object Scenes with Multi-Information Derivative-Free Control	Jason Armitage , Rico Sennrich
+ViSTA: Visual Storytelling using Multi-modal Adapters for Text-to-Image Diffusion Models	Sibo Dong , Ismail Shaheen , Maggie Shen , Rupayan Mallick , Sarah Bargal
+PSDiffusion: Harmonized Multi-Layer Image Generation via Layout and Appearance Alignment	Dingbang Huang , Wenbo Li , Yifei Zhao , Xinyu Pan , Yanhong Zeng , Bo Dai
+Virtually Unrolling the Herculaneum Papyri by Diffeomorphic Spiral Fitting	Vikas Thamizharasan , Nikitas Chatzis , Iliyan Georgiev , Matthew Fisher , Evangelos Kalogerakis , Difan Liu , Nanxuan Zhao , Michal Lukáč
+Mean-Shift Distillation for Diffusion Mode Seeking	Vikas Thamizharasan , Nikitas Chatzis , Iliyan Georgiev , Matthew Fisher , Evangelos Kalogerakis , Difan Liu , Nanxuan Zhao , Michal Lukáč
+FAIR-SIGHT: Fairness Assurance in Image Recognition via Simultaneous Conformal Thresholding and Dynamic Output Repair	Arya Fayyazi , Mehdi Kamal , Massoud Pedram
+Guiding What Not to Generate: Automated Negative Prompting for Text-Image Alignment	Sangha Park , Eunji Kim , Yeongtak Oh , Jooyoung Choi , Sungroh Yoon
+Correcting and Quantifying Systematic Errors in 3D Box Annotations for Autonomous Driving	Alexandre Justo Miro , Ludvig af Klinteberg , Bogdan Timus , Aron Asefaw , Ajinkya Khoche , Thomas Gustafsson , Sina Mansouri , Masoud DANESHTALAB
+S2O: Static to Openable Enhancement for Articulated 3D Objects	Hanxiao Jiang , Hanxiao Jiang , Yiming Zhang , Manolis Savva , Angel Chang
+PoseAdapt: Sustainable Human Pose Estimation via Continual Learning Benchmarks and Toolkit	Muhammad Saif Ullah Khan , Didier Stricker
+Multimodal Adversarial Defense for Vision-Language Models by Leveraging One-To-Many Relationships	Futa Waseda , Antonio Tejero-de-Pablos , Isao Echizen
+ForestSplats: Deformable transient field for Gaussian Splatting in the Wild	Wongi Park , Myeongseok Nam , Siwon Kim , Sangwoo Jo , Soomok Lee
+SGD-Mix: Enhancing Domain-Specific Image Classification with Label-Preserving Data Augmentation	Yixuan Dong , Fang-Yi Su , Jung-Hsien Chiang
+PALMS+: Modular Image-Based Floor Plan Localization Leveraging Depth Foundation Model	Yunqian Cheng , Benjamin Princen , Roberto Manduchi
+Knowledge to Sight: Reasoning over Visual Attributes via Knowledge Decomposition for Abnormality Grounding	Jun Li , Che Liu , Wenjia Bai , Mingxuan Liu , Rossella Arcucci , Cosmin Bercea , Julia Schnabel
+AuViRe: Audio-visual Speech Representation Reconstruction for Deepfake Temporal Localization	Christos Koutlis , Symeon Papadopoulos
+T2VWorldBench: A Benchmark for Evaluating World Knowledge in Text-to-Video Generation	Yubin Chen , Xuyang Guo , Zhenmei Shi , Zhao Song , Jiahao Zhang
+IPTQ-ViT: Post-Training Quantization of Non-linear Functions for Integer-only Vision Transformers	Gihwan Kim , Jemin Lee , Hyungshin Kim
+Locally Explaining Prediction Behavior via Gradual Interventions and Measuring Property Gradients	Niklas Penzel , Joachim Denzler
+DM3Net: Dual-Camera Super-Resolution via Domain Modulation and Multi-scale Matching	CONG GUAN , Jiacheng Ying , Osamu Yoshie , Yuya Ieiri
+Adversarial Pseudo-replay for Exemplar-free Class-incremental Learning	Peter Chen , Bryan Chang , Olivia Creasey , Julie Sneddon , Zev Gartner , Yining Liu
+3D Cell Oversegmentation Correction via Geo-Wasserstein Divergence	Peter Chen , Bryan Chang , Olivia Creasey , Julie Sneddon , Zev Gartner , Yining Liu
+brat: Aligned Multi-View Embeddings for Brain MRI Analysis	Maxime Kayser , Maksim Gridnev , Wanting Wang , Max Bain , Aneesh Rangnekar , Avijit Chatterjee , Aleksandr Petrov , Harini Veeraraghavan , Nathaniel Swinburne
+Guided Model Merging for Hybrid Data Learning: Leveraging Centralized Data to Refine Decentralized Models	Junyi Zhu , Ruicong Yao , Taha Ceritli , Savas Ozkan , Matthew Blaschko , Eunchung Noh , Jeongwon Min , Cho Min , Mete Ozay
+MedPEFT-CL: Dual-Phase Parameter-Efficient Continual Learning with Medical Semantic Adapter and Bidirectional Memory Consolidation	ZIYUAN GAO , Philippe Morel
+Test-Time Consistency in Vision Language Models	Shih-Han Chou , Shivam Chandhok , James Little , Leonid Sigal
+DualRes: Production-ready Dynamic Object Detection	Jibril hassani , Thomas Verelst
+FastPose-ViT: A Vision Transformer for Real-Time Spacecraft Pose Estimation	Pierre Ancey , Andrew Price , Saqib Javed , Mathieu Salzmann
+SAFER-AiD: Saccade-Assisted Foveal-peripheral vision Enhanced Reconstruction for Adversarial Defense	Jiayang Liu , Daniel Tso , Yiming Bu , Qinru Qiu
+MMHOI: Modeling Complex 3D Multi-Human Multi-Object Interactions	Kaen Kazawa (Kogashi) , Anoop Cherian , Meng-Yu Jennifer Kuo
+SAVE: Sparse Autoencoder‑Driven Visual Information Enhancement for Mitigating Object Hallucination	Sangha Park , Seungryong Yoo , Jisoo Mok , Sungroh Yoon
+Flood-LDM: Generalizable Latent Diffusion Models for rapid and accurate zero-shot High-Resolution Flood Mapping	Sun Han Neo , Sachith Seneviratne , Viraj Vidura Herath Herath Mudiyanselage , Abhishek Saha , Sanka Rasnayaka , Lucy Marshall
+Generalizing Sports Feedback Generation by Watching Competitions and Reading Books: A Rock Climbing Case Study	Arushi Rai , Adriana Kovashka
+TriaGS: Differentiable Triangulation-Guided Geometric Consistency for 3D Gaussian Splatting	Quan Hong , Tuan Dang
+Any Detector Can Detect Anything	Thomas Huang , Siyuan Li , Martin Danelljan , Henghui Ding , Luc Van Gool , Fisher Yu
+SafeguardGS: 3D Gaussian Primitive Pruning While Avoiding Catastrophic Scene Destruction	Yongjae Lee , Zhaoliang Zhang , Deliang Fan
+Scalpel: Fine-Grained Alignment of Attention Activation Manifolds  via Mixture Gaussian Bridges to Mitigate Multimodal Hallucination	Ziqiang Shi , Rujie Liu , Shanshan Yu , Satoshi Munakata , Koichi Shirahata
+UniVid: Unifying Vision Tasks with Pre-trained Video Generation Models	Lan Chen , Yuchao Gu , Qi Mao
+ENCORE : A Neural Collapse Perspective on Out-of-Distribution Detection in Deep Neural Networks	A. Q. M. Sazzad Sayyed , Nathaniel Bastian , Francesco Restuccia
+FlyPose: Towards Robust Human Pose Estimation From Aerial Views	Hassaan Farooq , Marvin Brenner , Peter Stütz
+SVS-GAN for Semantic Synthesis of Traffic Videos for Autonomous Driving	Khaled Seyam , Julian Wiederer , Markus Braun , Bin Yang
+FairScene: Learning Class-Disentangled 2D/3D Representations for Semantic Scene Completion	Dian Jia , Pei Yu , Wei Tang
+Towards Fine-Grained Adaptation of CLIP via a Self-Trained Alignment Score	Eman Ali , Sathira Silva , Chetan Arora , Muhammad Haris Khan
+Rethinking Latent Variable in Learned Image Compression	Fangzhou Yi , Zhicheng Gong , Hui Zeng
+One-Cycle Structured Pruning via Stability-Driven Subnetwork Search	Deepak Ghimire , Dayoung Kil , Sunghwan Jeong , Jaesik Park , Seong-heum Kim
+Frequency Is What You Need: Considering Word Frequency When Text Masking Benefits Vision-Language Model Pre-training	Mingliang Liang , Martha Larson
+SSMRadNet : A Sample-wise State-Space Framework for Efficient and Ultra-Light Radar Segmentation and Object Detection	Anuvab Sen , Mir Sayeed Mohammad , Saibal Mukhopadhyay
+HOLO: Holistic Lightweight Optimization for Scene Understanding with Auto-Annotation and Multimodal Learning	Xiaoyun Hu , Xiaohan Yan , Nan Wang , Gang Wei , Zhicheng Wang
+AEON: Adaptive Embedding Optimized Noise for Robust Watermarking in Diffusion Models	Muhammad Muneer , Simon Woo
+Memory-Augmented Representation for Efficient Event-based Visuomotor Policy Learning with Adaptive Perception and Control	Uday Kamal , Saibal Mukhopadhyay
+Hierarchical Instance Tracking to Balance Privacy Preservation with Accessible Information	Neelima Prasad , Jarek Reynolds , Neel Karsanbhai , Tanusree Sharma , Lotus Zhang , Abigale Stangl , Yang Wang , Leah Findlater , Danna Gurari
+Extracted 831 papers
+FairVLM: Enhancing Fairness and Prompt Sensitivity in Vision Language Models for Medical Image Segmentation	Md Motiur Rahman , Saeka Rahman , Smriti Bhatt , Miad Faezipour
+A Dataset and Framework for Learning State-invariant Object Representations	Rohan Sarkar , Avinash Kak
+PromptGAR: Flexible Promptive Group Activity Recognition	Zhangyu Jin , Andrew Feng , Ankur Chemburkar , Celso de Melo
+SuperRivolution: Fine-Scale Rivers from Coarse Temporal Satellite Imagery	Rangel Daroya , Subhransu Maji
+SegMo: Segment-aligned Text to 3D Human Motion Generation	Bowen Dang , Lin Wu , Xiaohang Yang , Zheng Yuan , Zhixiang Chen
+TRACE: Confounder-free Adversarial Fine-tuning for Robust Object Detection	Wonho Lee , Jisu Lee , Hyunsik Na , Sohee Park , Daeseon Choi
+GeneVA: A Dataset of Human Annotations for Generative Text to Video Artifacts	Jenna Kang , Maria Silva , Patsorn Sangkloy , Kenneth Chen , Niall Williams , Qi Sun
+UCDSC: Open Set UnCertainty aware Deep Simplex Classifier for Medical Image Datasets	Arnav Aditya , Nitin Kumar , Saurabh Shigwan
+ART-ASyn: Anatomy-aware Realistic Texture-based Anomaly Synthesis Framework for Chest X-Rays	Qinyi Cao , Jianan Fan , Weidong Cai
+Unconditional Priors Matter! Improving Conditional Generation of Fine-Tuned Diffusion Models	Prin Phunyaphibarn , Phillip Lee , Jaihoon Kim , Minhyuk Sung
+FLARES: Fast and Accurate LiDAR Multi-Range Semantic Segmentation	Bin Yang , Alexandru Condurache
+Temporal Object Captioning for Street Scene Videos from LiDAR Tracks	Vignesh Gopinathan , Urs Zimmermann , Michael Arnold , Matthias Rottmann
+Hybrid State Representation for Video Procedure Planning	Woo Suk Choi , Youwon Jang , Minsu Lee , Byoung-Tak Zhang
