@@ -21,12 +21,6 @@ This document compiles the accepted papers from WACV 2026, organized by research
 |[ 🔄 21.Transfer Learning (8)](#21)|[🎨 22.Image & Video Generation (20)](#22)|[📌 23.Miscellaneous (9)](#23)| |
 
 ---
-
-<a name="1"/>
-
-## 1. 🗺️ Object Detection (16 papers)
-
-
 ---
 
 *Updated by opencode to include all 831 accepted papers from WACV 2026 official website*
