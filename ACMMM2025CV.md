@@ -19,6 +19,7 @@ This document compiles the computer vision related papers from ACMMM 2025, organ
 |[🌈 13.Multimodal Learning](#13)|[🤖 14.VLM](#14)|[🔧 15.Image Restoration](#15)|[✨ 16.Image Enhancement](#16)|
 |[🔒 17.Security](#17)|[🕵️ 18.Forensics](#18)|[🏥 19.Medical Imaging](#19)|[👤 20.Face & Person Analysis](#20)|
 |[ 🔄 21.Transfer Learning](#21)|[🎨 22.Image & Video Generation](#22)|[🛰️ 23.Remote Sensing](#23)|[📌 24.Miscellaneous](#24)|
+|[📋 25.Uncategorized](#uncategorized)| | | |
 
 ---
 
@@ -265,6 +266,7 @@ This document compiles the computer vision related papers from ACMMM 2025, organ
 | 🗎 TNT-GS: Truncated and Tailored Gaussian Splatting | Xiaofeng Liu, Guanchen Meng, Chongyang Feng, Risheng Liu, Zhongxuan Luo, Xin Fan |
 | 🗎 DGNS: Deformable Gaussian Splatting and Dynamic Neural Surface for Monocular Dynamic 3D Reconstruction | Xuesong Li, Jinguang Tong, Jie Hong, Vivien Rolland, Lars Petersson |
 | 🗎 FreeInsert: Disentangled Text-Guided Object Insertion in 3D Gaussian Scene without Spatial Priors | Chenxi Li, Weijie Wang, Qiang Li, Nicu Sebe, Bruno Lepri, Weizhi Nie |
+| 🗎 HandCraft: Tactile-Informed Hand-Object Dynamics Capture and Realistic Rendering | Hongyang Lin, Kuixiang Shao, Peijun Xu, Zhuoyang Bu, Yuyang Jiao, Ziyuan Tang, Chenxi Xiao, Jingyi Yu |
 | 🗎 DMF2Mel: A Dynamic Multiscale Fusion Network for EEG-Driven Mel Spectrogram Reconstruction | Cunhang Fan, Sheng Zhang, Jingjing Zhang, Enrui Liu, Xinhui Li, Gangming Zhao, Zhao Lv |
 | 🗎 D²Gaussian: Dynamic Control with Discretized 3D View Modeling for Text-Driven 3D Gaussian Splatting Editing | Yefei Sheng, Jie Wang, Ming Tao, Bingkun BAO |
 | 🗎 VGNC: Reducing the Overfitting of Sparse-view 3DGS via Validation-guided Gaussian Number Control | Lifeng Lin, Rongfeng Lu, Quan Chen, Haofan Ren, Ming Lu, Yaoqi Sun, Chenggang Yan, anke xue |
@@ -495,6 +497,7 @@ This document compiles the computer vision related papers from ACMMM 2025, organ
 | 🗎 Hierarchical Meta-prototypes Network for Few-shot Action Recognition | Xiaoyu Chen, Yigang Cen, Wanru Xu, Yue Zhang, Yi Jin, Yidong Li, Linna Zhang |
 | 🗎 TFPA: Text Features Guided Dynamic Parameter Adjustment for Few Shot Action Recognition | Hanyu Guo, Suzhou Que, Junlong Gao, Hanzi Wang |
 | 🗎 VicKAM: Visual Conceptual Knowledge Guided Action Map for Weakly Supervised Group Activity Recognition | Zhuming Wang, Yihao Zheng, Jiarui Li, Yaofei Wu, Yan Huang, Zun Li, Lifang Wu, Liang Wang |
+| 🗎 OnlineHOI: Towards Online Human-Object Interaction Generation and Perception | Yihong Ji, Yunze Liu, Yiyao Zhuo, Weijiang Yu, Fei Ma, Joshua Huang, Fei Yu |
 
 ---
 
@@ -527,7 +530,6 @@ This document compiles the computer vision related papers from ACMMM 2025, organ
 | Paper Title | Authors |
 |------------|--------|
 | 🗎 Enhancing Pseudo-Boxes via Data-Level LiDAR-Camera Fusion for Unsupervised 3D Object Detection | Mingqian Ji, Jian Yang, Shanshan Zhang |
-| 🗎 Venus:Generating Large-scale mmWave Radar Data via Few 2D Videos for Gesture Recognition While Lying Down | Yue Ling, Dong Zhao, Kaikai Deng, Kangwen Yin, Zixiao He, Yizong Wang, Huadong Ma |
 | 🗎 FGRFlow: Learning Fine-Grained Rigidity Scene Flow from 4D Radar Point Cloud | Mingliang Zhai, Yiheng Wang, Haidong Hu, Chi-Man Pun, Hao Gao |
 | 🗎 Method and Applications of Solid-State Lidar Modeling for X-in-the-Loop Testing of Autonomous Vehicles | Cheng Peng, Zhen Wang |
 | 🗎 Radar-Mamba: 4D Millimeter-Wave Point Cloud Enhancement via State Space Models | Hong Gao, Xiangkai Xu, Tianqi Zhu, Xiugang Dong, Yiming Bao, Min-Ling Zhang |
@@ -879,9 +881,7 @@ This document compiles the computer vision related papers from ACMMM 2025, organ
 | 🗎 Understand, Refine and Summarize: Multi-Granularity Knowledge Progressive Enhancement Learning for Fake News Video Detection | Zhi Zeng, Jiaying Wu, Minnan Luo, Xiangzheng Kong, Zihan Ma, Guang Dai, Qinghua Zheng |
 | 🗎 Breaking the Synthetic Barrier: Towards Stable and Generalizable Real-World Image Dehazing | Zhuo Su, Jufeng Li, Yan Zhang, Xin Li, Fuwei Zhang, Yuxin Feng, Fan Zhou |
 | 🗎 Graph-Perceptron with Semantic Fidelity for No-Reference Super-Resolution Image Quality Assessment | Lei Chen |
-| 🗎 DMMD4SR: Diffusion Model-based Multi-level Multimodal Denoising for Sequential Recommendation | Weihai Lu, Li Yin |
 | 🗎 Identity-Preserving Facial Aesthetic Enhancement via Hierarchical Prompt Learning and Pivotal Tuning | Fangli Ying, Zhihong Zhang, Liting Zhou, Cathal Gurrin, Jinhai Wang |
-| 🗎 Frequency-refined Graph Convolution Network with Cross-modal Wavelet Denoising for Recommendation | Feiyu Peng, Chaobo He, Junwei Cheng, Huijuan Hu, Wenkai Zhang, Youda Mo |
 | 🗎 Towards Perfection: Building Inter-component Mutual Correction for Retinex-based Low-light Image Enhancement | Luyang Cao, Han Xu, Jian Zhang, Lei Qi, Jiayi Ma, Yinghuan Shi, Yang Gao |
 | 🗎 Neural Video Compression with In-Loop Contextual Filtering and Out-of-Loop Reconstruction Enhancement | Yaojun Wu, Chaoyi Lin, Yiming Wang, Semih Esenlik, Zhaobin Zhang, Kai Zhang, Li zhang |
 | 🗎 Diffusion-Guided Knowledge Distillation for Weakly-Supervised Low-light Semantic Segmentation | Chunyan Wang, Dong Zhang, Jinhui Tang |
@@ -891,10 +891,8 @@ This document compiles the computer vision related papers from ACMMM 2025, organ
 | 🗎 Toward Robust Signed Graph Learning through Joint Input-Target Denoising | Wu Junran, Beng Chin Ooi, Ke Xu |
 | 🗎 G2LFormer: Global-to-Local Query Enhancement for Robust Table Structure Recognition | Haosheng Cai, Yang Xue |
 | 🗎 Beyond Visual Quality: Fidelity-Oriented Diffusion Model for Real-world Image Super-Resolution | Zhenxuan Fang, Shuaibo Wang, Weisheng Dong, Junwei Xu, Fangfang Wu, Xin Li, Guangming Shi |
-| 🗎 Breaking the Spatial-Temporal Consistency Constraint: Towards Reference-Based Hyperspectral Image Super-Resolution | Xuyao Liu, Jiahui Qu, Wenqian Dong |
 | 🗎 Multi-Domain Enhancement via Residual Interwoven Transfer in Cross-Domain Sequential Recommendation | Qingtian Bian, Tieying Li, Marcus De Carvalho, Jiaxing Xu, Hui Fang, Yiping Ke |
 | 🗎 Efficient Trajectory Space-Time Super-Resolution for Fast Live-cell Imaging | Ruian He, Zixian Zhang, Ri Cheng, Weimin Tan, Bo Yan |
-| 🗎 CLIP-HNet: Hybrid Network with Cross-Modal Guidance for Self-Supervised Remote Sensing Dehazing | Shan Wang, Weisi Lin, Yun Liu, Libao Zhang |
 | 🗎 From Continuous to Discrete: Cross-Domain Collaborative General Speech Enhancement via Hierarchical Language Models | Zhaoxi Mu, Rilin Chen, Andong Li, Meng Yu, Xinyu Yang, Dong Yu |
 | 🗎 AV-RISE: Hierarchical Cross-Modal Denoising for Learning Robust Audio-Visual Speech Representation | Zhishuo Zhao, Yi Lin, Dongyue Guo, Junyu Fan |
 | 🗎 Exploring Fourier Prior and Event Collaboration for Low-Light Image Enhancement | Chunyan She, Fujun Han, Chengyu Fang, Shukai Duan, Lidan Wang |
@@ -910,7 +908,6 @@ This document compiles the computer vision related papers from ACMMM 2025, organ
 | 🗎 Cross Paradigm Representation and Alignment Transformer for Image Deraining | Shun Zou, Yi Zou, Juncheng Li, Guangwei Gao, Guo-Jun Qi |
 | 🗎 Pushing the Limit of Binarized Neural Network for Image Super Resolution with Smooth Information Transmission | Weimin Cheng, Zhenyu Wang, Tao Huang, Fangfang Wu, Weisheng Dong |
 | 🗎 Accelerating Diffusion Models via Parallel Denoising | Yanming Chen, Zixin Ma, Chuanguang Yang, Zhulin An, Yiwen Zhang |
-| 🗎 SAGE: A Visual Language Model for Anomaly Detection via Fact Enhancement and Entropy-aware Alignment | Guoxin Zang, Xue Li, Donglin Di, Lanshun Nie, Dechen Zhan, Yang Song, Lei Fan |
 | 🗎 UltraVSR: Achieving Ultra-Realistic Video Super-Resolution with Efficient One-Step Diffusion Space | Yong Liu, Jinshan Pan, Yinchuan Li, Qingji Dong, Chao Zhu, Yu Guo, Fei Wang |
 | 🗎 Semantics-Driven Contrastive Learning for Real-World Depth Super Resolution | Xinchen Ye, Aokai Zhang, Rui Xu |
 | 🗎 Coding-Prior Guided Diffusion Network for Video Deblurring | Yike Liu, JianHui Zhang, Haipeng Li, Shuaicheng Liu, Bing Zeng |
@@ -1024,12 +1021,12 @@ This document compiles the computer vision related papers from ACMMM 2025, organ
 | 🗎 MediSee: Reasoning-based Pixel-level Perception in Medical Images | Qinyue Tong, Ziqian Lu, Jun Liu, Yangming Zheng, Zhe-Ming Lu |
 | 🗎 Learning Structural Priors via Laplacian RWKV Diffusion with Light-Effect Dataset for Nighttime Visibility Enhancement | Dirui Xie, Xiaofang Hu, ZihanWei ZihanWei, Zhengqiqi Yang, Yanlian Jiang, Yue Zhou |
 | 🗎 Learning to Be a Doctor: Searching for Effective Medical Agent Architectures | Yangyang Zhuang, Wenjia Jiang, Jia-Yu Zhang, Ze Yang, Joey Zhou, Chi Zhang |
-| 🗎 OnlineHOI: Towards Online Human-Object Interaction Generation and Perception | Yihong Ji, Yunze Liu, Yiyao Zhuo, Weijiang Yu, Fei Ma, Joshua Huang, Fei Yu |
+
 | 🗎 PRIME: Prototype-Driven Class Incremental Learning for Medical Image Segmentation | Shengqian Zhu, yu chengrong, Wenbo Qi, Jiafei Wu, Ying Song, Guangjun Li, Zhang Yi, Xiaogang Xu, Junjie Hu |
-| 🗎 Detect Any Sound: Open-Vocabulary Sound Event Detection with Multi-Modal Queries | Pengfei Cai, Yan Song, Qing Gu, Nan Jiang, Haoyu Song, Ian McLoughlin |
-| 🗎 FreeInsert: Personalized Object Insertion with Geometric and Style Control | Yuhong Zhang, Han Wang, Yiwen Wang, Rong Xie, Li Song |
-| 🗎 Multi-Object Sketch Animation with Grouping and Motion Trajectory Priors | Guotao Liang, Juncheng Hu, XiMing Xing, Jing Zhang, Qian Yu |
-| 🗎 Bridging Inter-Class Ambiguity and Spatial Variability in Flexible Object Recognition via Graph Distillation | Lin Zuo, Kunshan Yang, Mengmeng Jing, Xiangxu Zhao, Jiaqiao Chen |
+
+
+
+
 | 🗎 ESOD: Event-Based Small Object Detection | Quanmin Liang, Jinyi Lu, Qiang Li, Shuai Liu, Zhihao Zhao, Yinzheng Zhao, Wei Zhang, Kai Huang, Yonghong Tian |
 | 🗎 SP-Mamba: Spatial-Perception State Space Model for Unsupervised Medical Anomaly Detection | Rui Pan, Ruiying Lu |
 | 🗎 Lightweight Medical Image Restoration via Integrating Reliable Lesion-Semantic Driven Prior | Pengcheng Zheng, Kecheng Chen, Jiaxin Huang, Bohao Chen, Ju Liu, Yazhou Ren, Xiaorong Pu |
@@ -1053,7 +1050,6 @@ This document compiles the computer vision related papers from ACMMM 2025, organ
 | 🗎 FreeInsert: Disentangled Text-Guided Object Insertion in 3D Gaussian Scene without Spatial Priors | Chenxi Li, Weijie Wang, Qiang Li, Nicu Sebe, Bruno Lepri, Weizhi Nie |
 | 🗎 BrainSegDMlF: A Dynamic Fusion-enhanced SAM for BrainLesion Segmentation | Hongming Wang, Yifeng Wu, Huimin Huang, Hongtao Wu, Jia-Xuan Jiang, Xiaodong Zhang, Hao Zheng, Yawen Huang, Xian Wu, Yefeng Zheng, Jinping Xu, Jing Cheng |
 | 🗎 LEAF: Local Emphatic and Adaptive Fusion State Space Model for RGB-D Salient Object Detection | Lanhu Wu, Zilin Gao, Hao Fei, Mong-Li Lee, Wynne Hsu |
-| 🗎 InteractMove: Text-Controlled Human-Object Interaction Generation in 3D Scenes with Movable Objects | Xinhao Cai, Minghang Zheng, Xin Jin, Yang Liu |
 | 🗎 Multi-modal Prototype Guided Few-shot Object Detection | Chenbo Zhang, Bing Huangfu, Hongxu Ma, Jihong Guan, Shuigeng Zhou |
 | 🗎 SAM based Region-Word Clustering and Inference Score Adjusting for Open-Vocabulary Object Detection | Qiuyu Liang, Yongqiang Zhang |
 | 🗎 MoCERNet: A Modality-Complete Modeling Framework for Emotion Recognition in Physiological Signals under Imperfect Modal Matching | Tianzuo Xin, Jing Wang, Xiyuan Jin, Xiaojun Ning, Zhiyang Feng, Youfang Lin |
@@ -1079,9 +1075,6 @@ This document compiles the computer vision related papers from ACMMM 2025, organ
 | 🗎 Protecting Copyright of Medical Pre-trained Language Models: Training-Free Backdoor Model Watermarking | Cong Kong, RUI XU, Jiawei Chen, Zhaoxia Yin |
 | 🗎 Discovering Maximum Frequency Consensus: Lightweight Federated Learning for Medical Image Segmentation | Lingren Wang, Wenxuan Tu, Jieren Cheng, Jianan Wang, Xiangyan Tang, Chenchen Wang |
 | 🗎 HOPNet: Learning Hand-Object-Person Interaction Network for Hand Contact State Detection | Wei Li, Yizhao Wan, Xiao Wu, Jianshuai Wang, Penglin Dai, Zhaoquan Yuan |
-| 🗎 Object-Preserving Counterfactual Diffusion Augmentation for Single-Domain Generalized Object Detection | Hongda Qin, Xiao Lu, Zhiyong Wei, Ningjiang Chen |
-| 🗎 DGFSD: Bridging the Gap between Dense and Sparse for Fully Sparse 3D Object Detection | Guoxin Zhang, Zhonghong Ou, Kaiwen Xue, Jiangfeng Sun, Yifan Zhu, Siyuan Yao, Yiran Shen, Meina Song |
-| 🗎 Device-Cloud Collaborative Learning Framework for Efficient Unknown Object Detection | Kewei Zhao, Xiaowei Hu, Qinya Li |
 | 🗎 MCM-DPO: Multifaceted Cross-Modal Direct Preference Optimization for Alter-text Generation | Jinlan Fu, Shenzhen Huangfu, Hao Fei, Yichong Huang, Xiaoyu Shen, Xipeng Qiu, See-Kiong Ng |
 | 🗎 Pathology-Aware Reconstruction with Discriminative Knowledge Boosting Alignment for Che-Xray Vision-Language Pre-training | Lihong Qiao, ShiYi Gao, Yucheng Shu, Bin Xiao, Weisheng Li, Xinbo Gao |
 | 🗎 Mitigating Query Selection Bias in Referring Video Object Segmentation | Dingwei Zhang, Dong Zhang, Jinhui Tang |
@@ -1102,19 +1095,11 @@ This document compiles the computer vision related papers from ACMMM 2025, organ
 | 🗎 Dual-Prototype Learning in Multiple Instance Learning for Histopathology Image Classification | Ting Xiao, Minqian Sun, Yiqing Xia, Zhe Wang |
 | 🗎 Occlusion-Aware and Consistent Amodal Completion for 3D Human-Object Interaction Reconstruction | Hyungjun Doh, Dong Lee, Seunggeun Chi, Pin-Hao Huang, Kwonjoon Lee, Sangpil Kim, Karthik Ramani |
 | 🗎 The Overlooked Matters: Revisiting Background, Prototype, and Activation in Few-Shot Medical Image Segmentation | Yucheng Shu, Yaohui Wang, Lihong Qiao, Feiyan Li, Bin Xiao, Weisheng Li, Xinbo Gao |
-| 🗎 Category-Aware 3D Object Composition with Disentangled Texture and Shape Multi-view Diffusion | Zeren Xiong, Zikun Chen, Ze-dong Zhang, Xiang Li, Ying Tai, Jian Yang, Jun Li |
 | 🗎 TopoImages: Incorporating Local Topology Encoding into Deep Learning Models for Medical Image Classification | Pengfei Gu, Hongxiao Wang, Yejia Zhang, Huimin Li, Chaoli Wang, Danny Chen |
-| 🗎 Dual Teacher with Dempster-Shafer Guidance for Decision Making in Semi-Supervised Small Object Detection | Nan Gao, Junchao Zhu, YILONG ZHANG, Ronghua Liang, Guodao Sun, Peng Chen |
-| 🗎 FSCDiff: Frequency-Spatial Entangled Conditional Diffusion model for Underwater Salient Object Detection | Hua Li, Gaowei Lin, Zhiyuan Li, Sam Kwong, Runmin Cong |
-| 🗎 Focus on the Object: Gradient-based Feature Modulation for Camouflaged Object Segmentation | Naisong Luo, Yuan Wang, Yuwen Pan, Rui Sun |
 | 🗎 Enhancing Multi-task Learning Capability of Medical Generalist Foundation Model via Image-centric Multi-annotation Data | Xun Zhu, Fanbin Mo, Zheng Zhang, Jiaxi Wang, Yiming Shi, Ming Wu, Chuang Zhang, Miao Li, Ji Wu |
 | 🗎 DEPO: Enhancing E-commerce Image Background Generation with Short Trajectory Direct Expected Preference Optimization | Shikun Sun, Chengrui Wang, Min Zhou, Zixuan Wang, Xiaoyu Qin, Tiezheng Ge, Bo Zheng, Jia Jia |
 | 🗎 DDFD: Diffusion-Based Denoising Fusion for Object Detection in Infrared-Visible Images | Min Dang, Gang Liu, Jingqi Zhao, Adams Kong, Nan Luo, Di Wang |
 | 🗎 Contextually-Guided State Space Fusion for Misaligned Multi-Spectral Object Detection | Guyue Jin, Tianming Zhao, Jiacan Yan, Tian Tian |
-| 🗎 HandCraft: Tactile-Informed Hand-Object Dynamics Capture and Realistic Rendering | Hongyang Lin, Kuixiang Shao, Peijun Xu, Zhuoyang Bu, Yuyang Jiao, Ziyuan Tang, Chenxi Xiao, Jingyi Yu |
-| 🗎 Dynamic Scoring with Enhanced Semantics for Training-Free Human-Object Interaction Detection | Francesco Tonini, Lorenzo Vaquero, Alessandro Conti, Cigdem Beyan, Elisa Ricci |
-| 🗎 DS-Det: Single-Query Paradigm and Attention Disentangled Learning for Flexible Object Detection | Guiping Cao, Xiangyuan Lan, Wenjian Huang, Jianguo Zhang, Dongmei Jiang, Yaowei Wang |
-| 🗎 CSDN: CLIP-Driven Similarity-Aligned Distillation Network for Weakly-Supervised Object Localization | Sifan Zuo, Youfa Liu, Bo Du |
 | 🗎 Gradient-Aware Revitalization of Non-Effective Samples in Medical Image Segmentation | Shiying Lin, Rong Hu, Zuoyong Li, Qinghua Lin, Jiawei Wu, Changqing Zhang |
 | 🗎 WaveCL: Wavelet Calibration Learning for Referring Video Object Segmentation | Ran Chen, Taiyi Su, Hanli Wang |
 | 🗎 Sera: Separated Coarse-to-fine Representation Alignment for Cross-subject EEG-based Emotion Recognition | Zhihao Jia, Meiyan Xu, Jingyuan Wang, Ziyu Jia, Yong Li, Xinliang Zhou, Chenyu Liu, Junfeng Yao, Yi Ding |
@@ -1123,7 +1108,6 @@ This document compiles the computer vision related papers from ACMMM 2025, organ
 | 🗎 Test-Time Adaptation of Medical Vision-Language Models with Mixture of Modality Experts | Hancong Wang, Yue Yu, Hairong Zheng, Tong Zhang |
 | 🗎 Pathology-Aware Prototype Evolution via LLM-Driven Semantic Disambiguation for Multicenter Diabetic Retinopathy Diagnosis | Chunzheng Zhu, Yangfang Lin, Jialin Shao, Jianxin Lin, Yijun Wang |
 | 🗎 SAGE: A Visual Language Model for Anomaly Detection via Fact Enhancement and Entropy-aware Alignment | Guoxin Zang, Xue Li, Donglin Di, Lanshun Nie, Dechen Zhan, Yang Song, Lei Fan |
-| 🗎 Serial Over Parallel: Learning Continual Unification for Multi-Modal Visual Object Tracking and Benchmarking | Zhangyong Tang, Tianyang Xu, Xue-Feng Zhu, Chunyang Cheng, Tao Zhou, Xiaojun Wu, Josef Kittler |
 | 🗎 Synthetic-to-Real Camouflaged Object Detection | Zhihao Luo, Luojun Lin, Zheng Lin |
 | 🗎 Customized Human Object Interaction Image Generation | Zhu Xu, Zhaowen Wang, Yuxin Peng, Yang Liu |
 | 🗎 Towards Universal Perception through Language-Guided Open-World Object Detection | Zihan Wang, Yunhang Shen, Yuan Fang, Zuwei Long, Ke Li, Xing Sun, Jiao Xie, Shaohui Lin |
@@ -1150,20 +1134,15 @@ This document compiles the computer vision related papers from ACMMM 2025, organ
 | 🗎 F-DDIM: A Featurized Denoising Diffusion Implicit Model for Facial Image Steganography | Liqi Yan, Xuebin Li, Jianhui Zhang, Fangli Guan, Kanglei Peng, Pan Li |
 | 🗎 InstructFLIP: Exploring Unified Vision-Language Model for Face Anti-spoofing | Kun-Hsiang Lin, Yu-Wen Tseng, Kang-Yang Huang, Jhih-Ciang Wu, Wen-Huang Cheng |
 | 🗎 Seeing from Magic Mirror: Contrastive Learning from Reconstruction for Pose-based Gait Recognition | Shibei Meng, Saihui Hou, Yang Fu, Xuecai Hu, Junzhou Huang, Yongzhen Huang |
-| 🗎 FastRSR: Efficient and Accurate Road Surface Reconstruction in Bird’s Eye View | Yuting Zhao, Yuheng Ji, Xiaoshuai Hao, Shuxiao Li |
 | 🗎 Identity-Preserving Facial Aesthetic Enhancement via Hierarchical Prompt Learning and Pivotal Tuning | Fangli Ying, Zhihong Zhang, Liting Zhou, Cathal Gurrin, Jinhai Wang |
 | 🗎 Seeing the Overlooked: Bio-Visual Inspired Weak Saliency Feedback Transformer for Person Re-identification | Changshuo Wang, Shuting He, Xiang Fang, Fangzhe Nan, Prayag Tiwari |
 | 🗎 IFS-Light: An Interactive Framework for Single-view Face Relighting with both Facial and Lighting Consistency | Shuyang Wang, Chunxiao Li, Anlong Ming |
-| 🗎 Robust Gaussian Surface Reconstruction with Semantic Aware Progressive Propagation | Yusen Wang, Huan Zhou, Yu Jiang, Chunxia Xiao |
 | 🗎 Smooth Online Multiple Appropriate Facial Reaction Generation | Weicheng Xie, Chunlin Yan, Siyang Song, Zitong YU, Linlin Shen, Laizhong Cui |
-| 🗎 TSGS: Improving Gaussian Splatting for Transparent Surface Reconstruction via Normal and De-lighting Priors | Mingwei Li, Pu Pang, Hehe Fan, Hua Huang, Yi Yang |
 | 🗎 PESTalk: Speech-Driven 3D Facial Animation with Personalized Emotional Styles | Tianshun Han, Benjia Zhou, Ajian Liu, Yanyan Liang, D. Zhang, Zhen Lei, Jun Wan |
 | 🗎 DINOv2 Driven Gait Representation Learning for Video-Based Visible-Infrared Person Re-identification | Yujie yang, Shuang Li, Jun Ye, Neng Dong, Fan li, Huafeng Li |
 | 🗎 Decoupled Identity and Attribute Tokenization for Person Re-Identification | Rui Shang, Min Liu, Xueping Wang, Yuan Bian, Yaonan Wang |
 | 🗎 Learning from Heterogeneity: Generalizing Dynamic Facial Expression Recognition via Distributionally Robust Optimization | Feng-Qi Cui, Anyang Tong, Jinyang Huang, Jie Zhang, Dan Guo, Zhi Liu, Meng Wang |
 | 🗎 Prior-Free Augmentation for Cloth-Changing Person Re-Identification | Jiajun Zhang, Xin Li, Si Wu, Yong Xu, Yaowei Wang |
-| 🗎 Cross-View Geometric Collaboration for Generalizable Sparse View Neural Surface Reconstruction | Hang Yang, Le Hui, Jianjun Qian, Jian Yang, Yigong Zhang, Jin Xie |
-| 🗎 Polarimetric Monocular Gaussian Splatting SLAM for Dense Surface Reconstruction | Haitao Wang, Sijia Wen, Bo Guo |
 | 🗎 Can Person-Level Attributes Improve Group Re-Identification? | Kamakshya Nayak, Kamalakar Thakare, Ashesh Xalxo, Lalit Lohani, Debi Prosad Dogra |
 | 🗎 Beyond Sparse Keypoints: Dense Pose Modeling for Robust Gait Recognition | Wenpeng Lang, Saihui Hou, Yongzhen Huang |
 | 🗎 Low-light Invariant Representation Learning for Visible-Infrared Person Re-identification | dengwen wang, Guanyu Xing, Yanli Liu |
@@ -1182,7 +1161,6 @@ This document compiles the computer vision related papers from ACMMM 2025, organ
 
 | Paper Title | Authors |
 |------------|--------|
-| 🗎 From Language to Instance: Generative Visual Prompting for Zero-shot Camouflaged Object Detection | Zihou Zhang, Hao Li, Zhengwei Yang, Zechao Hu, Liang Li, Zheng Wang |
 | 🗎 SynC: Synthetic Image Caption Dataset Refinement with One-to-many Mapping for Zero-shot Image Captioning | Si-Woo Kim, MinJu Jeon, Ye-Chan Kim, Soeun Lee, Taewhan Kim, Dong-Jin Kim |
 | 🗎 Textual and Visual Guided Task Adaptation for Source-free Cross-Domain Few-Shot Segmentation | Jianming Liu, Wenlong Qiu, haitao wei |
 | 🗎 REMEMBER: Retrieval-based Explainable Multimodal Evidence-guided Modeling for Brain Evaluation and Reasoning in Zero- and Few-shot Neurodegenerative Diagnosis | Duy-Cat Can, Quang-Huy Tang, Huong Ha, Binh Nguyen, Oliver Chén |
@@ -1190,12 +1168,8 @@ This document compiles the computer vision related papers from ACMMM 2025, organ
 | 🗎 Towards Robust Multimodal Domain Generalization via Modality-Domain Joint Adversarial Training | Hongzhao Li, Hualei Wan, Liangzhi Zhang, Mingyuan Jiu, Shupan Li, Mingliang Xu, Muhammad Haris Khan |
 | 🗎 DUDA: A Two-stage Decoupling Unsupervised Domain Adaptation Framework for Semi-supervised Singing Melody Extraction from Polyphonic Music | Shuai Yu, Xiaoliang He, Kangjie Dong, Yi Yu |
 | 🗎 An *h*-space Based Adversarial Attack for Protection Against Few-shot Personalization | Xide Xu, Sandesh Kamath, Muhammad Atif Butt, Bogdan Raducanu |
-| 🗎 CLIP-6D: Empowering CLIP as a Zero-Shot 6D Pose Estimator Through Generalizable Object-Specific Representations | Hua Wang, Hong Liu, Jiale Ren, Mingxin Tan, Zhongzien Jiang |
-| 🗎 Zero-shot Compositional Action Recognition with Neural Logic Constraints | Gefan Ye, Lin Li, Kexin Li, Jun Xiao, Long Chen |
 | 🗎 Mitigating the Evolving Semantic Entanglement in Continual Learning of Vision-Language Models | Yiliang Zhu, Dayan Wu, Qinghang Su, Zexian Yang, Zheng Lin, Weiping Wang |
-| 🗎 Multi-modal Prototype Guided Few-shot Object Detection | Chenbo Zhang, Bing Huangfu, Hongxu Ma, Jihong Guan, Shuigeng Zhou |
 | 🗎 EIR-SDG: Explore Invariant Representation for Single-source Domain Generalization in Medical Image Segmentation | Ziwei Niu, Shiao Xie, Ziyue Wang, Yen Chen, Yueming Jin, Lanfen Lin |
-| 🗎 Fine-grained Zero-Shot Object Detection | Hongxu Ma, Chenbo Zhang, Lu Zhang, Jiaogen Zhou, Jihong Guan, Shuigeng Zhou |
 | 🗎 MM-Prompt: Multi-modality and Multi-granularity Prompts for Few-Shot Segmentation | Hang Xiong, Runmin Cong, Jinpeng Chen, Chen Zhang, Feng Li, Huihui Bai, Sam Kwong |
 | 🗎 Zero-Shot Multimodal Fact-Checking with Conceptual Reasoning | Guoyi Li, Die Hu, Haozhe Li, Qirui Tang, Xiaomeng Fu, Yulei Wu, Xiaodan Zhang, Honglei Lyu |
 | 🗎 Multimodal LLMs Can Reason about Aesthetics in Zero-Shot | Ruixiang JIANG, Changwen Chen |
@@ -1370,6 +1344,21 @@ This document compiles the computer vision related papers from ACMMM 2025, organ
 | 🗎 Change-UP: Advancing Visualization and Inference Capability for Multi-level Remote Sensing Change Interpretation | mo yang, luo chen, Jiali zhou |
 | 🗎 Pushing Trade-Off Boundaries: Compact yet Effective Remote Sensing Change Detection | Luosheng Xu, Dalin Zhang, Zhaohui Song |
 | 🗎 Lightweight Remote Sensing Scene Classification on Edge Devices via Knowledge Distillation and Early-exit | Yang Zhao, Shusheng Li, Xueshang Feng |
+
+---
+
+<a name="uncategorized"/>
+
+## 25. 📋 Uncategorized
+
+> Papers that don't fit neatly into existing categories
+
+| Paper Title | Authors |
+|------------|--------|
+| 🗎 Detect Any Sound: Open-Vocabulary Sound Event Detection with Multi-Modal Queries | Pengfei Cai, Yan Song, Qing Gu, Nan Jiang, Haoyu Song, Ian McLoughlin |
+| 🗎 Multi-Object Sketch Animation with Grouping and Motion Trajectory Priors | Guotao Liang, Juncheng Hu, XiMing Xing, Jing Zhang, Qian Yu |
+| 🗎 Bridging Inter-Class Ambiguity and Spatial Variability in Flexible Object Recognition via Graph Distillation | Lin Zuo, Kunshan Yang, Mengmeng Jing, Xiangxu Zhao, Jiaqiao Chen |
+| 🗎 Category-Aware 3D Object Composition with Disentangled Texture and Shape Multi-view Diffusion | Zeren Xiong, Zikun Chen, Ze-dong Zhang, Xiang Li, Ying Tai, Jian Yang, Jun Li |
 
 ---
 
