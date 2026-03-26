@@ -4,3 +4,4 @@ please see the paperlists listed as belows(and please note that the categories m
 
 [WACV 2026](wacv2026.md)
 [BMVC 2025](bmvc2025.md)
+[ACMMM 2025(CV related)](ACMMM2025CV.md)

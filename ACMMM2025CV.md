@@ -2,7 +2,8 @@
 
 > ACM Multimedia Conference 2025 - Computer Vision Related Papers
 
-This document compiles the computer vision related papers from ACMMM 2025, organized by research topic.
+This document compiles the computer vision related papers from ACMMM 2025, organized by research topic. 
+Most of the categorizing works are done by the LLM, so there may be missing titles and/or categorizing faults.
 
 ---
 
@@ -19,7 +20,6 @@ This document compiles the computer vision related papers from ACMMM 2025, organ
 |[🌈 13.Multimodal Learning](#13)|[🤖 14.VLM](#14)|[🔧 15.Image Restoration](#15)|[✨ 16.Image Enhancement](#16)|
 |[🔒 17.Security](#17)|[🕵️ 18.Forensics](#18)|[🏥 19.Medical Imaging](#19)|[👤 20.Face & Person Analysis](#20)|
 |[ 🔄 21.Transfer Learning](#21)|[🎨 22.Image & Video Generation](#22)|[🛰️ 23.Remote Sensing](#23)|[📌 24.Miscellaneous](#24)|
-|[📋 25.Uncategorized](#uncategorized)| | | |
 
 ---
 
@@ -322,6 +322,7 @@ This document compiles the computer vision related papers from ACMMM 2025, organ
 | 🗎 BSGS: Bi-Stage 3D Gaussian Splatting for Camera Motion Deblurring | An Zhao, Piaopiao Yu, Zhe Zhu, Mingqiang Wei |
 | 🗎 Multi-Layer Gaussian Splatting for Single-Image Feed-Forward Spatial Scene Reconstruction | Shanding Diao, Yang Zhao, Yuan Chen, Zhao Zhang, Wei Jia, Ronggang Wang |
 | 🗎 Mono3R: Exploiting Monocular Cues for Geometric 3D Reconstruction | Wenyu Li, Sidun Liu, Peng Qiao, Yong Dou |
+| 🗎 Category-Aware 3D Object Composition with Disentangled Texture and Shape Multi-view Diffusion | Zeren Xiong, Zikun Chen, Ze-dong Zhang, Xiang Li, Ying Tai, Jian Yang, Jun Li |
 
 ---
 
@@ -447,6 +448,7 @@ This document compiles the computer vision related papers from ACMMM 2025, organ
 | 🗎 Secure Tug-of-War (SecTOW): Iterative Defense-Attack Training with Reinforcement Learning for Multimodal Model Security | Mz Dai, Shixuan Liu, Zhiyuan Zhao, Junyu Gao, Hao Sun, Xuelong Li |
 | 🗎 AlignDiT: Multimodal Aligned Diffusion Transformer for Synchronized Speech Generation | Jeongsoo Choi, Ji-Hoon Kim, Kim Sung-Bin, Tae-Hyun Oh, Joon Chung |
 | 🗎 Differential Contrastive Training for Gaze Estimation | Lin Zhang, Yi Tian, Xiyun Wang, Wanru Xu, Yi Jin, Yaping Huang |
+| 🗎 Bridging Inter-Class Ambiguity and Spatial Variability in Flexible Object Recognition via Graph Distillation | Lin Zuo, Kunshan Yang, Mengmeng Jing, Xiangxu Zhao, Jiaqiao Chen |
 
 ---
 
@@ -1347,27 +1349,13 @@ This document compiles the computer vision related papers from ACMMM 2025, organ
 
 ---
 
-<a name="uncategorized"/>
-
-## 25. 📋 Uncategorized
-
-> Papers that don't fit neatly into existing categories
-
-| Paper Title | Authors |
-|------------|--------|
-| 🗎 Detect Any Sound: Open-Vocabulary Sound Event Detection with Multi-Modal Queries | Pengfei Cai, Yan Song, Qing Gu, Nan Jiang, Haoyu Song, Ian McLoughlin |
-| 🗎 Multi-Object Sketch Animation with Grouping and Motion Trajectory Priors | Guotao Liang, Juncheng Hu, XiMing Xing, Jing Zhang, Qian Yu |
-| 🗎 Bridging Inter-Class Ambiguity and Spatial Variability in Flexible Object Recognition via Graph Distillation | Lin Zuo, Kunshan Yang, Mengmeng Jing, Xiangxu Zhao, Jiaqiao Chen |
-| 🗎 Category-Aware 3D Object Composition with Disentangled Texture and Shape Multi-view Diffusion | Zeren Xiong, Zikun Chen, Ze-dong Zhang, Xiang Li, Ying Tai, Jian Yang, Jun Li |
-
----
-
 <a name="24"/>
 
 ## 24. 📌 Miscellaneous
 
 | Paper Title | Authors |
 |------------|--------|
+| 🗎 Multi-Object Sketch Animation with Grouping and Motion Trajectory Priors | Guotao Liang, Juncheng Hu, XiMing Xing, Jing Zhang, Qian Yu |
 | 🗎 Towards Generalized Physical Occlusion Detection On Documents | Yiang Zhu, Haoyue Wang, Zhenxing Qian, Sheng Li, Xinpeng Zhang, Jian liu |
 | 🗎 FantasyTalking: Realistic Talking Portrait Generation via Coherent Motion Synthesis | Mengchao Wang, Wang Qiang, Fan Jiang, Yaqi Fan, Yunpeng Zhang, Yonggang Qi, Kun Zhao, Mu Xu |
 | 🗎 NeuroPump: Simultaneous Geometric and Color Rectification for Underwater Images | Yue Guo, Haoxiang Liao, Haibin Ling, Bingyao Huang |
