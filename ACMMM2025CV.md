@@ -27,6 +27,8 @@ Most of the categorizing works are done by the LLM, so there may be missing titl
 
 ## 1. 🗺️ Object Detection
 
+[⬆ Back to Top](#navigation)
+
 | Paper Title | Authors |
 |------------|--------|
 | 🗎 Detecting Violations of Physical Common Sense in Images: A Challenge Dataset and Effective Model | Weibin Wu, Zitong Wang, Zhengjie Luo, Wenqing Chen, Zibin Zheng |
@@ -94,6 +96,8 @@ Most of the categorizing works are done by the LLM, so there may be missing titl
 <a name="2"/>
 
 ## 2. 🖼️ Segmentation
+
+[⬆ Back to Top](#navigation)
 
 | Paper Title | Authors |
 |------------|--------|
@@ -181,6 +185,8 @@ Most of the categorizing works are done by the LLM, so there may be missing titl
 
 ## 3. 🎲 3D Vision
 
+[⬆ Back to Top](#navigation)
+
 | Paper Title | Authors |
 |------------|--------|
 | 🗎 LL-Gaussian: Low-Light Scene Reconstruction and Enhancement via Gaussian Splatting for Novel View Synthesis | Hao Sun, Fenggen Yu, Huiyao Xu, Tao Zhang, Changqing Zou |
@@ -239,6 +245,8 @@ Most of the categorizing works are done by the LLM, so there may be missing titl
 <a name="4"/>
 
 ## 4. 🏗️ 3D Reconstruction
+
+[⬆ Back to Top](#navigation)
 
 | Paper Title | Authors |
 |------------|--------|
@@ -330,6 +338,8 @@ Most of the categorizing works are done by the LLM, so there may be missing titl
 
 ## 5. 👀 Computer Vision (General)
 
+[⬆ Back to Top](#navigation)
+
 | Paper Title | Authors |
 |------------|--------|
 | 🗎 SpecXNet: A Dual-Domain Convolutional Network for Robust Deepfake Detection | Inzamamul Alam, Md Islam, Simon Woo |
@@ -365,6 +375,8 @@ Most of the categorizing works are done by the LLM, so there may be missing titl
 <a name="6"/>
 
 ## 6. 🧠 Deep Learning
+
+[⬆ Back to Top](#navigation)
 
 | Paper Title | Authors |
 |------------|--------|
@@ -456,6 +468,8 @@ Most of the categorizing works are done by the LLM, so there may be missing titl
 
 ## 7. 🧍 Human Pose Recognition
 
+[⬆ Back to Top](#navigation)
+
 | Paper Title | Authors |
 |------------|--------|
 | 🗎 Rule Meets Learning: Confidence-Aware Multi-View Fusion for Self-Supervised 3D Hand Pose Estimation | Pengfei Ren, Jing-Yu Wang, Haifeng Sun, Qi Qi, Jing Wang, Jianxin Liao |
@@ -475,6 +489,8 @@ Most of the categorizing works are done by the LLM, so there may be missing titl
 <a name="8"/>
 
 ## 8. 🕺 Action Recognition
+
+[⬆ Back to Top](#navigation)
 
 | Paper Title | Authors |
 |------------|--------|
@@ -507,6 +523,8 @@ Most of the categorizing works are done by the LLM, so there may be missing titl
 
 ## 9. 🚗 Autonomous Driving
 
+[⬆ Back to Top](#navigation)
+
 | Paper Title | Authors |
 |------------|--------|
 | 🗎 DriVerse: Navigation World Model for Driving Simulation via Multimodal Trajectory Prompting and Motion Alignment | Xiaofan Li, Chenming Wu, Zhao Yang, Zhihao Xu, Yumeng Zhang, Dingkang Liang, Ji Wan, Jun Wang |
@@ -529,6 +547,8 @@ Most of the categorizing works are done by the LLM, so there may be missing titl
 
 ## 10. 📡 LiDAR
 
+[⬆ Back to Top](#navigation)
+
 | Paper Title | Authors |
 |------------|--------|
 | 🗎 Enhancing Pseudo-Boxes via Data-Level LiDAR-Camera Fusion for Unsupervised 3D Object Detection | Mingqian Ji, Jian Yang, Shanshan Zhang |
@@ -542,6 +562,8 @@ Most of the categorizing works are done by the LLM, so there may be missing titl
 <a name="11"/>
 
 ## 11. 🎬 Video Analysis
+
+[⬆ Back to Top](#navigation)
 
 | Paper Title | Authors |
 |------------|--------|
@@ -575,6 +597,8 @@ Most of the categorizing works are done by the LLM, so there may be missing titl
 <a name="12"/>
 
 ## 12. 🎥 Video Understanding
+
+[⬆ Back to Top](#navigation)
 
 | Paper Title | Authors |
 |------------|--------|
@@ -619,6 +643,8 @@ Most of the categorizing works are done by the LLM, so there may be missing titl
 <a name="13"/>
 
 ## 13. 🌈 Multimodal Learning
+
+[⬆ Back to Top](#navigation)
 
 | Paper Title | Authors |
 |------------|--------|
@@ -795,6 +821,8 @@ Most of the categorizing works are done by the LLM, so there may be missing titl
 
 ## 14. 🤖 VLM
 
+[⬆ Back to Top](#navigation)
+
 | Paper Title | Authors |
 |------------|--------|
 | 🗎 CrossMind-VL: Multi-Subject Mind-to-Video Decoding with Multimodal LLM Semantic Grounding | Xuanliu Zhu, Yiqiao Chai, Runnan Li, Mingying Lan, Li Gao |
@@ -846,6 +874,8 @@ Most of the categorizing works are done by the LLM, so there may be missing titl
 
 ## 15. 🔧 Image Restoration
 
+[⬆ Back to Top](#navigation)
+
 | Paper Title | Authors |
 |------------|--------|
 | 🗎 Lightweight Medical Image Restoration via Integrating Reliable Lesion-Semantic Driven Prior | Pengcheng Zheng, Kecheng Chen, Jiaxin Huang, Bohao Chen, Ju Liu, Yazhou Ren, Xiaorong Pu |
@@ -861,6 +891,8 @@ Most of the categorizing works are done by the LLM, so there may be missing titl
 <a name="16"/>
 
 ## 16. ✨ Image Enhancement
+
+[⬆ Back to Top](#navigation)
 
 | Paper Title | Authors |
 |------------|--------|
@@ -923,6 +955,8 @@ Most of the categorizing works are done by the LLM, so there may be missing titl
 
 ## 17. 🔒 Security
 
+[⬆ Back to Top](#navigation)
+
 | Paper Title | Authors |
 |------------|--------|
 | 🗎 FA³T: Feature-Aware Adversarial Attacks for Multi-modal Tracking | Jiahao Wang, Fang Liu, Licheng Jiao, Hao Wang, Shuo Li, Lingling Li, Puhua Chen, Xu Liu, Xinyi Wang |
@@ -954,6 +988,8 @@ Most of the categorizing works are done by the LLM, so there may be missing titl
 <a name="18"/>
 
 ## 18. 🕵️ Forensics
+
+[⬆ Back to Top](#navigation)
 
 | Paper Title | Authors |
 |------------|--------|
@@ -1009,6 +1045,8 @@ Most of the categorizing works are done by the LLM, so there may be missing titl
 <a name="19"/>
 
 ## 19. 🏥 Medical Imaging
+
+[⬆ Back to Top](#navigation)
 
 | Paper Title | Authors |
 |------------|--------|
@@ -1128,6 +1166,8 @@ Most of the categorizing works are done by the LLM, so there may be missing titl
 
 ## 20. 👤 Face & Person Analysis
 
+[⬆ Back to Top](#navigation)
+
 | Paper Title | Authors |
 |------------|--------|
 | 🗎 DisFaceRep: Representation Disentanglement for Co-occurring Facial Components in Weakly Supervised Face Parsing | Xiaoqin Wang, Xianxu Hou, Meidan Ding, Junliang Chen, Kaijun Deng, Jinheng Xie, Linlin Shen |
@@ -1160,6 +1200,8 @@ Most of the categorizing works are done by the LLM, so there may be missing titl
 <a name="21"/>
 
 ## 21. 🔄 Transfer Learning
+
+[⬆ Back to Top](#navigation)
 
 | Paper Title | Authors |
 |------------|--------|
@@ -1200,6 +1242,8 @@ Most of the categorizing works are done by the LLM, so there may be missing titl
 <a name="22"/>
 
 ## 22. 🎨 Image & Video Generation
+
+[⬆ Back to Top](#navigation)
 
 | Paper Title | Authors |
 |------------|--------|
@@ -1329,6 +1373,8 @@ Most of the categorizing works are done by the LLM, so there may be missing titl
 
 ## 23. 🛰️ Remote Sensing
 
+[⬆ Back to Top](#navigation)
+
 | Paper Title | Authors |
 |------------|--------|
 | 🗎 Meta-Knowledge Path Augmentation for Multi-Hop Reasoning on Satellite Commonsense Multi-Modal Knowledge Graphs | Qian Li, Siyuan Liang, Yuzheng Zhang, Cheng Ji, Zongyu Chang, Shangguang Wang |
@@ -1352,6 +1398,8 @@ Most of the categorizing works are done by the LLM, so there may be missing titl
 <a name="24"/>
 
 ## 24. 📌 Miscellaneous
+
+[⬆ Back to Top](#navigation)
 
 | Paper Title | Authors |
 |------------|--------|
